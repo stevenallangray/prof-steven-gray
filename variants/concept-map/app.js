@@ -501,72 +501,46 @@
     }
   }
 
-  function makeSim(nodes, edges, W, H) {
-    const byId = new Map(nodes.map((n) => [n.id, n]));
-    const links = edges.map((e) => ({ s: byId.get(e.a), t: byId.get(e.b), w: e.w }));
-    nodes.forEach((n, i) => {            // deterministic golden-angle spiral start
-      const r = 0.12 + 0.34 * Math.sqrt((i + 0.5) / nodes.length), a = i * 2.39996;
-      n.x = W / 2 + Math.cos(a) * r * W; n.y = H / 2 + Math.sin(a) * r * H; n.vx = n.vy = 0;
+  /* Distribute research topics in a stable, responsive lattice.
+     Fixed slots prevent the dense publication co-occurrence graph from pulling
+     labels into a tangled central cluster; links remain data-driven and interactive. */
+  function distributeTopics(nodes, W) {
+    const columns = W >= 1080 ? 5 : W >= 800 ? 4 : W >= 560 ? 3 : W >= 360 ? 2 : 1;
+    const rows = Math.ceil(nodes.length / columns);
+    const cellWidth = W / columns;
+    const rowHeight = W >= 800 ? 158 : W >= 560 ? 146 : 132;
+    const H = rows * rowHeight + 36;
+    nodes.forEach((n, i) => {
+      const row = Math.floor(i / columns);
+      const col = i % columns;
+      // Alternate row direction to keep neighboring themes relatively close.
+      const orderedCol = row % 2 === 0 ? col : columns - 1 - col;
+      const rowItems = Math.min(columns, nodes.length - row * columns);
+      n.x = (orderedCol + 0.5) * cellWidth;
+      // Center incomplete rows instead of leaving an empty strip.
+      if (rowItems < columns) {
+        const actualCol = row % 2 === 0 ? col : rowItems - 1 - col;
+        n.x = W / 2 + (actualCol - (rowItems - 1) / 2) * cellWidth;
+      }
+      n.y = 18 + (row + 0.5) * rowHeight;
     });
-    let alpha = 1;
-    function step() {
-      for (let i = 0; i < nodes.length; i++) for (let j = i + 1; j < nodes.length; j++) {
-        const a = nodes[i], b = nodes[j];
-        let dx = b.x - a.x, dy = b.y - a.y; const d2 = dx * dx + dy * dy + 0.5, d = Math.sqrt(d2);
-        const f = (alpha * 13500) / d2; dx /= d; dy /= d;
-        a.vx -= dx * f; a.vy -= dy * f; b.vx += dx * f; b.vy += dy * f;
-      }
-      for (const l of links) {
-        const dx = l.t.x - l.s.x, dy = l.t.y - l.s.y, d = Math.sqrt(dx * dx + dy * dy) + 0.01;
-        const target = (l.s.w + l.t.w) / 2 + 54 + 60 / l.w;
-        const f = (d - target) * 0.012 * Math.min(l.w, 5);
-        l.s.vx += (dx / d) * f; l.s.vy += (dy / d) * f; l.t.vx -= (dx / d) * f; l.t.vy -= (dy / d) * f;
-      }
-      for (const n of nodes) {
-        n.vx += (W / 2 - n.x) * 0.0025; n.vy += (H / 2 - n.y) * 0.003;
-        n.vx *= 0.62; n.vy *= 0.62;
-        n.x += n.vx; n.y += n.vy;
-      }
-      for (let k = 0; k < 2; k++) for (let i = 0; i < nodes.length; i++) for (let j = i + 1; j < nodes.length; j++) {
-        const a = nodes[i], b = nodes[j];
-        const dx = b.x - a.x, dy = b.y - a.y;
-        const ox = (a.w + b.w) / 2 + 24 - Math.abs(dx), oy = (a.h + b.h) / 2 + 22 - Math.abs(dy);
-        if (ox > 0 && oy > 0) {
-          if (ox < oy) { const p = (ox / 2) * Math.sign(dx || 1); a.x -= p; b.x += p; }
-          else { const p = (oy / 2) * Math.sign(dy || 1); a.y -= p; b.y += p; }
-        }
-      }
-      for (const n of nodes) {
-        n.x = Math.min(W - n.w / 2 - 4, Math.max(n.w / 2 + 4, n.x));
-        n.y = Math.min(H - n.h / 2 - 4, Math.max(n.h / 2 + 4, n.y));
-      }
-      alpha = Math.max(0.04, alpha * 0.985);
-    }
-    return { step, links };
+    return H;
   }
 
   function startMap(host, data, ctx) {
-    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     const { nodes, edges } = mapModel(data);
     const status = $('#map-status');
-    let raf = 0, nodeEls = [], edgeEls = [], hover = null, links = [], lastW = 0;
+    let nodeEls = [], edgeEls = [], hover = null, links = [], lastW = 0;
 
-    function build(animate) {
-      cancelAnimationFrame(raf);
+    function build() {
       const W = Math.max(280, Math.round(host.clientWidth));
-      const simH = Math.round(W < 520 ? W * 1.45 : Math.min(Math.max(W * 0.76, 640), 850));
       lastW = W;
       measure(nodes, W);
-      const STEPS = 360;
-      const probe = makeSim(nodes, edges, W, simH);      // same seed + steps as the real run, so it ends in the same place
-      for (let i = 0; i < STEPS; i++) probe.step();
-      const top = Math.floor(Math.min(...nodes.map((n) => n.y - n.h / 2)) - 10);
-      const bottom = Math.ceil(Math.max(...nodes.map((n) => n.y + n.h / 2)) + 10);
-      const H = bottom - top;
-      const sim = makeSim(nodes, edges, W, simH);
-      links = sim.links;
+      const H = distributeTopics(nodes, W);
+      const byId = new Map(nodes.map(n => [n.id, n]));
+      links = edges.map(e => ({ s: byId.get(e.a), t: byId.get(e.b), w: e.w }));
 
-      const svg = s('svg', { class: 'map-svg', viewBox: `0 ${top} ${W} ${H}`, height: H, role: 'presentation' });
+      const svg = s('svg', { class: 'map-svg', viewBox: `0 0 ${W} ${H}`, height: H, role: 'presentation' });
       const gEdges = s('g'), gNodes = s('g');
       edgeEls = links.map((l) => { const el = s('line', { class: 'edge', 'stroke-width': (1 + l.w * 0.7).toFixed(1) }); gEdges.append(el); return { l, el }; });
       nodeEls = nodes.map((n) => {
@@ -585,15 +559,14 @@
       svg.append(gEdges, gNodes);
       host.replaceChildren(svg);
 
-      const draw = () => {
-        edgeEls.forEach(({ l, el }) => { el.setAttribute('x1', l.s.x.toFixed(1)); el.setAttribute('y1', l.s.y.toFixed(1)); el.setAttribute('x2', l.t.x.toFixed(1)); el.setAttribute('y2', l.t.y.toFixed(1)); });
-        nodeEls.forEach(({ n, g }) => g.setAttribute('transform', `translate(${(n.x - n.w / 2).toFixed(1)}, ${(n.y - n.h / 2).toFixed(1)})`));
-      };
-      if (animate && !reduce) {          // the page's one orchestrated moment: the map settles
-        let frames = 0; draw();
-        const tick = () => { for (let i = 0; i < STEPS / 90; i++) sim.step(); draw(); if (++frames < 90) raf = requestAnimationFrame(tick); };
-        raf = requestAnimationFrame(tick);
-      } else { for (let i = 0; i < STEPS; i++) sim.step(); draw(); }
+      edgeEls.forEach(({ l, el }) => {
+        el.setAttribute('x1', l.s.x.toFixed(1));
+        el.setAttribute('y1', l.s.y.toFixed(1));
+        el.setAttribute('x2', l.t.x.toFixed(1));
+        el.setAttribute('y2', l.t.y.toFixed(1));
+      });
+      nodeEls.forEach(({ n, g }) =>
+        g.setAttribute('transform', `translate(${(n.x - n.w / 2).toFixed(1)}, ${(n.y - n.h / 2).toFixed(1)})`));
       refresh();
     }
 
@@ -620,12 +593,12 @@
     }
     listeners.push(() => { refresh(); paintStatus(); });
 
-    const go = () => build(true);
+    const go = () => build();
     const ready = document.fonts && document.fonts.load
       ? Promise.race([document.fonts.load('600 13px "Familjen Grotesk"'), new Promise((r) => setTimeout(r, FONT_WAIT_MS))]) : Promise.resolve();
     ready.then(go);
     let t = 0;
-    new ResizeObserver(() => { clearTimeout(t); t = setTimeout(() => { if (Math.abs(host.clientWidth - lastW) > 8) build(false); }, 150); }).observe(host);
+    new ResizeObserver(() => { clearTimeout(t); t = setTimeout(() => { if (Math.abs(host.clientWidth - lastW) > 8) build(); }, 150); }).observe(host);
   }
 
   boot();
