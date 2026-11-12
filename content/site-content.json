@@ -60,7 +60,7 @@
     "body": [
       {
         "type": "paragraph",
-        "text": "We explore how diverse ways of knowing shape collective intelligence, environmental decisions, and sustainable futures. Our research brings together human perspectives, participatory and computational modeling, and artificial intelligence to better understand complex social–ecological systems."
+        "text": "How can groups of people who understand the world differently make better decisions together? We explore how diverse ways of knowing shape collective intelligence, environmental decisions, and sustainable futures. Our research brings together human perspectives, participatory and computational modeling, and artificial intelligence to better understand complex social–ecological systems."
       }
     ]
   },
@@ -149,10 +149,6 @@
           "caption": null
         },
         "bio": [
-          {
-            "type": "paragraph",
-            "text": "How can groups of people who understand the world differently make better decisions together?"
-          },
           {
             "type": "paragraph",
             "text": "I'm an environmental social scientist interested in how people understand complex environmental problems, how different kinds of knowledge come together, and how groups make decisions about the future. Much of my research explores collective intelligence, knowledge diversity, and systems thinking, particularly how we can draw on what people know, individually and collectively, to make better decisions about social and environmental change."
