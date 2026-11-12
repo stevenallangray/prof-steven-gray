@@ -175,7 +175,23 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Steven is an assistant professor in the Department of Community Sustainability at Michigan State University. Prior to this position he was an assistant professor at the University of Hawaii (UH) in the Department of Natural Resources and Lead of the Social Science Division at the Water Research Resource Center at UH. His research focuses on developing decision-support software to help communities, resource managers, and other decision-makers to understand, and to adapt to, the social impacts of climate and other environmental changes. Currently his lab is working on a participatory modeling software called [Mental Modeler](http://www.mentalmodeler.com), which he, his students, and colleagues are applying in a variety of environmental planning and research contexts including marine spatial planning in Ireland, coastal hazard planning in the Pacific Islands, conservation agricultural planning in Nepal and India, understanding the bushmeat trade dynamics for conservation planning in Tanzania, and modeling landowner decision-making in relation to wildfire risks the Northwest US."
+            "text": "How can groups of people who understand the world differently make better decisions together?"
+          },
+          {
+            "type": "paragraph",
+            "text": "I'm an environmental social scientist interested in how people understand complex environmental problems, how different kinds of knowledge come together, and how groups make decisions about the future. Much of my research explores collective intelligence, knowledge diversity, and systems thinking, particularly how we can draw on what people know, individually and collectively, to make better decisions about social and environmental change."
+          },
+          {
+            "type": "paragraph",
+            "text": "My work combines participatory research with computational modeling and often involves working directly with communities, scientists, and decision-makers. Over the years, I've worked on a wide range of environmental challenges, including fisheries management, biodiversity conservation, climate adaptation, coastal resilience, and sustainable food systems. I'm particularly interested in developing approaches that help us understand not only what people know, but also how differences in knowledge influence collective decisions and their outcomes."
+          },
+          {
+            "type": "paragraph",
+            "text": "I'm also the developer of [Mental Modeler](https://www.mentalmodeler.com), a freely available tool for mapping and analyzing how people understand complex systems. It's been rewarding to see the software adopted by researchers, educators, and practitioners across many disciplines."
+          },
+          {
+            "type": "paragraph",
+            "text": "I'm currently a Professor in the Department of Community Sustainability at Michigan State University and a Research Scientist at Johns Hopkins University's Whiting School of Engineering, where my work is funded through the National Institute of Standards and Technology (NIST). I've previously held academic and research appointments in Hawaii, Massachusetts, Copenhagen, and Berlin. Much of what I enjoy about academic research comes from collaborating with people across disciplines and places, and from finding new ways to connect scientific understanding with practical environmental decisions."
           }
         ],
         "links": [
