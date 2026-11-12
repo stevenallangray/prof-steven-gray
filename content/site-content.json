@@ -1,18 +1,17 @@
 {
   "schemaVersion": "1.0.0",
   "meta": {
-    "siteTitle": "Human-Environment Interactions Lab - UMass Boston",
+    "siteTitle": "Plural Intelligence Lab | Michigan State University",
     "labName": {
-      "full": "Human-Environment Interactions Lab",
+      "full": "Plural Intelligence Lab",
       "parts": [
-        "Human",
-        "Environment",
-        "Interactions",
+        "Plural",
+        "Intelligence",
         "Lab"
       ]
     },
     "institution": "Michigan State University",
-    "description": null,
+    "description": "Knowledge Diversity · Collective Intelligence · Sustainable Futures",
     "principalInvestigatorId": "steven-gray",
     "favicon": "favicon.ico",
     "lastUpdated": "2026-11-11"
@@ -61,30 +60,7 @@
     "body": [
       {
         "type": "paragraph",
-        "text": "Welcome to the Human-Environment Interactions Lab at Michigan State University!"
-      },
-      {
-        "type": "paragraph",
-        "text": "Our group is interested in understanding how human behavior relates to the sustainability of socio-ecological systems. Understanding the complexity of human-environment interactions requires significant collaboration between both scientists from other environmental fields (economists, mathematicians, sociologists, ecologists, agronomists, marine scientists) and the humans that are interacting with the environment (fishers, farmers, land-owners and the general public)."
-      },
-      {
-        "type": "images",
-        "images": [
-          {
-            "src": "img/img_1.jpg",
-            "alt": "human-environment interaction scenario 1",
-            "caption": null
-          },
-          {
-            "src": "img/img_4.jpg",
-            "alt": "human-environment interaction scenario 4",
-            "caption": null
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "text": "We think that it is this collaboration that makes environmental research interesting and will ultimately help us better understand the nature of current environmental problems and help us create more sustainable solutions for the future."
+        "text": "We explore how diverse ways of knowing shape collective intelligence, environmental decisions, and sustainable futures. Our research brings together human perspectives, participatory and computational modeling, and artificial intelligence to better understand complex social–ecological systems."
       }
     ]
   },
