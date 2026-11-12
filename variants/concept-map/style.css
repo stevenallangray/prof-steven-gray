@@ -154,8 +154,8 @@ button { cursor: pointer; }
   .hero-title { font-size: clamp(2.6rem, 5.2vw, 4.5rem); }
 }
 
-.edge { stroke: var(--water); fill: none; opacity: .3; transition: opacity .15s; }
-.edge.is-on { opacity: .95; }
+.edge { stroke: var(--water); fill: none; opacity: .12; transition: opacity .15s; }
+.edge.is-on { opacity: .9; }
 .edge.is-dim { opacity: .07; }
 .node { cursor: pointer; transition: opacity .15s; }
 .node rect { fill: var(--paper); stroke: var(--ink-soft); stroke-width: 1.5; transition: fill .15s, stroke .15s; }
