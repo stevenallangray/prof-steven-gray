@@ -501,34 +501,43 @@
     }
   }
 
-  /* Distribute research topics in a stable, responsive lattice.
-     Fixed slots prevent the dense publication co-occurrence graph from pulling
-     labels into a tangled central cluster; links remain data-driven and interactive. */
+  /* Organic topic placement, using deterministic best-candidate sampling.
+     Unlike the former row grid, this spreads labels through the whole canvas
+     without forcing them onto straight horizontal or vertical lines.
+     Rectangular collision checks keep readable gaps between topic labels. */
   function distributeTopics(nodes, W) {
-    const columns = W >= 1080 ? 5 : W >= 800 ? 4 : W >= 560 ? 3 : W >= 360 ? 2 : 1;
-    const rows = Math.ceil(nodes.length / columns);
-    const cellWidth = W / columns;
-    const rowHeight = W >= 800 ? 158 : W >= 560 ? 146 : 132;
-    const H = rows * rowHeight + 36;
-    nodes.forEach((n, i) => {
-      const row = Math.floor(i / columns);
-      const col = i % columns;
-      // Alternate row direction to keep neighboring themes relatively close.
-      const orderedCol = row % 2 === 0 ? col : columns - 1 - col;
-      const rowItems = Math.min(columns, nodes.length - row * columns);
-      n.x = (orderedCol + 0.5) * cellWidth;
-      // Center incomplete rows instead of leaving an empty strip.
-      if (rowItems < columns) {
-        const actualCol = row % 2 === 0 ? col : rowItems - 1 - col;
-        n.x = W / 2 + (actualCol - (rowItems - 1) / 2) * cellWidth;
+    const H = W >= 1080 ? 900 : W >= 800 ? 960 : W >= 560 ? 1150 : W >= 360 ? 1750 : 2600;
+    let seed = 79319;
+    const random = () => {
+      seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0;
+      return seed / 4294967296;
+    };
+    const placed = [];
+    // Place prominent topics first, but preserve node order for rendering.
+    const ordered = [...nodes].sort((a, b) => b.count - a.count || a.id.localeCompare(b.id));
+    for (const n of ordered) {
+      const marginX = n.w / 2 + 20, marginY = n.h / 2 + 24;
+      let best = null, bestScore = -Infinity;
+      for (let k = 0; k < 220; k++) {
+        const x = marginX + random() * Math.max(0, W - marginX * 2);
+        const y = marginY + random() * Math.max(0, H - marginY * 2);
+        let minGap = Math.min(x - marginX, W - marginX - x, y - marginY, H - marginY - y) * 0.32;
+        let overlaps = 0;
+        for (const p of placed) {
+          const dx = Math.abs(x - p.x) - (n.w + p.w) / 2 - 32;
+          const dy = Math.abs(y - p.y) - (n.h + p.h) / 2 - 38;
+          if (dx < 0 && dy < 0) overlaps += Math.min(-dx, -dy) + 1000;
+          const gap = Math.hypot(Math.max(0, dx), Math.max(0, dy));
+          minGap = Math.min(minGap, gap);
+        }
+        // Gentle randomness stops max-spacing selection from looking like a lattice.
+        const score = minGap + random() * 35 - overlaps;
+        if (score > bestScore) { bestScore = score; best = { x, y }; }
       }
-      // Irregular but stable placement: avoids rigid-looking horizontal rows.
-      // Positions remain inside generous cells, so labels stay readable.
-      n.x += Math.sin(i * 2.31 + 0.7) * Math.min(17, cellWidth * 0.07);
-      n.y = 18 + (row + 0.5) * rowHeight + Math.sin(i * 1.83 + 0.9) * 24;
-      n.baseX = n.x;
-      n.baseY = n.y;
-    });
+      n.x = n.baseX = best.x;
+      n.y = n.baseY = best.y;
+      placed.push(n);
+    }
     return H;
   }
 
