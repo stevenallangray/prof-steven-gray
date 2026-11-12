@@ -629,7 +629,8 @@
             "pdf",
             "website",
             "news",
-            "other"
+            "other",
+            "doi"
           ],
           "description": "Hint for icon choice."
         }
@@ -720,7 +721,10 @@
           "description": "Author as printed in the citation, e.g. 'Gray, S.' or 'S. Gray'. Keep source wording."
         },
         "family": {
-          "type": "string",
+          "type": [
+            "string",
+            "null"
+          ],
           "minLength": 1,
           "description": "Family name, for sorting/filtering."
         },
@@ -775,7 +779,10 @@
           "description": "Must match an id in publications.types."
         },
         "year": {
-          "type": "integer",
+          "type": [
+            "integer",
+            "null"
+          ],
           "minimum": 1950,
           "maximum": 2100,
           "description": "Publication year (or expected year for in-press items)."
@@ -790,7 +797,9 @@
         "status": {
           "enum": [
             "published",
-            "in-press"
+            "in-press",
+            "under-review",
+            "in-revision"
           ],
           "description": "'in-press' for items marked '(in press)' on the source."
         },
@@ -854,6 +863,12 @@
                     "null"
                   ],
                   "description": "Page range or article number as printed."
+                },
+                "articleNumber": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
                 }
               }
             }
