@@ -629,8 +629,7 @@
             "pdf",
             "website",
             "news",
-            "other",
-            "doi"
+            "other"
           ],
           "description": "Hint for icon choice."
         }
@@ -863,12 +862,6 @@
                     "null"
                   ],
                   "description": "Page range or article number as printed."
-                },
-                "articleNumber": {
-                  "type": [
-                    "string",
-                    "null"
-                  ]
                 }
               }
             }
