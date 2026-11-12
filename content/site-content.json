@@ -705,30 +705,83 @@
       {
         "id": "gray-cv-2026-017",
         "type": "journal-article",
-        "year": null,
-        "status": "in-press",
+        "year": 2025,
+        "status": "published",
         "peerReviewed": true,
         "authors": [
           {
-            "display": "Zareei, M., S.A. Gray, R. Sadler, L. Schmitt-Olabisi, C. Knox and J. Helgeson",
-            "family": null,
-            "given": null,
+            "display": "Zareei, M.",
+            "family": "Zareei",
+            "given": "M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Knox, C.",
+            "family": "Knox",
+            "given": "C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Helgeson, J.",
+            "family": "Helgeson",
+            "given": "J.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S. A.",
+            "family": "Gray",
+            "given": "S. A.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Sadler, R. C.",
+            "family": "Sadler",
+            "given": "R. C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Schmitt Olabisi, L.",
+            "family": "Schmitt Olabisi",
+            "given": "L.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Wentworth, C.",
+            "family": "Wentworth",
+            "given": "C.",
             "role": null,
             "personId": null
           }
         ],
-        "title": "Community-informed decisions for equitable, cost-effective, and inclusive disaster resilience planning (Co-DECIDR): A modeling approach",
-        "venue": null,
+        "title": "Community-informed Decisions for Equitable, Cost-effective, and Inclusive Disaster Resilience Planning (Co-DECIDR): A modeling approach",
+        "venue": {
+          "name": "Socio-Environmental Systems Modelling",
+          "volume": "7",
+          "issue": null,
+          "pages": "18759"
+        },
         "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Zareei, M., S.A. Gray, R. Sadler, L. Schmitt-Olabisi, C. Knox and J. Helgeson. (in press) Community-informed decisions for equitable, cost-effective, and inclusive disaster resilience planning (Co-DECIDR): A modeling approach. Socio-Environmental Systems Modeling. 7, 18759-18759.",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.18174/sesmo.18759",
+            "kind": "article"
+          }
+        ],
+        "note": null,
         "tags": [
           "participatory-modeling",
-          "systems-thinking",
+          "fuzzy-cognitive-mapping",
           "climate-adaptation",
-          "governance-policy",
-          "risk-perception"
-        ]
+          "governance-policy"
+        ],
+        "doi": "10.18174/sesmo.18759"
       },
       {
         "id": "gray-cv-2026-002",
@@ -797,7 +850,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.3389/feduc.2026.1591268",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "Publisher-classified perspective article; verified against Frontiers in Education, published 25 March 2026.",
@@ -821,13 +874,25 @@
           }
         ],
         "title": "Research priorities for robust climate assessments in the United States",
-        "venue": null,
+        "venue": {
+          "name": "Earth’s Future",
+          "volume": "14",
+          "issue": "9",
+          "pages": "e2025EF007336"
+        },
         "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Kenney, M. A., (plus 174 co-authors, formally of the US National Climate Assessment 6). (2026). Research priorities for robust climate assessments in the United States. Earth’s Future, 14.",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1029/2025EF007336",
+            "kind": "article"
+          }
+        ],
+        "note": "Large multi-author collaboration; full author metadata needs verification.",
         "tags": [
           "climate-adaptation"
-        ]
+        ],
+        "doi": "10.1029/2025EF007336"
       },
       {
         "id": "gray-cv-2026-011",
@@ -938,15 +1003,14 @@
           "name": "Neural Computing and Applications",
           "volume": "38",
           "issue": null,
-          "pages": null,
-          "articleNumber": "86"
+          "pages": "86"
         },
         "publisher": null,
         "links": [
           {
             "label": "DOI",
             "url": "https://doi.org/10.1007/s00521-025-11699-0",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": null,
@@ -962,37 +1026,21 @@
         "peerReviewed": false,
         "authors": [
           {
-            "display": "Brugnone, N.",
-            "family": "Brugnone",
-            "given": "N.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Gray, S.",
-            "family": "Gray",
-            "given": "S.",
-            "role": null,
-            "personId": "steven-gray"
-          },
-          {
-            "display": "Helgeson, J.",
-            "family": "Helgeson",
-            "given": "J.",
+            "display": "Brugnone, N., S. Gray, and J. Helgeson",
+            "family": null,
+            "given": null,
             "role": null,
             "personId": null
           }
         ],
         "title": "Barriers to the adoption of building codes: Evidence from a Fuzzy Cognitive Map analysis of Federal Register public comments",
         "venue": null,
-        "publisher": "National Institute of Standards and Technology",
+        "publisher": null,
         "links": [],
-        "note": "Technical report listed in Steven Gray’s November 2026 CV; public NIST report identifier, final release status, and DOI have not been independently verified. Retained at author request.",
+        "note": "CV citation (CV-derived; bibliographic verification pending): Brugnone, N., S. Gray, and J. Helgeson (2026) Barriers to the adoption of building codes: Evidence from a Fuzzy Cognitive Map analysis of Federal Register public comments. Tech Report from the National Institute of Standards and Technology",
         "tags": [
-          "fuzzy-cognitive-mapping",
-          "governance-policy",
-          "manufacturing-risk",
           "participatory-modeling",
+          "manufacturing-risk",
           "risk-perception"
         ]
       },
@@ -1004,24 +1052,43 @@
         "peerReviewed": true,
         "authors": [
           {
-            "display": "Sehati, A. and S. Gray",
-            "family": null,
-            "given": null,
+            "display": "Sehati, A.",
+            "family": "Sehati",
+            "given": "A.",
             "role": null,
             "personId": null
+          },
+          {
+            "display": "Gray, S. A.",
+            "family": "Gray",
+            "given": "S. A.",
+            "role": null,
+            "personId": "steven-gray"
           }
         ],
         "title": "Augmenting process failure mode and effects analysis with Fuzzy Cognitive Mapping for dynamic manufacturing risk assessment",
-        "venue": null,
+        "venue": {
+          "name": "Systems",
+          "volume": "14",
+          "issue": "10",
+          "pages": "1310"
+        },
         "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Sehati, A. and S. Gray (2026) Augmenting process failure mode and effects analysis with Fuzzy Cognitive Mapping for dynamic manufacturing risk assessment. Systems 14 (10), 1310.",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.3390/systems14101310",
+            "kind": "article"
+          }
+        ],
+        "note": null,
         "tags": [
-          "participatory-modeling",
-          "climate-adaptation",
+          "fuzzy-cognitive-mapping",
           "manufacturing-risk",
-          "risk-perception"
-        ]
+          "risk-perception",
+          "systems-thinking"
+        ],
+        "doi": "10.3390/systems14101310"
       },
       {
         "id": "gray-cv-2026-014",
@@ -1150,7 +1217,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1007/s42001-024-00273-8",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": null,
@@ -1291,28 +1358,49 @@
         "peerReviewed": true,
         "authors": [
           {
-            "display": "Jordan, R.C., S. Gray, A. Boyse-Peacor, A. Sorensen, C. Frantz, J. Jaurenig, P. Brehm, M. Rumi Shammin, and J. Petersen. Promoting systems thinking through perspective taking when using an online modeling tool. Frontiers in Education. Lalani, B., S. Gray, and T. Mitra-Ganguli",
-            "family": null,
-            "given": null,
+            "display": "Lalani, B.",
+            "family": "Lalani",
+            "given": "B.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S.",
+            "family": "Gray",
+            "given": "S.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Mitra-Ganguli, T.",
+            "family": "Mitra-Ganguli",
+            "given": "T.",
             "role": null,
             "personId": null
           }
         ],
-        "title": "Systems thinking in an era of climate change: Does cognitive neuroscience hold the key to improving environmental decision making?",
-        "venue": null,
+        "title": "Systems Thinking in an era of climate change: Does cognitive neuroscience hold the key to improving environmental decision making? A perspective on Climate-Smart Agriculture",
+        "venue": {
+          "name": "Frontiers in Integrative Neuroscience",
+          "volume": "17",
+          "issue": null,
+          "pages": "1145744"
+        },
         "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Jordan, R.C., S. Gray, A. Boyse-Peacor, A. Sorensen, C. Frantz, J. Jaurenig, P. Brehm, M. Rumi Shammin, and J. Petersen. Promoting systems thinking through perspective taking when using an online modeling tool. Frontiers in Education. Lalani, B., S. Gray, and T. Mitra-Ganguli (2023). Systems thinking in an era of climate change: Does cognitive neuroscience hold the key to improving environmental decision making? A perspective on Climate-Smart Agriculture. Frontiers in Integrative Neuroscience 17, 1145744.",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.3389/fnint.2023.1145744",
+            "kind": "article"
+          }
+        ],
+        "note": null,
         "tags": [
-          "participatory-modeling",
           "systems-thinking",
-          "education-learning",
           "climate-adaptation",
-          "food-systems",
-          "agriculture",
-          "governance-policy",
-          "risk-perception"
-        ]
+          "agriculture"
+        ],
+        "doi": "10.3389/fnint.2023.1145744"
       },
       {
         "id": "gray-cv-2026-021",
@@ -1677,7 +1765,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1111/csp2.396",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "Verified against Wiley publisher record; first published online 13 March 2021. Article type: Letters and Comments.",
@@ -2018,26 +2106,127 @@
       {
         "id": "gray-cv-2026-107",
         "type": "book-chapter",
+        "year": 2021,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Kininmonth, S.",
+            "family": "Kininmonth",
+            "given": "S.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S.",
+            "family": "Gray",
+            "given": "S.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Kok, K.",
+            "family": "Kok",
+            "given": "K.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Expert modelling",
+        "venue": {
+          "name": "The Routledge Handbook of Research Methods for Social-Ecological Systems",
+          "volume": null,
+          "issue": null,
+          "pages": "231–240"
+        },
+        "editors": [
+          "R. Biggs",
+          "A. de Vos",
+          "R. Preiser",
+          "H. Clements",
+          "K. Maciejewski",
+          "M. Schlüter"
+        ],
+        "publisher": "Routledge / Taylor & Francis",
+        "doi": "10.4324/9781003021339-20",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.4324/9781003021339-20",
+            "kind": "article"
+          }
+        ],
+        "note": "Verified from Wageningen University publication record; corrects the CV draft title, year and page range.",
+        "tags": [
+          "fuzzy-cognitive-mapping",
+          "mental-models",
+          "systems-thinking",
+          "participatory-modeling"
+        ]
+      },
+      {
+        "id": "metzger-2020-typologies-tradeoffs-fcm",
+        "type": "book-chapter",
         "year": 2020,
         "status": "published",
         "peerReviewed": true,
         "authors": [
           {
-            "display": "Kininmonth, S., S. Gray, and K. Kok. Expert-based Modeling. A Guide to Navigating Methods for Studying Social-Ecological Systems. Eds: Biggs, R., A. de Vos, R Prieser, M. Schluter, H. Clements, and K. Maciejewski. 231-334. Metzger, A., S. Gray, A. Jetter, and E. Papageorgiou. Typologies and Tradeoffs: A standardized approach to creating participatory Fuzzy Cognitive Maps In",
-            "family": null,
-            "given": null,
+            "display": "Metzger, A. E.",
+            "family": "Metzger",
+            "given": "A. E.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S. A.",
+            "family": "Gray",
+            "given": "S. A.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Papageorgiou, E. I.",
+            "family": "Papageorgiou",
+            "given": "E. I.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Jetter, A. J.",
+            "family": "Jetter",
+            "given": "A. J.",
             "role": null,
             "personId": null
           }
         ],
-        "title": "Innovations in Collaborative Modeling, Eds: McNall, M. and L",
-        "venue": null,
-        "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Kininmonth, S., S. Gray, and K. Kok. Expert-based Modeling. A Guide to Navigating Methods for Studying Social-Ecological Systems. Eds: Biggs, R., A. de Vos, R Prieser, M. Schluter, H. Clements, and K. Maciejewski. 231-334. Metzger, A., S. Gray, A. Jetter, and E. Papageorgiou. Typologies and Tradeoffs: A standardized approach to creating participatory Fuzzy Cognitive Maps In. (2020) Innovations in Collaborative Modeling, Eds: McNall, M. and L. Schmitt-Olabisi, Michigan State University Press.",
+        "title": "Typologies and Trade-offs in FCM Studies: A Guide to Designing Participatory Research Using Fuzzy Cognitive Maps",
+        "venue": {
+          "name": "Innovations in Collaborative Modeling",
+          "volume": null,
+          "issue": null,
+          "pages": "47–78"
+        },
+        "editors": [
+          "L. Schmitt-Olabisi",
+          "M. McNall",
+          "W. Porter",
+          "J. Zhao"
+        ],
+        "publisher": "Michigan State University Press",
+        "doi": "10.14321/j.ctvz9396g.9",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.14321/j.ctvz9396g.9",
+            "kind": "article"
+          }
+        ],
+        "note": "Title and author order confirmed by Michigan State University Press; chapter pages and DOI corroborated by author listing.",
         "tags": [
-          "collective-intelligence",
+          "fuzzy-cognitive-mapping",
           "participatory-modeling",
+          "mental-models",
           "systems-thinking"
         ]
       },
@@ -2677,11 +2866,18 @@
           "pages": "46–61"
         },
         "publisher": null,
-        "links": [],
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1002/eap.1627",
+            "kind": "article"
+          }
+        ],
         "note": null,
         "tags": [
           "participatory-modeling"
-        ]
+        ],
+        "doi": "10.1002/eap.1627"
       },
       {
         "id": "gray-cv-2026-052",
@@ -2718,30 +2914,6 @@
           "systems-thinking"
         ],
         "doi": "10.1038/s41893-018-0121-1"
-      },
-      {
-        "id": "gray-cv-2026-053",
-        "type": "journal-article",
-        "year": 2018,
-        "status": "published",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Gray, S., A. Voinov, M. Paolisso, R.C. Jordan, T. BenDor, P. Glynn, B. Hedelin, K. Hubacek J. Introne, 1N. Kolagani, B. Laursen, C. Prell, L. Schmitt-Olabisi, A. Singer, E. Sterling, and M. Zellner. Purpose, Processes, Partnerships, and Products: 4Ps to advance participatory socio-environmental modeling",
-            "family": null,
-            "given": null,
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Ecological Applications. 28(1). 46-61",
-        "venue": null,
-        "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Gray, S., A. Voinov, M. Paolisso, R.C. Jordan, T. BenDor, P. Glynn, B. Hedelin, K. Hubacek J. Introne, 1N. Kolagani, B. Laursen, C. Prell, L. Schmitt-Olabisi, A. Singer, E. Sterling, and M. Zellner. Purpose, Processes, Partnerships, and Products: 4Ps to advance participatory socio-environmental modeling. (2018) Ecological Applications. 28(1). 46-61.",
-        "tags": [
-          "participatory-modeling"
-        ]
       },
       {
         "id": "gray-cv-2026-057",
@@ -2837,7 +3009,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1016/j.chb.2018.04.004",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": null,
@@ -2925,7 +3097,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1080/1533015X.2018.1431162",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "Published online in February 2018; final journal issue dated 2019.",
@@ -4258,7 +4430,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1111/fme.12174",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": null,
@@ -4563,7 +4735,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.5751/ES-07396-200211",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "CV citation: ",
@@ -4926,7 +5098,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1111/cobi.12316",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": null,
@@ -5437,7 +5609,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1016/j.ecolecon.2014.02.010",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": null,
@@ -5532,7 +5704,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1016/j.ocecoaman.2013.11.008",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "CV citation: ",
@@ -5717,7 +5889,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1890/13.WB.013",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "CV citation: ",
@@ -6057,7 +6229,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1109/OCEANS.2012.6404954",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "2012 MTS/IEEE Hampton Roads conference proceedings, Article 6404954. Accepted through conference technical-program selection, including review of submitted abstracts for technical merit; independent full-manuscript peer review was not separately verified.",
@@ -6108,7 +6280,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1007/s00267-011-9800-7",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "CV citation: ",
@@ -6347,7 +6519,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.7591/cornell/9780801449116.003.0012",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "Chapter 11. Bibliographic metadata verified against Cornell Scholarship Online / Oxford Academic. Scholarly edited-book chapter; chapter-specific external peer-review process not established.",
@@ -6574,7 +6746,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.1111/j.1365-2400.2010.00749.x",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "Publisher-verified journal citation (2010). Distinct from related 2009 technical-report chapter.",
@@ -6667,7 +6839,7 @@
           {
             "label": "DOI",
             "url": "https://doi.org/10.22318/icls2010.1.834",
-            "kind": "doi"
+            "kind": "article"
           }
         ],
         "note": "CV citation: ",
@@ -6914,6 +7086,175 @@
           "education-learning",
           "mental-models",
           "systems-thinking"
+        ]
+      },
+      {
+        "id": "von-hagen-2025-elephant",
+        "type": "journal-article",
+        "year": 2025,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Von Hagen, L.",
+            "family": "Von Hagen",
+            "given": "L.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S. A.",
+            "family": "Gray",
+            "given": "S. A.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Schulte, B.",
+            "family": "Schulte",
+            "given": "B.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Githiru, M.",
+            "family": "Githiru",
+            "given": "M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Kiute, H.",
+            "family": "Kiute",
+            "given": "H.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Lepczyk, C. A.",
+            "family": "Lepczyk",
+            "given": "C. A.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Participatory modelling across Kenyan villages facilitates insights into the complexity of human–elephant interactions",
+        "venue": {
+          "name": "Oryx",
+          "volume": "59",
+          "issue": "1",
+          "pages": "40–49"
+        },
+        "publisher": null,
+        "doi": "10.1017/S0030605324000449",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1017/S0030605324000449",
+            "kind": "article"
+          }
+        ],
+        "note": null,
+        "tags": [
+          "participatory-modeling",
+          "mental-models",
+          "conservation-wildlife",
+          "systems-thinking"
+        ]
+      },
+      {
+        "id": "jordan-2023-perspective-taking",
+        "type": "journal-article",
+        "year": 2023,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Jordan, R. C.",
+            "family": "Jordan",
+            "given": "R. C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S.",
+            "family": "Gray",
+            "given": "S.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Boyse-Peacor, A.",
+            "family": "Boyse-Peacor",
+            "given": "A.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Sorensen, A. E.",
+            "family": "Sorensen",
+            "given": "A. E.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Frantz, C. M.",
+            "family": "Frantz",
+            "given": "C. M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Jauernig, J.",
+            "family": "Jauernig",
+            "given": "J.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Brehm, P.",
+            "family": "Brehm",
+            "given": "P.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Shammin, M. R.",
+            "family": "Shammin",
+            "given": "M. R.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Petersen, J.",
+            "family": "Petersen",
+            "given": "J.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Promoting systems thinking through perspective taking when using an online modeling tool",
+        "venue": {
+          "name": "Frontiers in Education",
+          "volume": "8",
+          "issue": null,
+          "pages": "1215436"
+        },
+        "publisher": null,
+        "doi": "10.3389/feduc.2023.1215436",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.3389/feduc.2023.1215436",
+            "kind": "article"
+          }
+        ],
+        "note": null,
+        "tags": [
+          "systems-thinking",
+          "education-learning",
+          "mental-models",
+          "participatory-modeling"
         ]
       }
     ]
