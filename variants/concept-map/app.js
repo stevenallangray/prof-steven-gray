@@ -522,7 +522,12 @@
         const actualCol = row % 2 === 0 ? col : rowItems - 1 - col;
         n.x = W / 2 + (actualCol - (rowItems - 1) / 2) * cellWidth;
       }
-      n.y = 18 + (row + 0.5) * rowHeight;
+      // Irregular but stable placement: avoids rigid-looking horizontal rows.
+      // Positions remain inside generous cells, so labels stay readable.
+      n.x += Math.sin(i * 2.31 + 0.7) * Math.min(17, cellWidth * 0.07);
+      n.y = 18 + (row + 0.5) * rowHeight + Math.sin(i * 1.83 + 0.9) * 24;
+      n.baseX = n.x;
+      n.baseY = n.y;
     });
     return H;
   }
@@ -530,9 +535,12 @@
   function startMap(host, data, ctx) {
     const { nodes, edges } = mapModel(data);
     const status = $('#map-status');
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
     let nodeEls = [], edgeEls = [], hover = null, links = [], lastW = 0;
+    let animationId = 0, mapVisible = true;
 
     function build() {
+      cancelAnimationFrame(animationId);
       const W = Math.max(280, Math.round(host.clientWidth));
       lastW = W;
       measure(nodes, W);
@@ -559,14 +567,36 @@
       svg.append(gEdges, gNodes);
       host.replaceChildren(svg);
 
-      edgeEls.forEach(({ l, el }) => {
-        el.setAttribute('x1', l.s.x.toFixed(1));
-        el.setAttribute('y1', l.s.y.toFixed(1));
-        el.setAttribute('x2', l.t.x.toFixed(1));
-        el.setAttribute('y2', l.t.y.toFixed(1));
-      });
-      nodeEls.forEach(({ n, g }) =>
-        g.setAttribute('transform', `translate(${(n.x - n.w / 2).toFixed(1)}, ${(n.y - n.h / 2).toFixed(1)})`));
+      const draw = (elapsedSeconds) => {
+        const active = !reducedMotion.matches && !hover;
+        nodes.forEach((n, i) => {
+          // A slow 12–20-second drift, deliberately smaller than label spacing.
+          const phase = i * 2.39996;
+          n.x = n.baseX + (active ? 7 * Math.sin(elapsedSeconds * (0.34 + (i % 4) * 0.055) + phase) : 0);
+          n.y = n.baseY + (active ? 6 * Math.cos(elapsedSeconds * (0.27 + (i % 3) * 0.045) + phase) : 0);
+        });
+        edgeEls.forEach(({ l, el }) => {
+          el.setAttribute('x1', l.s.x.toFixed(1));
+          el.setAttribute('y1', l.s.y.toFixed(1));
+          el.setAttribute('x2', l.t.x.toFixed(1));
+          el.setAttribute('y2', l.t.y.toFixed(1));
+        });
+        nodeEls.forEach(({ n, g }) =>
+          g.setAttribute('transform', `translate(${(n.x - n.w / 2).toFixed(1)}, ${(n.y - n.h / 2).toFixed(1)})`));
+      };
+      draw(0);
+      if (!reducedMotion.matches) {
+        let lastFrame = -Infinity;
+        const tick = (time) => {
+          if (!mapVisible) return;
+          if (time - lastFrame >= 33) {
+            draw(time / 1000);
+            lastFrame = time;
+          }
+          animationId = requestAnimationFrame(tick);
+        };
+        animationId = requestAnimationFrame(tick);
+      }
       refresh();
     }
 
@@ -594,6 +624,13 @@
     listeners.push(() => { refresh(); paintStatus(); });
 
     const go = () => build();
+    new IntersectionObserver(([entry]) => {
+      const wasVisible = mapVisible;
+      mapVisible = entry.isIntersecting;
+      if (mapVisible && !wasVisible) build();
+      else if (!mapVisible) cancelAnimationFrame(animationId);
+    }, { rootMargin: '160px' }).observe(host);
+    reducedMotion.addEventListener?.('change', build);
     const ready = document.fonts && document.fonts.load
       ? Promise.race([document.fonts.load('600 13px "Familjen Grotesk"'), new Promise((r) => setTimeout(r, FONT_WAIT_MS))]) : Promise.resolve();
     ready.then(go);
