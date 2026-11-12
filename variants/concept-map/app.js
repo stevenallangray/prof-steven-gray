@@ -216,12 +216,12 @@
   /* ---------- home ---------- */
   function renderHome(data, sec) {
     const [lede, ...rest] = data.home.body;
-    const showNews = sec.includes.includes('news') && data.news.visible && data.news.items.length;
+    const showNews = false;
 
     const hero = h('div', { class: 'wrap hero' },
       h('div', { class: 'hero-grid' },
         h('div', { class: 'hero-copy' },
-          h('h1', { class: 'hero-title' }, data.meta.labName.full),
+          h('h1', { class: 'hero-title' }, h('img', { class: 'hero-logo', src: assetUrl('img/plural-intelligence-logo.png'), alt: 'Plural Intelligence Lab — Knowledge Diversity, Collective Intelligence, Sustainable Futures' })),
           lede && lede.type === 'paragraph' && h('p', { class: 'hero-lede' }, inline(lede.text)),
           h('p', { class: 'hero-place' }, data.meta.institution)),
         h('div', { class: 'map-wrap' },
@@ -229,11 +229,7 @@
           h('p', { class: 'map-caption' }, 'Each box is a research topic from the publications below. Larger boxes have more papers, and a line joins topics that share papers. Select a topic to filter the list.'),
           h('p', { class: 'map-status', id: 'map-status', 'aria-live': 'polite' }))));
 
-    const body = h('div', { class: 'wrap home-body' + (showNews ? ' has-news' : '') },
-      h('div', { class: 'prose' }, blocks(rest)),
-      showNews && h('aside', { 'aria-labelledby': 'news-heading' },
-        h('h2', { class: 'news-heading', id: 'news-heading' }, data.news.heading),
-        h('ul', { class: 'news-list' }, data.news.items.map((n) => h('li', null, inline(n.text))))));
+    const body = null;
 
     return h('section', { class: 'section hero-section', id: 'home', style: 'padding-block:0' }, hero, body, h('div', { style: 'height:clamp(56px,9vw,104px)' }));
   }
@@ -517,24 +513,24 @@
       for (let i = 0; i < nodes.length; i++) for (let j = i + 1; j < nodes.length; j++) {
         const a = nodes[i], b = nodes[j];
         let dx = b.x - a.x, dy = b.y - a.y; const d2 = dx * dx + dy * dy + 0.5, d = Math.sqrt(d2);
-        const f = (alpha * 7600) / d2; dx /= d; dy /= d;
+        const f = (alpha * 13500) / d2; dx /= d; dy /= d;
         a.vx -= dx * f; a.vy -= dy * f; b.vx += dx * f; b.vy += dy * f;
       }
       for (const l of links) {
         const dx = l.t.x - l.s.x, dy = l.t.y - l.s.y, d = Math.sqrt(dx * dx + dy * dy) + 0.01;
-        const target = (l.s.w + l.t.w) / 2 + 26 + 36 / l.w;
+        const target = (l.s.w + l.t.w) / 2 + 54 + 60 / l.w;
         const f = (d - target) * 0.012 * Math.min(l.w, 5);
         l.s.vx += (dx / d) * f; l.s.vy += (dy / d) * f; l.t.vx -= (dx / d) * f; l.t.vy -= (dy / d) * f;
       }
       for (const n of nodes) {
-        n.vx += (W / 2 - n.x) * 0.006; n.vy += (H / 2 - n.y) * 0.008;
+        n.vx += (W / 2 - n.x) * 0.0025; n.vy += (H / 2 - n.y) * 0.003;
         n.vx *= 0.62; n.vy *= 0.62;
         n.x += n.vx; n.y += n.vy;
       }
       for (let k = 0; k < 2; k++) for (let i = 0; i < nodes.length; i++) for (let j = i + 1; j < nodes.length; j++) {
         const a = nodes[i], b = nodes[j];
         const dx = b.x - a.x, dy = b.y - a.y;
-        const ox = (a.w + b.w) / 2 + 16 - Math.abs(dx), oy = (a.h + b.h) / 2 + 14 - Math.abs(dy);
+        const ox = (a.w + b.w) / 2 + 24 - Math.abs(dx), oy = (a.h + b.h) / 2 + 22 - Math.abs(dy);
         if (ox > 0 && oy > 0) {
           if (ox < oy) { const p = (ox / 2) * Math.sign(dx || 1); a.x -= p; b.x += p; }
           else { const p = (oy / 2) * Math.sign(dy || 1); a.y -= p; b.y += p; }
@@ -558,7 +554,7 @@
     function build(animate) {
       cancelAnimationFrame(raf);
       const W = Math.max(280, Math.round(host.clientWidth));
-      const simH = Math.round(W < 520 ? W * 1.3 : Math.min(W * 0.92, 580));
+      const simH = Math.round(W < 520 ? W * 1.45 : Math.min(Math.max(W * 0.76, 640), 850));
       lastW = W;
       measure(nodes, W);
       const STEPS = 360;
