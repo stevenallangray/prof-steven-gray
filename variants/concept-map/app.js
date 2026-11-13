@@ -506,7 +506,7 @@
      without forcing them onto straight horizontal or vertical lines.
      Rectangular collision checks keep readable gaps between topic labels. */
   function distributeTopics(nodes, W) {
-    const H = W >= 1080 ? 900 : W >= 800 ? 960 : W >= 560 ? 1150 : W >= 360 ? 1750 : 2600;
+    const H = W >= 1080 ? 700 : W >= 800 ? 750 : W >= 560 ? 900 : W >= 360 ? 1400 : 2050;
     let seed = 79319;
     const random = () => {
       seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0;
@@ -516,7 +516,7 @@
     // Place prominent topics first, but preserve node order for rendering.
     const ordered = [...nodes].sort((a, b) => b.count - a.count || a.id.localeCompare(b.id));
     for (const n of ordered) {
-      const marginX = n.w / 2 + 20, marginY = n.h / 2 + 24;
+      const marginX = n.w / 2 + 24, marginY = n.h / 2 + 28;
       let best = null, bestScore = -Infinity;
       for (let k = 0; k < 220; k++) {
         const x = marginX + random() * Math.max(0, W - marginX * 2);
@@ -579,10 +579,14 @@
       const draw = (elapsedSeconds) => {
         const active = !reducedMotion.matches && !hover;
         nodes.forEach((n, i) => {
-          // A slow 12–20-second drift, deliberately smaller than label spacing.
+          // Individual movement amplitudes differ by roughly +/-25%.
+          // Drift speed is 15% quicker than before; motion remains small
+          // relative to the padded separation between boxes.
           const phase = i * 2.39996;
-          n.x = n.baseX + (active ? 7 * Math.sin(elapsedSeconds * (0.34 + (i % 4) * 0.055) + phase) : 0);
-          n.y = n.baseY + (active ? 6 * Math.cos(elapsedSeconds * (0.27 + (i % 3) * 0.045) + phase) : 0);
+          const amplitudeX = 7 * (0.75 + (i % 5) * 0.125);
+          const amplitudeY = 6 * (0.75 + ((i * 3) % 5) * 0.125);
+          n.x = n.baseX + (active ? amplitudeX * Math.sin(elapsedSeconds * 1.15 * (0.34 + (i % 4) * 0.055) + phase) : 0);
+          n.y = n.baseY + (active ? amplitudeY * Math.cos(elapsedSeconds * 1.15 * (0.27 + (i % 3) * 0.045) + phase) : 0);
         });
         edgeEls.forEach(({ l, el }) => {
           el.setAttribute('x1', l.s.x.toFixed(1));
