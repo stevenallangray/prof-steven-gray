@@ -802,87 +802,6 @@
         ]
       },
       {
-        "id": "gray-cv-2026-017",
-        "type": "journal-article",
-        "year": 2025,
-        "status": "published",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Zareei, M.",
-            "family": "Zareei",
-            "given": "M.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Knox, C.",
-            "family": "Knox",
-            "given": "C.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Helgeson, J.",
-            "family": "Helgeson",
-            "given": "J.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Gray, S. A.",
-            "family": "Gray",
-            "given": "S. A.",
-            "role": null,
-            "personId": "steven-gray"
-          },
-          {
-            "display": "Sadler, R. C.",
-            "family": "Sadler",
-            "given": "R. C.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Schmitt Olabisi, L.",
-            "family": "Schmitt Olabisi",
-            "given": "L.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Wentworth, C.",
-            "family": "Wentworth",
-            "given": "C.",
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Community-informed Decisions for Equitable, Cost-effective, and Inclusive Disaster Resilience Planning (Co-DECIDR): A modeling approach",
-        "venue": {
-          "name": "Socio-Environmental Systems Modelling",
-          "volume": "7",
-          "issue": null,
-          "pages": "18759"
-        },
-        "publisher": null,
-        "links": [
-          {
-            "label": "DOI",
-            "url": "https://doi.org/10.18174/sesmo.18759",
-            "kind": "article"
-          }
-        ],
-        "note": null,
-        "tags": [
-          "participatory-modeling",
-          "fuzzy-cognitive-mapping",
-          "climate-adaptation",
-          "governance-policy"
-        ],
-        "doi": "10.18174/sesmo.18759"
-      },
-      {
         "id": "gray-cv-2026-002",
         "type": "journal-article",
         "year": null,
@@ -1236,6 +1155,161 @@
         "note": "CV citation (CV-derived; bibliographic verification pending): Cholewicki, J., P. W. Hodges, J. Popovich., P. Aminpour, S., Gray, A.S. Lee, A. Breen, S. Brumagne, J van Dieën, L. R. Van Dillen, T. E. Dreisinger, M. Ferreira, S. Z. George, C. M. Goertz, J. Hartvigsen, J. A. Hides, D. Hoy, G. N. Kawchuk, B. W. Koes, R. Kothe, H. M. Langevin, D. Lee, J. C. Lotz, G. Moseley, H. Prather, N. Reeves,S. Sahrmann, R. Smeets, L. S. Stone, J. Vlaeyen, PhD 27 ; J. C. Wang and S. Weiser (2026) A meta-model of low back pain to examine collective expert knowledge of the effects of treatments and their mechanisms. European Spine Journal. 1-14.",
         "tags": [
           "knowledge-diversity"
+        ]
+      },
+      {
+        "id": "gray-cv-2026-017",
+        "type": "journal-article",
+        "year": 2025,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Zareei, M.",
+            "family": "Zareei",
+            "given": "M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Knox, C.",
+            "family": "Knox",
+            "given": "C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Helgeson, J.",
+            "family": "Helgeson",
+            "given": "J.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S. A.",
+            "family": "Gray",
+            "given": "S. A.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Sadler, R. C.",
+            "family": "Sadler",
+            "given": "R. C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Schmitt Olabisi, L.",
+            "family": "Schmitt Olabisi",
+            "given": "L.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Wentworth, C.",
+            "family": "Wentworth",
+            "given": "C.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Community-informed Decisions for Equitable, Cost-effective, and Inclusive Disaster Resilience Planning (Co-DECIDR): A modeling approach",
+        "venue": {
+          "name": "Socio-Environmental Systems Modelling",
+          "volume": "7",
+          "issue": null,
+          "pages": "18759"
+        },
+        "publisher": null,
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.18174/sesmo.18759",
+            "kind": "article"
+          }
+        ],
+        "note": null,
+        "tags": [
+          "participatory-modeling",
+          "fuzzy-cognitive-mapping",
+          "climate-adaptation",
+          "governance-policy"
+        ],
+        "doi": "10.18174/sesmo.18759"
+      },
+      {
+        "id": "von-hagen-2025-elephant",
+        "type": "journal-article",
+        "year": 2025,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Von Hagen, L.",
+            "family": "Von Hagen",
+            "given": "L.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S. A.",
+            "family": "Gray",
+            "given": "S. A.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Schulte, B.",
+            "family": "Schulte",
+            "given": "B.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Githiru, M.",
+            "family": "Githiru",
+            "given": "M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Kiute, H.",
+            "family": "Kiute",
+            "given": "H.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Lepczyk, C. A.",
+            "family": "Lepczyk",
+            "given": "C. A.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Participatory modelling across Kenyan villages facilitates insights into the complexity of human–elephant interactions",
+        "venue": {
+          "name": "Oryx",
+          "volume": "59",
+          "issue": "1",
+          "pages": "40–49"
+        },
+        "publisher": null,
+        "doi": "10.1017/S0030605324000449",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1017/S0030605324000449",
+            "kind": "article"
+          }
+        ],
+        "note": null,
+        "tags": [
+          "participatory-modeling",
+          "mental-models",
+          "conservation-wildlife",
+          "systems-thinking"
         ]
       },
       {
@@ -1602,6 +1676,101 @@
         "links": [],
         "note": "CV citation (CV-derived; bibliographic verification pending): Olabisi, L.S., C Wentworth, K. Key, RV. Wallace1, M. McNall, J. Hodbod, and S.A. Gray (2023) Defining success in community-university partnerships: lessons learned from Flint Journal of Responsible Innovation, 1-23.",
         "tags": []
+      },
+      {
+        "id": "jordan-2023-perspective-taking",
+        "type": "journal-article",
+        "year": 2023,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Jordan, R. C.",
+            "family": "Jordan",
+            "given": "R. C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S.",
+            "family": "Gray",
+            "given": "S.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Boyse-Peacor, A.",
+            "family": "Boyse-Peacor",
+            "given": "A.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Sorensen, A. E.",
+            "family": "Sorensen",
+            "given": "A. E.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Frantz, C. M.",
+            "family": "Frantz",
+            "given": "C. M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Jauernig, J.",
+            "family": "Jauernig",
+            "given": "J.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Brehm, P.",
+            "family": "Brehm",
+            "given": "P.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Shammin, M. R.",
+            "family": "Shammin",
+            "given": "M. R.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Petersen, J.",
+            "family": "Petersen",
+            "given": "J.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Promoting systems thinking through perspective taking when using an online modeling tool",
+        "venue": {
+          "name": "Frontiers in Education",
+          "volume": "8",
+          "issue": null,
+          "pages": "1215436"
+        },
+        "publisher": null,
+        "doi": "10.3389/feduc.2023.1215436",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.3389/feduc.2023.1215436",
+            "kind": "article"
+          }
+        ],
+        "note": null,
+        "tags": [
+          "systems-thinking",
+          "education-learning",
+          "mental-models",
+          "participatory-modeling"
+        ]
       },
       {
         "id": "gray-cv-2026-026",
@@ -2245,6 +2414,67 @@
         ]
       },
       {
+        "id": "gray-cv-2026-107",
+        "type": "book-chapter",
+        "year": 2021,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Kininmonth, S.",
+            "family": "Kininmonth",
+            "given": "S.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S.",
+            "family": "Gray",
+            "given": "S.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Kok, K.",
+            "family": "Kok",
+            "given": "K.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Expert modelling",
+        "venue": {
+          "name": "The Routledge Handbook of Research Methods for Social-Ecological Systems",
+          "volume": null,
+          "issue": null,
+          "pages": "231–240"
+        },
+        "editors": [
+          "R. Biggs",
+          "A. de Vos",
+          "R. Preiser",
+          "H. Clements",
+          "K. Maciejewski",
+          "M. Schlüter"
+        ],
+        "publisher": "Routledge / Taylor & Francis",
+        "doi": "10.4324/9781003021339-20",
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.4324/9781003021339-20",
+            "kind": "article"
+          }
+        ],
+        "note": "Verified from Wageningen University publication record; corrects the CV draft title, year and page range.",
+        "tags": [
+          "fuzzy-cognitive-mapping",
+          "mental-models",
+          "systems-thinking",
+          "participatory-modeling"
+        ]
+      },
+      {
         "id": "gray-cv-2026-109",
         "type": "book-chapter",
         "year": 2020,
@@ -2325,67 +2555,6 @@
         "note": "CV citation (CV-derived; bibliographic verification pending): Aminpor, P., S. Gray, A. Singer, A. L. Castro, A, Ramlan, and N. Chicoworee, (2020) Perspectives of scholars on the nature of sustainability: a survey study Sustainability in Higher Education 21(1), 34-53.",
         "tags": [
           "education-learning"
-        ]
-      },
-      {
-        "id": "gray-cv-2026-107",
-        "type": "book-chapter",
-        "year": 2021,
-        "status": "published",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Kininmonth, S.",
-            "family": "Kininmonth",
-            "given": "S.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Gray, S.",
-            "family": "Gray",
-            "given": "S.",
-            "role": null,
-            "personId": "steven-gray"
-          },
-          {
-            "display": "Kok, K.",
-            "family": "Kok",
-            "given": "K.",
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Expert modelling",
-        "venue": {
-          "name": "The Routledge Handbook of Research Methods for Social-Ecological Systems",
-          "volume": null,
-          "issue": null,
-          "pages": "231–240"
-        },
-        "editors": [
-          "R. Biggs",
-          "A. de Vos",
-          "R. Preiser",
-          "H. Clements",
-          "K. Maciejewski",
-          "M. Schlüter"
-        ],
-        "publisher": "Routledge / Taylor & Francis",
-        "doi": "10.4324/9781003021339-20",
-        "links": [
-          {
-            "label": "DOI",
-            "url": "https://doi.org/10.4324/9781003021339-20",
-            "kind": "article"
-          }
-        ],
-        "note": "Verified from Wageningen University publication record; corrects the CV draft title, year and page range.",
-        "tags": [
-          "fuzzy-cognitive-mapping",
-          "mental-models",
-          "systems-thinking",
-          "participatory-modeling"
         ]
       },
       {
@@ -2918,6 +3087,91 @@
         ]
       },
       {
+        "id": "gray-cv-2026-056",
+        "type": "journal-article",
+        "year": 2019,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Jordan, R. C.",
+            "family": "Jordan",
+            "given": "R. C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Sorensen, A. E.",
+            "family": "Sorensen",
+            "given": "A. E.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Shwom, R.",
+            "family": "Shwom",
+            "given": "R.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Robinson, J. M.",
+            "family": "Robinson",
+            "given": "J. M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Isenhour, C.",
+            "family": "Isenhour",
+            "given": "C.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S.",
+            "family": "Gray",
+            "given": "S.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Nucci, M.",
+            "family": "Nucci",
+            "given": "M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Ebert-May, D.",
+            "family": "Ebert-May",
+            "given": "D.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "Using authentic science in climate change education",
+        "venue": {
+          "name": "Applied Environmental Education & Communication",
+          "volume": "18",
+          "issue": "4",
+          "pages": "350–381"
+        },
+        "publisher": null,
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1080/1533015X.2018.1431162",
+            "kind": "article"
+          }
+        ],
+        "note": "Published online in February 2018; final journal issue dated 2019.",
+        "tags": [
+          "education-learning",
+          "climate-adaptation"
+        ]
+      },
+      {
         "id": "gray-cv-2026-054",
         "type": "journal-article",
         "year": 2018,
@@ -3298,91 +3552,6 @@
           "education-learning",
           "mental-models",
           "participatory-modeling"
-        ]
-      },
-      {
-        "id": "gray-cv-2026-056",
-        "type": "journal-article",
-        "year": 2019,
-        "status": "published",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Jordan, R. C.",
-            "family": "Jordan",
-            "given": "R. C.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Sorensen, A. E.",
-            "family": "Sorensen",
-            "given": "A. E.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Shwom, R.",
-            "family": "Shwom",
-            "given": "R.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Robinson, J. M.",
-            "family": "Robinson",
-            "given": "J. M.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Isenhour, C.",
-            "family": "Isenhour",
-            "given": "C.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Gray, S.",
-            "family": "Gray",
-            "given": "S.",
-            "role": null,
-            "personId": "steven-gray"
-          },
-          {
-            "display": "Nucci, M.",
-            "family": "Nucci",
-            "given": "M.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Ebert-May, D.",
-            "family": "Ebert-May",
-            "given": "D.",
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Using authentic science in climate change education",
-        "venue": {
-          "name": "Applied Environmental Education & Communication",
-          "volume": "18",
-          "issue": "4",
-          "pages": "350–381"
-        },
-        "publisher": null,
-        "links": [
-          {
-            "label": "DOI",
-            "url": "https://doi.org/10.1080/1533015X.2018.1431162",
-            "kind": "article"
-          }
-        ],
-        "note": "Published online in February 2018; final journal issue dated 2019.",
-        "tags": [
-          "education-learning",
-          "climate-adaptation"
         ]
       },
       {
@@ -7385,175 +7554,6 @@
           "education-learning",
           "mental-models",
           "systems-thinking"
-        ]
-      },
-      {
-        "id": "von-hagen-2025-elephant",
-        "type": "journal-article",
-        "year": 2025,
-        "status": "published",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Von Hagen, L.",
-            "family": "Von Hagen",
-            "given": "L.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Gray, S. A.",
-            "family": "Gray",
-            "given": "S. A.",
-            "role": null,
-            "personId": "steven-gray"
-          },
-          {
-            "display": "Schulte, B.",
-            "family": "Schulte",
-            "given": "B.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Githiru, M.",
-            "family": "Githiru",
-            "given": "M.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Kiute, H.",
-            "family": "Kiute",
-            "given": "H.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Lepczyk, C. A.",
-            "family": "Lepczyk",
-            "given": "C. A.",
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Participatory modelling across Kenyan villages facilitates insights into the complexity of human–elephant interactions",
-        "venue": {
-          "name": "Oryx",
-          "volume": "59",
-          "issue": "1",
-          "pages": "40–49"
-        },
-        "publisher": null,
-        "doi": "10.1017/S0030605324000449",
-        "links": [
-          {
-            "label": "DOI",
-            "url": "https://doi.org/10.1017/S0030605324000449",
-            "kind": "article"
-          }
-        ],
-        "note": null,
-        "tags": [
-          "participatory-modeling",
-          "mental-models",
-          "conservation-wildlife",
-          "systems-thinking"
-        ]
-      },
-      {
-        "id": "jordan-2023-perspective-taking",
-        "type": "journal-article",
-        "year": 2023,
-        "status": "published",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Jordan, R. C.",
-            "family": "Jordan",
-            "given": "R. C.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Gray, S.",
-            "family": "Gray",
-            "given": "S.",
-            "role": null,
-            "personId": "steven-gray"
-          },
-          {
-            "display": "Boyse-Peacor, A.",
-            "family": "Boyse-Peacor",
-            "given": "A.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Sorensen, A. E.",
-            "family": "Sorensen",
-            "given": "A. E.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Frantz, C. M.",
-            "family": "Frantz",
-            "given": "C. M.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Jauernig, J.",
-            "family": "Jauernig",
-            "given": "J.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Brehm, P.",
-            "family": "Brehm",
-            "given": "P.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Shammin, M. R.",
-            "family": "Shammin",
-            "given": "M. R.",
-            "role": null,
-            "personId": null
-          },
-          {
-            "display": "Petersen, J.",
-            "family": "Petersen",
-            "given": "J.",
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Promoting systems thinking through perspective taking when using an online modeling tool",
-        "venue": {
-          "name": "Frontiers in Education",
-          "volume": "8",
-          "issue": null,
-          "pages": "1215436"
-        },
-        "publisher": null,
-        "doi": "10.3389/feduc.2023.1215436",
-        "links": [
-          {
-            "label": "DOI",
-            "url": "https://doi.org/10.3389/feduc.2023.1215436",
-            "kind": "article"
-          }
-        ],
-        "note": null,
-        "tags": [
-          "systems-thinking",
-          "education-learning",
-          "mental-models",
-          "participatory-modeling"
         ]
       }
     ]
