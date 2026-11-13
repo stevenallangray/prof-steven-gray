@@ -52,7 +52,11 @@
     "body": [
       {
         "type": "paragraph",
-        "text": "How can groups of people who understand the world differently make better decisions together? We explore how diverse ways of knowing shape collective intelligence, environmental decisions, and sustainable futures. Our research brings together human perspectives, participatory and computational modeling, and artificial intelligence to better understand complex social–ecological systems."
+        "text": "How can groups of people who understand the world differently make better decisions together?"
+      },
+      {
+        "type": "paragraph",
+        "text": "We study how diverse ways of knowing influence environmental decisions, and how collective intelligence and computational approaches can help people navigate complex social–ecological systems."
       }
     ]
   },
