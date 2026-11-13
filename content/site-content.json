@@ -436,6 +436,32 @@
             "kind": "website"
           }
         ]
+      },
+      {
+        "id": "carissa-knox",
+        "name": {
+          "display": "Carissa Knox",
+          "given": "Carissa",
+          "family": "Knox"
+        },
+        "groupId": "graduate-students-former",
+        "role": "Former PhD advisee (University of Michigan)",
+        "degree": "PhD",
+        "graduationYear": null,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Carissa conducted doctoral research in Resource Policy and Behavior at the University of Michigan School for Environment and Sustainability, with Steven Gray serving as co-chair of her doctoral advising committee. Her research examined race, equity, and participation in local food systems. In 2021, she received a University of Michigan Anti-Racism Summer Research Grant for a project on the impacts of race and equity on participation in local food systems."
+          }
+        ],
+        "links": [
+          {
+            "label": "University of Michigan research award",
+            "url": "https://seas.umich.edu/news/in-the-media/seas-phd-student-carissa-knox-awarded-anti-racism-summer-research-grant",
+            "kind": "website"
+          }
+        ]
       }
     ]
   },
