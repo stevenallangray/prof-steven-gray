@@ -269,7 +269,7 @@
     const groups = data.people.groups.map((g) => {
       const people = data.people.members.filter((m) => m.groupId === g.id);
       const lead = g.id === data.people.members.find((m) => m.id === data.meta.principalInvestigatorId)?.groupId;
-      return h('div', { class: 'group' },
+      return h('div', { class: 'group' + (g.id === 'graduate-students-former' ? ' is-alumni' : '') },
         h('h3', { class: 'group-heading' }, g.label, g.badge && h('span', { class: 'group-badge' }, g.badge)),
         h('div', { class: lead && people.length === 1 ? '' : 'people-grid' }, people.map((m) => person(m, lead && people.length === 1))));
     });
