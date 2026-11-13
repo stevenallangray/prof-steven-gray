@@ -137,7 +137,7 @@
 
     const ctx = indexData(data);
     const visible = data.sections.filter((sec) => sec.visible);
-    const renderers = { home: renderHome, people: renderPeople, publications: renderPublications, research: renderResearch, software: renderSoftware, teaching: renderTeaching };
+    const renderers = { home: renderHome, about: renderAbout, people: renderPeople, publications: renderPublications, software: renderSoftware };
 
     const main = $('#main');
     main.replaceChildren();
@@ -231,7 +231,28 @@
 
     const body = null;
 
-    return h('section', { class: 'section hero-section', id: 'home', style: 'padding-block:0' }, hero, body, h('div', { style: 'height:clamp(56px,9vw,104px)' }));
+    return h('section', { class: 'section hero-section', id: 'home', style: 'padding-block:0' }, hero, body, h('div', { style: 'height:clamp(12px,2vw,24px)' }));
+  }
+
+  /* ---------- about ---------- */
+  function renderAbout(data, sec) {
+    const research = data.about;
+    const projects = research.projects.length
+      ? h('div', { class: 'about-projects' },
+          h('h3', { class: 'about-subtitle' }, 'Representative Research Projects'),
+          research.projects.map((p) => h('article', { class: 'about-project' },
+            h('h4', null, p.title), h('p', null, inline(p.description)),
+            p.themes && h('p', { class: 'project-themes' }, p.themes),
+            p.link && extLink(p.link, 'Learn more'))))
+      : null;
+    return h('section', { class: 'section', id: sec.id, 'aria-labelledby': 'about-title' },
+      h('div', { class: 'wrap about-layout' },
+        h('h2', { class: 'section-title', id: 'about-title' }, 'About'),
+        h('div', { class: 'prose about-intro' }, blocks(research.intro)),
+        h('div', { class: 'about-support' },
+          h('h3', { class: 'about-subtitle' }, 'Selected Research Support'),
+          h('div', { class: 'prose' }, blocks(research.support))),
+        projects));
   }
 
   /* ---------- people ---------- */
