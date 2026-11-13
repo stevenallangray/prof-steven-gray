@@ -16,12 +16,18 @@ I'm currently a Professor in the Department of Community Sustainability at Michi
 [Curriculum Vitae (PDF, November 2026)](https://drive.google.com/file/d/1GvIrXfA0ZiQFSKrUtORB54nJCly4RQmg/view)
 
 ### Current graduate researchers
-Three longer biographies; photographs still need to be connected in the website assets.
+Three current researcher profiles, with standardized square images committed to this branch.
+![Abigail Ording portrait](img/people/abby-ording.webp)
+
 #### Abigail Ording — MS Student
 Abby is a master's student in the Department of Community Sustainability at Michigan State University. Her research examines relationships among culture, the biophysical characteristics of nature, and human well-being. She is particularly interested in how environmental design influences ecosystem services and public health outcomes. Her recent research includes studies of urban greenspace and mental health in Flint, Michigan, and relationships between urban biodiversity and maternal health. Abby holds a BS in Environmental Studies and Sustainability from MSU and plans to pursue doctoral study.
 
+![Irene Luján Climent portrait](img/people/irene-lujan-climent.webp)
+
 #### Irene Luján Climent — Visiting PhD Researcher
 Irene is a PhD candidate in Political Science at the Universitat de València, a member of the OVAGAP research group, and a Fulbright Predoctoral Research Fellow at Michigan State University. Her research examines governance and management of the commons, focusing on how institutional arrangements influence collective decision-making and shared-resource management. Through the BlueGreen Governance project (Horizon Europe/UKRI), she studies coastal wetland governance in the Valencian Region using multilevel governance and ecofeminist perspectives. At MSU, she is developing a comparative study of water governance in the Great Lakes region and Europe.
+
+![Blue puzzle piece](img/people/max-toloff-puzzle.webp)
 
 #### Max Toloff — MS Student
 Max is a master's student in the Department of Community Sustainability at Michigan State University and a researcher in the Plural Intelligence Lab.
@@ -195,7 +201,7 @@ Compact text-only profiles; no alumni photos.
 
 ---
 ## Review status
-- The approved student biographies are in the repository. Photographs for Abby, Irene, and Max are not yet linked.
+- The approved student biographies and all three standardized square photos are now committed and linked.
 - All journal-article records have venue titles recorded; additional missing volume, issue, and page fields remain to be reconciled.
 - This Markdown view does not reproduce the CSS, navigation interactions, publication filters, or the actual browser layout.
 - Changes should continue on `website-review` without merging into `main` until approved.
