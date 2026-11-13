@@ -226,7 +226,7 @@
           h('p', { class: 'hero-place' }, data.meta.institution)),
         h('div', { class: 'map-wrap' },
           h('div', { class: 'map', id: 'concept-map', role: 'group', 'aria-label': 'Research topics. Select a topic to filter the publications.' }),
-          h('p', { class: 'map-caption' }, 'Each box is a research topic from the publications below. Larger boxes have more papers, and a line joins topics that share papers. Select a topic to filter the list.'),
+          h('p', { class: 'map-caption' }, 'Each box is a research area from the publications below. The lines between boxes represent shared papers between research areas. Select a topic to filter the list.'),
           h('p', { class: 'map-status', id: 'map-status', 'aria-live': 'polite' }))));
 
     const body = null;
