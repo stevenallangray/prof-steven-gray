@@ -396,8 +396,8 @@
         byYear.get(e.year).push(e);
       }
       list.replaceChildren(...[...byYear].map(([year, items]) =>
-        h('section', { class: 'year-group', 'aria-label': String(year) },
-          h('h3', { class: 'year-heading' }, year),
+        h('section', { class: 'year-group', 'aria-label': year == null ? 'Manuscripts under review or in press' : String(year) },
+          h('h3', { class: 'year-heading' }, year == null ? 'Manuscripts' : year),
           h('ol', { class: 'pub-list' }, items.map((e) => citation(e, ctx))))));
     }
     listeners.push(paint);
@@ -428,7 +428,7 @@
         cite.append(h('span', { class: 'author' + (a.role === 'student' ? ' is-student' : '') + (state.person && a.personId === state.person ? ' is-match' : '') },
           a.display + (a.role === 'undergraduate' ? '*' : '')));
       });
-      cite.append(e.status === 'in-press' ? ' (in press). ' : ` (${e.year}). `);
+      cite.append(e.year != null ? ` (${e.year}). ` : (e.status === 'under-review' ? ' (under review). ' : e.status === 'in-revision' ? ' (in revision). ' : ' (in press). '));
       cite.append(h('span', { class: 'pub-title' }, e.title.replace(/([^.?!])$/, '$1.') + ' '));
       const v = e.venue;
       const chapter = e.type === 'book-chapter' || e.type === 'report';
