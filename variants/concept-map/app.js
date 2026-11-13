@@ -225,7 +225,7 @@
     const hero = h('div', { class: 'wrap hero' },
       h('div', { class: 'hero-grid' },
         h('div', { class: 'hero-copy' },
-          h('h1', { class: 'hero-title' }, h('img', { class: 'hero-logo', src: assetUrl('img/plural-intelligence-logo.png'), alt: 'Plural Intelligence Lab — Knowledge Diversity, Collective Intelligence, Sustainable Futures' })),
+          h('h1', { class: 'hero-title' }, data.meta.labName.full),
           question && h('p', { class: 'hero-question' }, inline(question.text)),
           lede && h('p', { class: 'hero-lede' }, inline(lede.text)),
           h('ul', { class: 'theme-list', 'aria-label': 'Research themes' },
