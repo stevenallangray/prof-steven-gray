@@ -1,0 +1,28 @@
+{
+  "capturedAt": "2026-11-13T18:28:43.988Z",
+  "pageTitle": "Plural Intelligence Lab | Michigan State University",
+  "publications": 123,
+  "peopleImages": [
+    {
+      "src": "../../img/steven_gray.png",
+      "complete": true,
+      "width": 176
+    },
+    {
+      "src": "../../img/people/abby-ording.webp",
+      "complete": true,
+      "width": 120
+    },
+    {
+      "src": "../../img/people/irene-lujan-climent.webp",
+      "complete": true,
+      "width": 120
+    },
+    {
+      "src": "../../img/people/max-toloff-puzzle.webp",
+      "complete": true,
+      "width": 120
+    }
+  ],
+  "errors": []
+}
