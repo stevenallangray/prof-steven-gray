@@ -144,7 +144,7 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Abby is a Master's student in the Department of Community Sustainability at Michigan State University. Her research focuses on the relationships between culture, biophysical features of nature, and human wellbeing. She is particularly interested in how the design of environments influences ecosystem services and public health outcomes, and has worked on several projects investigating associations between different dimensions of nature and health outcomes. Recent projects include research on urban greenspace and mental health in Flint, and research on the relationship between urban biodiversity and maternal health. She holds a B.S. in Environmental Studies and Sustainability from Michigan State University and hopes to pursue doctoral study following her master's degree."
+            "text": "Abby is a master's student in the Department of Community Sustainability at Michigan State University. Her research examines relationships among culture, the biophysical characteristics of nature, and human well-being. She is particularly interested in how environmental design influences ecosystem services and public health outcomes. Her recent research includes studies of urban greenspace and mental health in Flint, Michigan, and relationships between urban biodiversity and maternal health. Abby holds a BS in Environmental Studies and Sustainability from MSU and plans to pursue doctoral study."
           }
         ],
         "links": []
@@ -164,7 +164,7 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Irene Luján Climent is a Spanish PhD candidate in Political Science at the Universitat de València, where she is a member of the OVAGAP research group, and a Fulbright Predoctoral Research Fellow at Michigan State University. Her work focuses on the governance and management of the commons, exploring how different institutional arrangements and approaches shape collective decision-making and the management of shared resources. As a member of the BlueGreen Governance project (Horizon Europe/UKRI), her research examines the governance of coastal wetlands in the Valencian Region, drawing on multilevel governance and ecofeminist perspectives on the commons. At MSU, she is developing a comparative study of water governance in the Great Lakes region and Europe."
+            "text": "Irene is a PhD candidate in Political Science at the Universitat de València, a member of the OVAGAP research group, and a Fulbright Predoctoral Research Fellow at Michigan State University. Her research examines governance and management of the commons, focusing on how institutional arrangements influence collective decision-making and shared-resource management. Through the BlueGreen Governance project (Horizon Europe/UKRI), she studies coastal wetland governance in the Valencian Region using multilevel governance and ecofeminist perspectives. At MSU, she is developing a comparative study of water governance in the Great Lakes region and Europe."
           }
         ],
         "links": []
@@ -184,227 +184,10 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Researcher in the Plural Intelligence Lab."
+            "text": "Max is a master's student in the Department of Community Sustainability at Michigan State University and a researcher in the Plural Intelligence Lab."
           }
         ],
         "links": []
-      },
-      {
-        "id": "noleen-chikowore",
-        "name": {
-          "display": "Noleen Chikowore",
-          "given": "Noleen",
-          "family": "Chikowore"
-        },
-        "groupId": "graduate-students-former",
-        "role": "PhD",
-        "degree": "PhD",
-        "graduationYear": null,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Research focus: participatory modeling, stakeholder perspectives, and sustainable urban waste management. Subsequent position: Lecturer, University of Leeds."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "laura-young",
-        "name": {
-          "display": "Laura Young",
-          "given": "Laura",
-          "family": "Young"
-        },
-        "groupId": "graduate-students-former",
-        "role": "MS, 2020",
-        "degree": "MS",
-        "graduationYear": 2020,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Laura's research examined groundwater governance and Michigan's Water Withdrawal Assessment Process, with a focus on environmental decision-support systems. Following her MS at Michigan State University in 2020, she became Assistant Director in MSU's Office of Sustainability."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "alison-singer",
-        "name": {
-          "display": "Allison Singer",
-          "given": "Allison",
-          "family": "Singer"
-        },
-        "groupId": "graduate-students-former",
-        "role": "PhD, 2019",
-        "degree": "PhD",
-        "graduationYear": 2019,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Allison's doctoral research investigated narrative and science communication, including how scientific information is understood and used. Following her PhD at Michigan State University in 2019, she became an Assistant Professor at Northern Arizona University."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "payam-aminpor",
-        "name": {
-          "display": "Payam Aminpor",
-          "given": "Payam",
-          "family": "Aminpor"
-        },
-        "groupId": "graduate-students-former",
-        "role": "PhD, 2020",
-        "degree": "PhD",
-        "graduationYear": 2020,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Payam studied knowledge integration, collective intelligence, and agent-based models of group environmental decision-making. Following his PhD at Michigan State University in 2020, he held a postdoctoral research appointment at Johns Hopkins University working with NIST."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "alex-metzger",
-        "name": {
-          "display": "Alexander Metzger",
-          "given": "Alexander",
-          "family": "Metzger"
-        },
-        "groupId": "graduate-students-former",
-        "role": "PhD, 2018",
-        "degree": "PhD",
-        "graduationYear": 2018,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Research focus: mental models, social networks, and common-pool resource management. Subsequent position: environmental consultant in Boston."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "noelani-punawai",
-        "name": {
-          "display": "Noelani Puniwai",
-          "given": "Noelani",
-          "family": "Puniwai"
-        },
-        "groupId": "graduate-students-former",
-        "role": "PhD, 2015",
-        "degree": "PhD",
-        "graduationYear": 2015,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Research focus: cultural meanings of marine and coastal landscapes and their relevance to resource management. Subsequent position: Associate Professor, University of Hawaiʻi at Mānoa."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "jackie-chan-halbrednt",
-        "name": {
-          "display": "Jackie Halbrendt",
-          "given": "Jackie",
-          "family": "Halbrendt"
-        },
-        "groupId": "graduate-students-former",
-        "role": "PhD, 2014",
-        "degree": "PhD",
-        "graduationYear": 2014,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Jackie's doctoral research at the University of Hawaiʻi focused on conservation agriculture, participatory approaches, and household and community dimensions of international agricultural development. After completing her PhD in 2014, she undertook postdoctoral research at Wageningen University."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "molly-miller",
-        "name": {
-          "display": "Molly Miller",
-          "given": "Molly",
-          "family": "Miller"
-        },
-        "groupId": "graduate-students-former",
-        "role": "MS, 2014",
-        "degree": "MS",
-        "graduationYear": 2014,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Research focus: fishers' participation in cooperative fisheries research and scientist–fisher collaboration. Subsequent position: Fisheries Technical Programs Manager, Maine Center for Coastal Fisheries (reported 2024)."
-          }
-        ],
-        "links": [
-          {
-            "label": "Professional profile",
-            "url": "https://www.linkedin.com/in/molly-miller-ph-d-47825a97/",
-            "kind": "website"
-          },
-          {
-            "label": "Maine Center for Coastal Fisheries",
-            "url": "https://coastalfisheries.org/maine-center-for-coastal-fisheries-is-on-the-move-introducing-new-team-members/",
-            "kind": "website"
-          }
-        ]
-      },
-      {
-        "id": "angela-nyaki",
-        "name": {
-          "display": "Angela Nyaki",
-          "given": "Angela",
-          "family": "Nyaki"
-        },
-        "groupId": "graduate-students-former",
-        "role": "MS, 2013",
-        "degree": "MS",
-        "graduationYear": 2013,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Research focus: participatory wildlife management and community perspectives on illegal hunting. Subsequent position: Commanding Officer, Kilimanjaro National Park."
-          }
-        ],
-        "links": []
-      },
-      {
-        "id": "mary-pleasant",
-        "name": {
-          "display": "Mary Pleasant",
-          "given": "Mary",
-          "family": "Pleasant"
-        },
-        "groupId": "graduate-students-former",
-        "role": "MS, 2013",
-        "degree": "MS",
-        "graduationYear": 2013,
-        "photo": null,
-        "bio": [
-          {
-            "type": "paragraph",
-            "text": "Mary's research focused on community engagement in conservation, natural-resource management, and ecosystem services. She completed her MS at the University of Hawaiʻi in 2013 and subsequently worked as a Research Scientist with The Nature Conservancy."
-          }
-        ],
-        "links": [
-          {
-            "label": "Professional profile",
-            "url": "https://www.linkedin.com/in/mary-pleasant-957b66111/",
-            "kind": "website"
-          }
-        ]
       },
       {
         "id": "mahdi-zareei",
@@ -421,7 +204,7 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Mahdi's doctoral research at Michigan State University examined sustainable food systems and computational approaches to coupled social–environmental systems, including system dynamics and agent-based modeling. After completing his PhD in 2024, he became an Assistant Research Professor at Michigan State University."
+            "text": "Mahdi's doctoral research investigated sustainable food systems and computational modeling of coupled human–environment systems, including system dynamics and agent-based modeling. He subsequently became an Assistant Research Professor at Michigan State University."
           }
         ],
         "links": [
@@ -452,7 +235,7 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Carissa (Carst) Knox completed doctoral research at the University of Michigan School for Environment and Sustainability, with Steven Gray serving as co-chair of her doctoral advising committee. Her work examined race, equity, and participation in local food systems, including research recognized by a University of Michigan Anti-Racism Summer Research Grant. After completing her PhD in 2024, she held a postdoctoral appointment associated with USDA and the University of Vermont."
+            "text": "Carst's research examined race, equity, and participation in local food systems, including work supported by a University of Michigan Anti-Racism Summer Research Grant. She subsequently pursued postdoctoral research affiliated with USDA and the University of Vermont."
           }
         ],
         "links": [
@@ -478,7 +261,7 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Nathan completed dual PhDs in Community Sustainability and Computational Mathematics, Science and Engineering at Michigan State University in 2023. His dissertation developed machine-learning and graph-based methods for understanding emergence in complex social–ecological systems, with applications to cognitive mapping, collective intelligence, and maternal and child healthcare in Nigeria. Following graduation, he became a Senior Research Scientist at Two Six Technologies, where he worked on computational approaches to extracting and analyzing collective knowledge."
+            "text": "Nathan developed machine-learning and graph-based approaches to studying emergent behavior in complex systems, including applications to cognitive mapping and collective intelligence. He subsequently joined Two Six Technologies as a computational social scientist and Senior Research Scientist."
           }
         ],
         "links": [
@@ -498,6 +281,223 @@
             "kind": "website"
           }
         ]
+      },
+      {
+        "id": "payam-aminpor",
+        "name": {
+          "display": "Payam Aminpor",
+          "given": "Payam",
+          "family": "Aminpor"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD, 2020",
+        "degree": "PhD",
+        "graduationYear": 2020,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Payam studied knowledge integration, collective intelligence, and agent-based modeling of environmental decision-making. Following his PhD, he conducted postdoctoral research at Johns Hopkins University in collaboration with NIST."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "laura-young",
+        "name": {
+          "display": "Laura Young",
+          "given": "Laura",
+          "family": "Young"
+        },
+        "groupId": "graduate-students-former",
+        "role": "MS, 2020",
+        "degree": "MS",
+        "graduationYear": 2020,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Laura studied groundwater governance and environmental decision-support systems, particularly Michigan's Water Withdrawal Assessment Process. She subsequently became Assistant Director in MSU's Office of Sustainability."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "alison-singer",
+        "name": {
+          "display": "Allison Singer",
+          "given": "Allison",
+          "family": "Singer"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD, 2019",
+        "degree": "PhD",
+        "graduationYear": 2019,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Allison's doctoral research examined science communication, narrative, and the role of stories in how people understand and use scientific knowledge. She subsequently became an Assistant Professor at Northern Arizona University."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "alex-metzger",
+        "name": {
+          "display": "Alexander Metzger",
+          "given": "Alexander",
+          "family": "Metzger"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD, 2018",
+        "degree": "PhD",
+        "graduationYear": 2018,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Alexander studied relationships among mental models, social networks, and natural-resource decision-making, particularly the management of common-pool resources. He subsequently worked as an environmental consultant in Boston."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "noelani-punawai",
+        "name": {
+          "display": "Noelani Puniwai",
+          "given": "Noelani",
+          "family": "Puniwai"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD, 2015",
+        "degree": "PhD",
+        "graduationYear": 2015,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Noelani studied the cultural meanings of marine landscapes and how local knowledge can inform coastal and marine resource management. She subsequently joined the University of Hawaiʻi at Mānoa faculty."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "jackie-chan-halbrednt",
+        "name": {
+          "display": "Jackie Halbrendt",
+          "given": "Jackie",
+          "family": "Halbrendt"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD, 2014",
+        "degree": "PhD",
+        "graduationYear": 2014,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Jackie investigated the social dimensions of conservation agriculture and international agricultural development, using participatory approaches to understand household and community decision-making. She subsequently conducted postdoctoral research at Wageningen University."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "molly-miller",
+        "name": {
+          "display": "Molly Miller",
+          "given": "Molly",
+          "family": "Miller"
+        },
+        "groupId": "graduate-students-former",
+        "role": "MS, 2014",
+        "degree": "MS",
+        "graduationYear": 2014,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Molly investigated fishers' participation in cooperative fisheries research and the outcomes of scientist–fisher collaboration. Following her master's degree, she pursued doctoral research at the University of Maine and later worked with the Maine Center for Coastal Fisheries."
+          }
+        ],
+        "links": [
+          {
+            "label": "Professional profile",
+            "url": "https://www.linkedin.com/in/molly-miller-ph-d-47825a97/",
+            "kind": "website"
+          },
+          {
+            "label": "Maine Center for Coastal Fisheries",
+            "url": "https://coastalfisheries.org/maine-center-for-coastal-fisheries-is-on-the-move-introducing-new-team-members/",
+            "kind": "website"
+          }
+        ]
+      },
+      {
+        "id": "angela-nyaki",
+        "name": {
+          "display": "Angela Nyaki",
+          "given": "Angela",
+          "family": "Nyaki"
+        },
+        "groupId": "graduate-students-former",
+        "role": "MS, 2013",
+        "degree": "MS",
+        "graduationYear": 2013,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Angela studied participatory wildlife management and community perspectives on illegal hunting in Tanzania's Serengeti ecosystem. She subsequently held management positions with Tanzania National Parks."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "mary-pleasant",
+        "name": {
+          "display": "Mary Pleasant",
+          "given": "Mary",
+          "family": "Pleasant"
+        },
+        "groupId": "graduate-students-former",
+        "role": "MS, 2013",
+        "degree": "MS",
+        "graduationYear": 2013,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Mary's research focused on community-based conservation, natural-resource management, and ecosystem services. She subsequently worked as a Research Scientist with The Nature Conservancy."
+          }
+        ],
+        "links": [
+          {
+            "label": "Professional profile",
+            "url": "https://www.linkedin.com/in/mary-pleasant-957b66111/",
+            "kind": "website"
+          }
+        ]
+      },
+      {
+        "id": "noleen-chikowore",
+        "name": {
+          "display": "Noleen Chikowore",
+          "given": "Noleen",
+          "family": "Chikowore"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD",
+        "degree": "PhD",
+        "graduationYear": null,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Noleen studied stakeholder perceptions, participatory modeling, and environmental decision-making in sustainable household waste management in developing countries. She subsequently held an academic appointment at the University of Leeds."
+          }
+        ],
+        "links": []
       }
     ]
   },
