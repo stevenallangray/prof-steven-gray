@@ -152,19 +152,19 @@
       {
         "id": "irene-lujan-climent",
         "name": {
-          "display": "Irene Luján-Climent",
+          "display": "Irene Luján Climent",
           "given": "Irene",
-          "family": "Luján-Climent"
+          "family": "Luján Climent"
         },
         "groupId": "graduate-students-current",
-        "role": "Visiting PhD researcher",
+        "role": "Visiting PhD Researcher",
         "degree": "PhD",
         "graduationYear": null,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Visiting Fulbright doctoral researcher from the University of Valencia, Spain, studying governance of common-pool resources."
+            "text": "Irene Luján Climent is a Spanish PhD candidate in Political Science at the Universitat de València, where she is a member of the OVAGAP research group, and a Fulbright Predoctoral Research Fellow at Michigan State University. Her work focuses on the governance and management of the commons, exploring how different institutional arrangements and approaches shape collective decision-making and the management of shared resources. As a member of the BlueGreen Governance project (Horizon Europe/UKRI), her research examines the governance of coastal wetlands in the Valencian Region, drawing on multilevel governance and ecofeminist perspectives on the commons. At MSU, she is developing a comparative study of water governance in the Great Lakes region and Europe."
           }
         ],
         "links": []
