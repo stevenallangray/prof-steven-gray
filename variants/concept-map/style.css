@@ -325,3 +325,13 @@ button { cursor: pointer; }
   .theme-item { padding: 9px 12px; }
   .theme-title { margin-bottom: 3px; }
 }
+
+/* Selected projects precede research support and use a compact responsive grid. */
+.about-projects { padding-top: 6px; margin-bottom: clamp(32px, 4vw, 52px); display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 clamp(24px, 4vw, 52px); }
+.about-projects > .about-subtitle { grid-column: 1 / -1; margin-bottom: 12px; }
+.about-project { padding: 20px 0 22px; border-top: 1px solid var(--line); border-bottom: none; }
+.about-project h4 { font-family: var(--font-ui); font-size: clamp(1.05rem, 1.55vw, 1.25rem); line-height: 1.35; }
+.about-project p { font-size: .98rem; line-height: 1.6; }
+.about-project .project-themes { font-family: var(--font-ui); color: var(--water); font-size: .85rem; margin: 10px 0 8px; }
+.about-project a { font-family: var(--font-ui); font-size: .9rem; }
+@media(max-width: 700px) { .about-projects { grid-template-columns: 1fr; } }
