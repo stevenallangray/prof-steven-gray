@@ -252,11 +252,13 @@
           research.projects.map((p) => h('article', { class: 'about-project' },
             h('h4', null, p.title), h('p', null, inline(p.description)),
             p.themes && h('p', { class: 'project-themes' }, p.themes),
-            p.references?.length && h('ul', { class: 'project-refs', 'aria-label': 'Selected publications' },
+            p.references?.length && h('div', { class: 'project-ref-section' },
+              h('h5', { class: 'project-ref-heading' }, 'Selected publications'),
+              h('ul', { class: 'project-refs', 'aria-label': 'Selected publications' },
               p.references.map((r) => h('li', null,
                 r.url
                   ? h('a', { href: r.url, target: '_blank', rel: 'noopener noreferrer' }, r.label)
-                  : r.label))),
+                  : r.label)))),
             p.link && h('a', { href: p.link, target: '_blank', rel: 'noopener noreferrer' }, 'Project information'))))
       : null;
     return h('section', { class: 'section', id: sec.id, 'aria-labelledby': 'about-title' },
