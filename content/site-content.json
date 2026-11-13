@@ -7466,37 +7466,37 @@
     ],
     "projects": [
       {
-        "title": "Knowledge Complementarity in Marine Biodiversity",
-        "themes": "Lenfest Ocean Program · Marine biodiversity",
-        "description": "Across Mobile Bay, Chesapeake Bay, and Puget Sound, we used interviews and collaborative modeling to examine how resource users, scientists, and managers understand biodiversity and its benefits. The research finds that stakeholder groups contribute overlapping but also distinctive knowledge, revealing ecological relationships, social benefits, and management trade-offs that a single perspective may miss. Knowledge complementarity varies by place and subject; the study examines expanded understanding, not directly measured improvements in decisions.",
+        "title": "Knowledge Complementarity in Marine Biodiversity Science and Management",
+        "themes": "Marine biodiversity",
+        "description": "Across Mobile Bay, Chesapeake Bay, and Puget Sound, we examine how scientists, resource users, and managers understand marine biodiversity. Our research identifies where different groups hold complementary knowledge and how integrating these perspectives can reveal ecological relationships, social benefits, and management trade-offs that might otherwise be overlooked.",
         "link": "https://www.lenfestocean.org/"
       },
       {
         "title": "Participatory Socio-Environmental Modeling",
-        "themes": "SESYNC · Participatory methods",
-        "description": "This interdisciplinary research developed guidance for designing and evaluating participatory modeling processes. The Four Ps framework—Purpose, Process, Partnerships, and Products—and related methods work help researchers choose tools suited to the people, problems, and decisions involved. The central insight is that including different perspectives is only part of the challenge: how participation and knowledge integration are organized also matters.",
+        "themes": "Participatory research",
+        "description": "We develop and evaluate approaches for involving people in modeling complex environmental problems. This research has produced frameworks for designing participatory processes, selecting modeling tools, and understanding how collaboration shapes knowledge integration, shared understanding, and opportunities for collective action.",
         "link": "https://www.sesync.org/research/participatory-socio-environmental-modeling"
       },
       {
         "title": "AI-Assisted Community Resilience Planning",
-        "themes": "NIST · Artificial intelligence and public policy",
-        "description": "With NIST collaborators, we are developing and evaluating AI-assisted methods to synthesize planning documents, public comments, and stakeholder perspectives while preserving transparency and human review. Preliminary research analyzed roughly 1,500 Federal Register comments and extracted more than 54,000 candidate causal relationships concerning barriers to building-code adoption. Current work extends these methods to community resilience planning and examines when AI-generated information is reliable and useful for decisions."
+        "themes": "AI & computational modeling",
+        "description": "Working with NIST, we investigate how artificial intelligence can extract and integrate knowledge from planning documents, public comments, and community perspectives. By combining language models with causal and systems modeling, we are developing methods to support resilience planning while evaluating reliability, transparency, and the importance of local knowledge."
       },
       {
         "title": "Systems Thinking and Perspective Taking in Education",
-        "themes": "NSF & Heterodox Academy · STEM education",
-        "description": "Our research investigates how mental modeling can support systems thinking, perspective taking, and intellectual humility in undergraduate education. We develop ways to teach and assess understanding of causal relationships, system behavior, leverage points, and trade-offs. In a classroom quasi-experiment involving nearly 1,500 students, assignments using Mental Modeler to represent opposing viewpoints helped protect against declines in open-mindedness and made students more likely to regard people with different opinions as rational. This research connects systems thinking education to how people learn to recognize other perspectives and engage constructively with disagreement.",
+        "themes": "Education & learning",
+        "description": "We investigate how mental modeling helps students understand complex systems and engage with different perspectives. Our research develops methods for assessing systems thinking and examines whether modeling opposing viewpoints can strengthen perspective taking, open-mindedness, and intellectual humility in undergraduate education.",
         "link": "https://doi.org/10.1080/17439760.2026.2635423"
       },
       {
         "title": "Climate Adaptation and Coastal Resilience",
-        "themes": "NOAA · Coastal adaptation",
-        "description": "Our coastal adaptation research investigates how stakeholder knowledge, experiences, and values shape responses to flooding and shoreline change. In Florida Keys work, interviews and participatory modeling examine perceived benefits and trade-offs among nature-based, engineered, and hybrid adaptation strategies. Related research explores how different groups understand disaster impacts, helping make competing priorities visible without assuming that consensus or better decisions automatically follow."
+        "themes": "Climate adaptation",
+        "description": "Our coastal research examines how communities understand climate risks and evaluate adaptation strategies. Working in the Florida Keys and other coastal settings, we use participatory methods to investigate how stakeholder knowledge, experiences, and values influence perceptions of flooding, shoreline protection, and the trade-offs associated with nature-based and engineered solutions."
       },
       {
         "title": "Collective Action for Food System Transformation",
-        "themes": "FFAR · Flint, Michigan",
-        "description": "The Flint Leverage Points Project brought residents, food organizations, researchers, and local decision-makers together to understand food insecurity as a connected social system. Participatory research and systems modeling helped identify barriers, relationships, and potential leverage points involving food access, transportation, and organizational coordination. The project illustrates how community knowledge can inform practical options for more equitable and sustainable food systems.",
+        "themes": "Food systems & community action",
+        "description": "Through the Flint Leverage Points Project, we worked with residents, community organizations, and decision-makers to understand the interconnected challenges of food access. Combining participatory modeling and community-engaged research, we identified potential leverage points for addressing food insecurity, transportation barriers, and organizational coordination.",
         "link": "https://www.canr.msu.edu/flintfood/"
       }
     ]
