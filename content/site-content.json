@@ -123,9 +123,9 @@
         ],
         "links": [
           {
-            "label": "Steven Gray CV",
-            "url": "resources/Gray CV.pdf",
-            "kind": "pdf"
+            "label": "Curriculum Vitae (November 2026 — text edition)",
+            "url": "resources/Steven_Gray_CV_November_2026.txt",
+            "kind": "other"
           }
         ]
       },
