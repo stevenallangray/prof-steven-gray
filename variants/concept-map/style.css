@@ -197,6 +197,10 @@ button { cursor: pointer; }
 .person.is-lead .person-name { font-size: 1.75rem; }
 .person.is-lead .person-bio { font-size: 1.0625rem; line-height: 1.65; max-width: 68ch; }
 
+/* Text-only alumni profiles do not reserve a photo column. */
+.group.is-alumni .person { display: block; }
+.group.is-alumni .person-bio { max-width: 62ch; }
+
 /* ---------- publications ---------- */
 .pubs-layout { display: grid; gap: 24px; }
 @media (min-width: 960px) {
