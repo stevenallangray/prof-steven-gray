@@ -624,36 +624,6 @@
     ],
     "entries": [
       {
-        "id": "gray-cv-2026-016",
-        "type": "journal-article",
-        "year": null,
-        "status": "in-press",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Prasky, E. G., M, Drymon, J. Mitchell, G. Jackson, S. Scyphers, S. Gray, G. Casselberry, L. Griffin, A. Danylchuk",
-            "family": null,
-            "given": null,
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Towards building a shared vision: Using Fuzzy Cognitive Mapping to co-produce a shared understanding of depredation in recreational fisheries",
-        "venue": {
-          "name": "Fisheries",
-          "volume": null,
-          "issue": null,
-          "pages": null
-        },
-        "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Prasky, E. G., M, Drymon, J. Mitchell, G. Jackson, S. Scyphers, S. Gray, G. Casselberry, L. Griffin, A. Danylchuk. (in press) Towards building a shared vision: Using Fuzzy Cognitive Mapping to co-produce a shared understanding of depredation in recreational fisheries. Fisheries. 50 (12), 538-547.",
-        "tags": [
-          "participatory-modeling",
-          "fisheries-marine"
-        ]
-      },
-      {
         "id": "gray-cv-2026-003",
         "type": "journal-article",
         "year": null,
@@ -1097,6 +1067,98 @@
         "note": "CV citation (CV-derived; bibliographic verification pending): Cholewicki, J., P. W. Hodges, J. Popovich., P. Aminpour, S., Gray, A.S. Lee, A. Breen, S. Brumagne, J van Dieën, L. R. Van Dillen, T. E. Dreisinger, M. Ferreira, S. Z. George, C. M. Goertz, J. Hartvigsen, J. A. Hides, D. Hoy, G. N. Kawchuk, B. W. Koes, R. Kothe, H. M. Langevin, D. Lee, J. C. Lotz, G. Moseley, H. Prather, N. Reeves,S. Sahrmann, R. Smeets, L. S. Stone, J. Vlaeyen, PhD 27 ; J. C. Wang and S. Weiser (2026) A meta-model of low back pain to examine collective expert knowledge of the effects of treatments and their mechanisms. European Spine Journal. 1-14.",
         "tags": [
           "knowledge-diversity"
+        ]
+      },
+      {
+        "id": "gray-cv-2026-016",
+        "type": "journal-article",
+        "year": 2025,
+        "status": "published",
+        "peerReviewed": true,
+        "authors": [
+          {
+            "display": "Prasky, E. G.",
+            "family": "Prasky",
+            "given": "E. G.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Drymon, J. M.",
+            "family": "Drymon",
+            "given": "J. M.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Mitchell, J. D.",
+            "family": "Mitchell",
+            "given": "J. D.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Jackson, G.",
+            "family": "Jackson",
+            "given": "G.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Scyphers, S. B.",
+            "family": "Scyphers",
+            "given": "S. B.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Gray, S. A.",
+            "family": "Gray",
+            "given": "S. A.",
+            "role": null,
+            "personId": "steven-gray"
+          },
+          {
+            "display": "Casselberry, G. A.",
+            "family": "Casselberry",
+            "given": "G. A.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Griffin, L. P.",
+            "family": "Griffin",
+            "given": "L. P.",
+            "role": null,
+            "personId": null
+          },
+          {
+            "display": "Danylchuk, A. J.",
+            "family": "Danylchuk",
+            "given": "A. J.",
+            "role": null,
+            "personId": null
+          }
+        ],
+        "title": "A framework for fuzzy cognitive mapping workshops: Shark depredation as a case study",
+        "venue": {
+          "name": "Fisheries",
+          "volume": "50",
+          "issue": "12",
+          "pages": "538–547"
+        },
+        "publisher": null,
+        "links": [
+          {
+            "label": "DOI",
+            "url": "https://doi.org/10.1093/fshmag/vuaf066",
+            "kind": "article"
+          }
+        ],
+        "note": "Published article verified against Oxford Academic publisher record (published July 10, 2025; Fisheries 50(12), 538–547; DOI 10.1093/fshmag/vuaf066). Earlier CV listed a different working title and in-press status.",
+        "tags": [
+          "participatory-modeling",
+          "fisheries-marine"
         ]
       },
       {
