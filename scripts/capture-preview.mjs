@@ -10,6 +10,8 @@ page.on('pageerror', error => errors.push(error.message));
 page.on('response', response => { if (response.status() >= 400 && response.url().startsWith('http://127.0.0.1')) errors.push(response.status() + ' ' + response.url()); });
 await page.goto('http://127.0.0.1:8000/variants/concept-map/', { waitUntil: 'networkidle', timeout: 60000 });
 await page.locator('#publications .pub-cite').first().waitFor();
+// Remove the sticky-navigation overlay from long section screenshots.
+await page.addStyleTag({ content: '.site-header { position: static !important; }' });
 await page.evaluate(() => document.fonts.ready);
 const expected = ['home', 'about', 'people', 'publications', 'software'];
 for (const id of expected) {
@@ -20,7 +22,11 @@ for (const id of ['home', 'about', 'people', 'software']) {
   await section.scrollIntoViewIfNeeded();
   await section.screenshot({ path: out + '/' + id + '-desktop.png', animations: 'disabled', timeout: 60000 });
 }
-await page.locator('#publications').scrollIntoViewIfNeeded();
+await page.evaluate(() => {
+  const el = document.getElementById('publications');
+  window.scrollTo({ top: Math.max(0, el.getBoundingClientRect().top + window.scrollY - 20), behavior: 'instant' });
+});
+await page.waitForTimeout(120);
 await page.screenshot({ path: out + '/publications-desktop.png', animations: 'disabled' });
 const images = await page.locator('#people img').evaluateAll(els => els.map(el => ({ src: el.getAttribute('src'), complete: el.complete, width: el.naturalWidth })));
 for (const img of images) if (!img.complete || img.width === 0) errors.push('Broken image: ' + img.src);
