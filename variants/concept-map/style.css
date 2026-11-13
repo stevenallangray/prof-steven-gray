@@ -340,3 +340,6 @@ button { cursor: pointer; }
 .project-refs { margin: 12px 0; padding-left: 18px; color: var(--ink-soft); font: .82rem/1.5 var(--font-ui); }
 .project-refs li { margin: 0 0 4px; }
 .project-refs a { color: var(--water); }
+
+/* Funder follows project heading, secondary to the research title. */
+.about-project .project-funder { font-family: var(--font-ui); font-size: .75em; font-weight: 450; color: var(--ink-soft); white-space: normal; }
