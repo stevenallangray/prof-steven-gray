@@ -7469,35 +7469,102 @@
         "title": "Knowledge Complementarity in Marine Biodiversity",
         "themes": "Lenfest Ocean Program · Marine biodiversity",
         "description": "Across Mobile Bay, Chesapeake Bay, and Puget Sound, we used interviews and collaborative modeling to examine how resource users, scientists, and managers understand biodiversity and its benefits. The research finds that stakeholder groups contribute overlapping but also distinctive knowledge, revealing ecological relationships, social benefits, and management trade-offs that a single perspective may miss. Knowledge complementarity varies by place and subject; the study examines expanded understanding, not directly measured improvements in decisions.",
-        "link": "https://www.lenfestocean.org/"
+        "link": "https://www.lenfestocean.org/",
+        "references": [
+          {
+            "label": "Gibbs et al. (2026), PNAS manuscript under review"
+          },
+          {
+            "label": "Gray et al. (2026), BioScience"
+          }
+        ]
       },
       {
         "title": "Participatory Socio-Environmental Modeling",
         "themes": "SESYNC · Participatory methods",
         "description": "This interdisciplinary research developed guidance for designing and evaluating participatory modeling processes. The Four Ps framework—Purpose, Process, Partnerships, and Products—and related methods work help researchers choose tools suited to the people, problems, and decisions involved. The central insight is that including different perspectives is only part of the challenge: how participation and knowledge integration are organized also matters.",
-        "link": "https://www.sesync.org/research/participatory-socio-environmental-modeling"
+        "link": "https://www.sesync.org/research/participatory-socio-environmental-modeling",
+        "references": [
+          {
+            "label": "Knox et al. (2023), Collective Intelligence",
+            "url": "https://journals.sagepub.com/doi/full/10.1177/26339137231203582"
+          },
+          {
+            "label": "Gray et al. (2018), Ecological Applications"
+          },
+          {
+            "label": "Voinov et al. (2018), Environmental Modelling & Software"
+          }
+        ]
       },
       {
         "title": "AI-Assisted Community Resilience Planning",
         "themes": "NIST · Artificial intelligence and public policy",
-        "description": "With NIST collaborators, we are developing and evaluating AI-assisted methods to synthesize planning documents, public comments, and stakeholder perspectives while preserving transparency and human review. Preliminary research analyzed roughly 1,500 Federal Register comments and extracted more than 54,000 candidate causal relationships concerning barriers to building-code adoption. Current work extends these methods to community resilience planning and examines when AI-generated information is reliable and useful for decisions."
-      },
-      {
-        "title": "Climate Adaptation and Coastal Resilience",
-        "themes": "NOAA · Coastal adaptation",
-        "description": "Our coastal adaptation research investigates how stakeholder knowledge, experiences, and values shape responses to flooding and shoreline change. In Florida Keys work, interviews and participatory modeling examine perceived benefits and trade-offs among nature-based, engineered, and hybrid adaptation strategies. Related research explores how different groups understand disaster impacts, helping make competing priorities visible without assuming that consensus or better decisions automatically follow."
-      },
-      {
-        "title": "Collective Action for Food System Transformation",
-        "themes": "FFAR · Flint, Michigan",
-        "description": "The Flint Leverage Points Project brought residents, food organizations, researchers, and local decision-makers together to understand food insecurity as a connected social system. Participatory research and systems modeling helped identify barriers, relationships, and potential leverage points involving food access, transportation, and organizational coordination. The project illustrates how community knowledge can inform practical options for more equitable and sustainable food systems.",
-        "link": "https://www.canr.msu.edu/flintfood/"
+        "description": "With NIST collaborators, we are developing and evaluating AI-assisted methods to synthesize planning documents, public comments, and stakeholder perspectives while preserving transparency and human review. Preliminary research analyzed roughly 1,500 Federal Register comments and extracted more than 54,000 candidate causal relationships concerning barriers to building-code adoption. Current work extends these methods to community resilience planning and examines when AI-generated information is reliable and useful for decisions.",
+        "references": [
+          {
+            "label": "Brugnone, Gray & Helgeson (2026), NIST Technical Note draft"
+          },
+          {
+            "label": "Co-DECIDR (2025), SESMO",
+            "url": "https://sesmo.org/article/view/18759"
+          },
+          {
+            "label": "Co-DECIDR (2025), NIST research brief",
+            "url": "https://www.nist.gov/publications/community-informed-decisions-efficient-cost-effective-and-integrative-disaster"
+          }
+        ]
       },
       {
         "title": "Systems Thinking and Perspective Taking in Education",
         "themes": "NSF & Heterodox Academy · STEM education",
         "description": "Our research investigates how mental modeling can support systems thinking, perspective taking, and intellectual humility in undergraduate education. We develop ways to teach and assess understanding of causal relationships, system behavior, leverage points, and trade-offs. In a classroom quasi-experiment involving nearly 1,500 students, assignments using Mental Modeler to represent opposing viewpoints helped protect against declines in open-mindedness and made students more likely to regard people with different opinions as rational. This research connects systems thinking education to how people learn to recognize other perspectives and engage constructively with disagreement.",
-        "link": "https://doi.org/10.1080/17439760.2026.2635423"
+        "link": "https://doi.org/10.1080/17439760.2026.2635423",
+        "references": [
+          {
+            "label": "Jauernig et al. (2026), Journal of Positive Psychology",
+            "url": "https://www.tandfonline.com/doi/pdf/10.1080/17439760.2026.2635423"
+          },
+          {
+            "label": "Gray et al. (2019), Sustainability",
+            "url": "https://www.mdpi.com/2071-1050/11/20/5753"
+          }
+        ]
+      },
+      {
+        "title": "Climate Adaptation and Coastal Resilience",
+        "themes": "NOAA · Coastal adaptation",
+        "description": "Our coastal adaptation research investigates how stakeholder knowledge, experiences, and values shape responses to flooding and shoreline change. In Florida Keys work, interviews and participatory modeling examine perceived benefits and trade-offs among nature-based, engineered, and hybrid adaptation strategies. Related research explores how different groups understand disaster impacts, helping make competing priorities visible without assuming that consensus or better decisions automatically follow.",
+        "references": [
+          {
+            "label": "Related: Nagel et al. (2024), Sustainability Science",
+            "url": "https://link.springer.com/article/10.1007/s11625-024-01545-y"
+          },
+          {
+            "label": "Furman et al. (2021), Marine Policy",
+            "url": "https://doi.org/10.1016/j.marpol.2020.104334"
+          }
+        ]
+      },
+      {
+        "title": "Collective Action for Food System Transformation",
+        "themes": "FFAR · Flint, Michigan",
+        "description": "The Flint Leverage Points Project brought residents, food organizations, researchers, and local decision-makers together to understand food insecurity as a connected social system. Participatory research and systems modeling helped identify barriers, relationships, and potential leverage points involving food access, transportation, and organizational coordination. The project illustrates how community knowledge can inform practical options for more equitable and sustainable food systems.",
+        "link": "https://www.canr.msu.edu/flintfood/",
+        "references": [
+          {
+            "label": "Wentworth et al. (2024), Environmental Science & Policy",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1462901123002940"
+          },
+          {
+            "label": "Knox et al. (2023), Collective Intelligence",
+            "url": "https://journals.sagepub.com/doi/full/10.1177/26339137231203582"
+          },
+          {
+            "label": "Schmitt Olabisi et al. (2023), Journal of Responsible Innovation",
+            "url": "https://www.tandfonline.com/doi/full/10.1080/23299460.2022.2102567"
+          }
+        ]
       }
     ]
   }
