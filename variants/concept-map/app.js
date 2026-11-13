@@ -250,7 +250,7 @@
       ? h('div', { class: 'about-projects' },
           h('h3', { class: 'about-subtitle' }, 'Representative Research Projects'),
           research.projects.map((p) => h('article', { class: 'about-project' },
-            h('h4', null, p.title, p.funder && h('span', { class: 'project-funder' }, ' · ', p.funder)), h('p', null, inline(p.description)),
+            h('h4', null, p.title, p.funder && h('span', { class: 'project-funder' }, ' (', p.funder, ')')), h('p', null, inline(p.description)),
             p.themes && h('p', { class: 'project-themes' }, p.themes),
             p.link && h('a', { href: p.link, target: '_blank', rel: 'noopener noreferrer' }, 'Project information'))))
       : null;
