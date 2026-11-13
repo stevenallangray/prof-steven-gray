@@ -335,3 +335,8 @@ button { cursor: pointer; }
 .about-project .project-themes { font-family: var(--font-ui); color: var(--water); font-size: .85rem; margin: 10px 0 8px; }
 .about-project a { font-family: var(--font-ui); font-size: .9rem; }
 @media(max-width: 700px) { .about-projects { grid-template-columns: 1fr; } }
+
+/* Quiet, compact scholarly references beneath featured research projects. */
+.project-refs { margin: 12px 0; padding-left: 18px; color: var(--ink-soft); font: .82rem/1.5 var(--font-ui); }
+.project-refs li { margin: 0 0 4px; }
+.project-refs a { color: var(--water); }
