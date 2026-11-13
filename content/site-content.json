@@ -7447,23 +7447,15 @@
     "intro": [
       {
         "type": "paragraph",
-        "text": "The Plural Intelligence Lab studies how people understand, interact with, and make decisions about complex social–ecological systems. We are particularly interested in how different ways of knowing, across individuals, communities, and scientific disciplines, shape our understanding of environmental problems, collective decisions, and sustainability outcomes."
+        "text": "The Plural Intelligence Lab studies how people understand complex social–ecological systems and how different forms of knowledge influence environmental decisions. Our research focuses on knowledge diversity, collective intelligence, and sustainability, particularly when and how different perspectives contribute to better understanding, decision-making, and environmental outcomes."
       },
       {
         "type": "paragraph",
-        "text": "Our research examines the relationships among human behavior, knowledge diversity, collective intelligence, and environmental change. We study how values, beliefs, local experiences, and social conditions influence the ways people understand problems and make decisions about systems such as fisheries, food production, biodiversity, and climate adaptation. An important part of our work is understanding how differences in knowledge and perspective can contribute to better decisions, but also why greater diversity does not always lead to better outcomes."
+        "text": "We investigate how knowledge is distributed across individuals and communities, how collective understanding emerges through social interaction, and why bringing different perspectives together does not always produce better decisions. Increasingly, we also explore how artificial intelligence and computational approaches can help represent, analyze, and integrate knowledge while complementing human expertise and collaborative decision-making."
       },
       {
         "type": "paragraph",
-        "text": "Over the past decade, our research has increasingly focused on collective intelligence and the possibilities of artificial intelligence for understanding and addressing complex environmental challenges. We investigate how knowledge distributed across individuals and groups can be combined, how collective understanding emerges through social interactions, and how AI and computational approaches can help identify patterns, represent different perspectives, and support decision-making. We are especially interested in the relationship between human and artificial intelligence, including how emerging technologies can complement rather than replace human expertise, local knowledge, and collaborative decision processes."
-      },
-      {
-        "type": "paragraph",
-        "text": "Our work combines social science, participatory research, and computational modeling. We use interviews, surveys, participatory workshops, fuzzy cognitive mapping, agent-based modeling, network analysis, and increasingly AI-assisted approaches to study the connections among knowledge, behavior, decisions, and environmental outcomes. We also develop research frameworks and software, including [Mental Modeler](https://www.mentalmodeler.com), to help researchers and practitioners represent, integrate, and analyze different understandings of complex systems."
-      },
-      {
-        "type": "paragraph",
-        "text": "Collaboration is central to our approach. We work across fields including ecology, sociology, economics, cognitive science, planning, and computer science, and directly with the people who live and work in the environmental systems we study. Ultimately, we want to understand when and how different forms of knowledge and intelligence can be brought together to improve our ability to navigate environmental change and make more sustainable decisions."
+        "text": "Our work combines environmental social science, participatory research, and computational modeling, including interviews, surveys, fuzzy cognitive mapping, agent-based modeling, network analysis, and AI-assisted methods. We collaborate with researchers, communities, and decision-makers on challenges involving biodiversity conservation, fisheries governance, climate adaptation, and sustainable food systems. We also develop tools, including [Mental Modeler](https://www.mentalmodeler.com), to help people understand complex systems and make more informed decisions together."
       }
     ],
     "support": [
