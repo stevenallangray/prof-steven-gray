@@ -653,6 +653,9 @@
                     }
                   }
                 }
+              },
+              "funder": {
+                "type": "string"
               }
             }
           }
