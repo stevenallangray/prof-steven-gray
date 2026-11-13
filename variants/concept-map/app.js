@@ -296,7 +296,7 @@
         h('h4', { class: 'person-name' }, m.name.display),
         h('p', { class: 'person-role' }, m.role),
         bio, toggle,
-        m.links?.length ? h('p', { class: 'person-links' }, m.links.map((l) => extLink(l.url, l.label))) : null));
+        isLead && m.links?.length ? h('p', { class: 'person-links' }, m.links.map((l) => extLink(l.url, l.label))) : null));
   }
 
   /* ---------- publications ---------- */
@@ -385,7 +385,13 @@
         return;
       }
       const byYear = new Map();
-      for (const e of rows.sort((a, b) => b.year - a.year || (a.sortKey ?? 1e6) - (b.sortKey ?? 1e6) || a._i - b._i)) {
+      for (const e of rows.sort((a, b) => {
+        // Show manuscripts without a publication year first, then published work newest to oldest.
+        if (a.year == null && b.year != null) return -1;
+        if (b.year == null && a.year != null) return 1;
+        if (a.year != null && b.year != null && a.year !== b.year) return b.year - a.year;
+        return (a.sortKey ?? 1e6) - (b.sortKey ?? 1e6) || a._i - b._i;
+      })) {
         if (!byYear.has(e.year)) byYear.set(e.year, []);
         byYear.get(e.year).push(e);
       }
