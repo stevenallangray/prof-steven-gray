@@ -1,5 +1,5 @@
 {
-  "capturedAt": "2026-11-13T18:32:05.489Z",
+  "capturedAt": "2026-11-13T18:33:32.626Z",
   "pageTitle": "Plural Intelligence Lab | Michigan State University",
   "publications": 123,
   "peopleImages": [
@@ -24,5 +24,6 @@
       "width": 120
     }
   ],
+  "mobileHorizontalOverflow": 0,
   "errors": []
 }
