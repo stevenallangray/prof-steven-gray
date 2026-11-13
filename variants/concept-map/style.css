@@ -342,4 +342,4 @@ button { cursor: pointer; }
 .project-refs a { color: var(--water); }
 
 /* Funder follows project heading, secondary to the research title. */
-.about-project .project-funder { font-family: var(--font-ui); font-size: .75em; font-weight: 450; color: var(--ink-soft); white-space: normal; }
+.about-project .project-funder { font-family: var(--font-ui); font-size: .75em; font-style: italic; font-weight: 450; color: var(--ink-soft); white-space: normal; }
