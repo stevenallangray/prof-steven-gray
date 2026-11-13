@@ -624,37 +624,6 @@
     ],
     "entries": [
       {
-        "id": "gray-cv-2026-007",
-        "type": "journal-article",
-        "year": null,
-        "status": "in-revision",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Knox, C., S. Gray, M., Zahree, R. Wallace1, C. Wentworth, and L.S. Olabisi",
-            "family": null,
-            "given": null,
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "Utilizing participatory modeling and leverage points perspective to evaluate interventions to address racial inequities in food systems",
-        "venue": {
-          "name": "Agriculture and Human Values",
-          "volume": null,
-          "issue": null,
-          "pages": null
-        },
-        "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Knox, C., S. Gray, M., Zahree, R. Wallace1, C. Wentworth, and L.S. Olabisi. Utilizing participatory modeling and leverage points perspective to evaluate interventions to address racial inequities in food systems. (in revision) Agriculture and Human Values.",
-        "tags": [
-          "participatory-modeling",
-          "food-systems",
-          "agriculture"
-        ]
-      },
-      {
         "id": "gray-cv-2026-016",
         "type": "journal-article",
         "year": null,
@@ -683,33 +652,6 @@
           "participatory-modeling",
           "fisheries-marine"
         ]
-      },
-      {
-        "id": "gray-cv-2026-005",
-        "type": "journal-article",
-        "year": null,
-        "status": "under-review",
-        "peerReviewed": true,
-        "authors": [
-          {
-            "display": "Pilgram, C., A. Bate, A. Sigalou, M. Aellen, E. Warren, C. Krupenye, D. Biro, J. Becker, J. Morford, S. Gray and R. Mann",
-            "family": null,
-            "given": null,
-            "role": null,
-            "personId": null
-          }
-        ],
-        "title": "The wisdom of the crowds of crowds",
-        "venue": {
-          "name": "Proceedings of the Royal Society B: Biological Sciences",
-          "volume": null,
-          "issue": null,
-          "pages": null
-        },
-        "publisher": null,
-        "links": [],
-        "note": "CV citation (CV-derived; bibliographic verification pending): Pilgram, C., A. Bate, A. Sigalou, M. Aellen, E. Warren, C. Krupenye, D. Biro, J. Becker, J. Morford, S. Gray and R. Mann. The wisdom of the crowds of crowds. (in review) Proceedings of the Royal Society B: Biological Sciences",
-        "tags": []
       },
       {
         "id": "gray-cv-2026-003",
