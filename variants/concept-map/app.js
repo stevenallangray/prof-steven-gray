@@ -218,7 +218,7 @@
     const [question, lede] = data.home.body;
     const themes = [
       { title: 'Knowledge Diversity', description: 'How people understand complex systems differently, and why those differences matter.' },
-      { title: 'Collective Intelligence', description: 'When and how diverse perspectives contribute to shared understanding and better decisions.' },
+      { title: 'Collective Intelligence', description: 'When and how diverse perspectives contribute to shared understanding and better decisions (and when they do not).' },
       { title: 'AI & Computation', description: 'Using computational modeling and AI to represent knowledge and support human decisions.' }
     ];
 
