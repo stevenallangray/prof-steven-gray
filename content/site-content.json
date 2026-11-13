@@ -405,6 +405,37 @@
             "kind": "website"
           }
         ]
+      },
+      {
+        "id": "mahdi-zareei",
+        "name": {
+          "display": "Mahdi Zareei",
+          "given": "Mahdi",
+          "family": "Zareei"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD alumnus",
+        "degree": "PhD",
+        "graduationYear": null,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Mahdi completed doctoral research in Community Sustainability at Michigan State University, focusing on sustainable food systems and modeling coupled human–environment systems using system dynamics and agent-based approaches. His work with the Flint food systems project examined social networks and the movement of food, information, and resources. His professional profile lists an affiliation with Michigan State University's College of Engineering, Applied Engineering Science Program."
+          }
+        ],
+        "links": [
+          {
+            "label": "Professional profile",
+            "url": "https://www.linkedin.com/in/mahdi-zareei-phd/",
+            "kind": "website"
+          },
+          {
+            "label": "MSU research profile",
+            "url": "https://msu-prod.dotcmscloud.com/people/zareei",
+            "kind": "website"
+          }
+        ]
       }
     ]
   },
