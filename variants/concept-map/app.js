@@ -215,14 +215,23 @@
 
   /* ---------- home ---------- */
   function renderHome(data, sec) {
-    const [lede, ...rest] = data.home.body;
-    const showNews = false;
+    const [question, lede] = data.home.body;
+    const themes = [
+      { title: 'Knowledge Diversity', description: 'How people understand complex systems differently, and why those differences matter.' },
+      { title: 'Collective Intelligence', description: 'When and how diverse perspectives contribute to shared understanding and better decisions.' },
+      { title: 'AI & Computation', description: 'Using computational modeling and AI to represent knowledge and support human decisions.' }
+    ];
 
     const hero = h('div', { class: 'wrap hero' },
       h('div', { class: 'hero-grid' },
         h('div', { class: 'hero-copy' },
           h('h1', { class: 'hero-title' }, h('img', { class: 'hero-logo', src: assetUrl('img/plural-intelligence-logo.png'), alt: 'Plural Intelligence Lab — Knowledge Diversity, Collective Intelligence, Sustainable Futures' })),
-          lede && lede.type === 'paragraph' && h('p', { class: 'hero-lede' }, inline(lede.text)),
+          question && h('p', { class: 'hero-question' }, inline(question.text)),
+          lede && h('p', { class: 'hero-lede' }, inline(lede.text)),
+          h('ul', { class: 'theme-list', 'aria-label': 'Research themes' },
+            themes.map((theme, i) => h('li', { class: 'theme-item theme-item-' + (i + 1) },
+              h('h2', { class: 'theme-title' }, theme.title),
+              h('p', { class: 'theme-description' }, theme.description)))),
           h('p', { class: 'hero-place' }, data.meta.institution)),
         h('div', { class: 'map-wrap' },
           h('div', { class: 'map', id: 'concept-map', role: 'group', 'aria-label': 'Research topics. Select a topic to filter the publications.' }),
