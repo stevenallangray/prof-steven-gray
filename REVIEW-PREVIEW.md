@@ -27,7 +27,7 @@ Irene is a PhD candidate in Political Science at the Universitat de València, a
 
 ![Max Toloff portrait](img/people/max-toloff-puzzle.webp)
 #### Max Toloff — MS Student
-Max is a master's student in the Department of Community Sustainability at Michigan State University and a researcher in the Plural Intelligence Lab.
+Max is a master's student in the Department of Community Sustainability at Michigan State University and a researcher in the Plural Intelligence Lab. His research focuses on how diversity in teams helps or hinders group performance.
 
 ### Former lab members
 Compact text-only profiles, without photos or external profile links.
