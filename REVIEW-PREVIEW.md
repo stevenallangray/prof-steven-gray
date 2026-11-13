@@ -59,11 +59,9 @@ Compact text-only profiles, without photos or external profile links.
 
 
 ## Publications
-**125 current records.** Publications are arranged by date, newest first, with undated in-review/in-press items at the beginning. Journal titles are displayed; internal editorial notes are not.
+**123 current records.** Publications are arranged by date, newest first, with undated in-review/in-press items at the beginning. Journal titles are displayed; internal editorial notes are not.
 
-- Knox, C., S. Gray, M., Zahree, R. Wallace1, C. Wentworth, and L.S. Olabisi (in revision). **Utilizing participatory modeling and leverage points perspective to evaluate interventions to address racial inequities in food systems**. *Agriculture and Human Values*.
 - Prasky, E. G., M, Drymon, J. Mitchell, G. Jackson, S. Scyphers, S. Gray, G. Casselberry, L. Griffin, A. Danylchuk (in press). **Towards building a shared vision: Using Fuzzy Cognitive Mapping to co-produce a shared understanding of depredation in recreational fisheries**. *Fisheries*.
-- Pilgram, C., A. Bate, A. Sigalou, M. Aellen, E. Warren, C. Krupenye, D. Biro, J. Becker, J. Morford, S. Gray and R. Mann (under review). **The wisdom of the crowds of crowds**. *Proceedings of the Royal Society B: Biological Sciences*.
 - Gibbs, S., K. Furman, S. Gray, C.B. Knox, G. Canonico, S. Scyphers, A. E. Sutton-Grier, M. Kenney, C. S. Smith, M. Karnauskas, J. Bernhardt, and J. E. Duffy (under review). **The role of knowledge complementarity in managing marine biodiversity**. *Proceedings of the National Academy of Sciences*.
 - M. Zareei, S.A. Gray, C.B. Knox, R Sadler, L., Schmitt-Oabisi, C. Wentworth, and J. Helgeson (under review). **Measuring what matters: Monitoring community-identified values in local food systems**. *Environmental and Sustainability Indicators*.
 - Gould, R., S. M. Richter, S. L. Powers, B Allf, S. Gray, H. Kretser, K. Leong, P. Loring, D. Peña, A. Sharma, A. Adams, L. Colburn, H. N. Eyster, M. Hargreaves-Méndez, A. Himes, K. Hoelting, S. Klain, L. Larson, H. Liu, A. Ording, N. A. Pitas, E. B. Drogin-Rodgers, M. Shea, Y. Won, I. Wu, and R Saud (under review). **Comprehensive ecosystem management must include nature’s nonmaterial values**. *Environmental Research Letters*.
