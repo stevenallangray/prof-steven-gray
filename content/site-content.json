@@ -466,22 +466,38 @@
       {
         "id": "nathan-brugonee",
         "name": {
-          "display": "Nathan Brugonee",
+          "display": "Nathan Brugnone",
           "given": "Nathan",
-          "family": "Brugonee"
+          "family": "Brugnone"
         },
         "groupId": "graduate-students-former",
-        "role": "PhD, 2023",
+        "role": "Dual PhD, 2023",
         "degree": "PhD",
         "graduationYear": 2023,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Nathan completed his PhD at Michigan State University in 2023 and subsequently worked as a computational social scientist at Two Six Labs. His specific doctoral research focus is awaiting confirmation."
+            "text": "Nathan completed dual PhDs in Community Sustainability and Computational Mathematics, Science and Engineering at Michigan State University in 2023. His dissertation developed machine-learning and graph-based methods for understanding emergence in complex social–ecological systems, with applications to cognitive mapping, collective intelligence, and maternal and child healthcare in Nigeria. Following graduation, he became a Senior Research Scientist at Two Six Technologies, where he worked on computational approaches to extracting and analyzing collective knowledge."
           }
         ],
-        "links": []
+        "links": [
+          {
+            "label": "MSU dissertation defense and abstract",
+            "url": "https://cmse.msu.edu/NewsEvents/news/nathan_brugnone.aspx",
+            "kind": "website"
+          },
+          {
+            "label": "MSU College of Engineering profile",
+            "url": "https://engineering.msu.edu/news/using-collective-intelligence-greater-good",
+            "kind": "website"
+          },
+          {
+            "label": "Dissertation on ProQuest",
+            "url": "https://www.proquest.com/openview/62acf7fe8e215892e275eb1f22ba5175/1?pq-origsite=gscholar&cbl=18750&diss=y",
+            "kind": "website"
+          }
+        ]
       }
     ]
   },
