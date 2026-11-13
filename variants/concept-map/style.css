@@ -300,3 +300,28 @@ button { cursor: pointer; }
 .about-project h4 { margin: 0 0 8px; font-size: 1.1rem; }
 .about-project p { margin: 0 0 8px; max-width: 68ch; }
 .project-themes { color: var(--ink-soft); font-size: .9rem; }
+
+/* Homepage introduction: compact hierarchy between identity and interactive map. */
+.hero-copy { max-width: 1100px; }
+.hero-title { margin-bottom: clamp(12px, 2vw, 22px); }
+.hero-question {
+  font-family: var(--font-ui); font-size: clamp(1.25rem, 2.15vw, 1.7rem);
+  font-weight: 650; line-height: 1.35; max-width: 66ch; margin: 0 0 12px;
+}
+.hero-lede { font-size: clamp(.98rem, 1.45vw, 1.09rem); max-width: 84ch; margin-bottom: 18px; }
+.theme-list {
+  list-style: none; padding: 0; margin: 0 0 12px;
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(12px, 2.4vw, 24px);
+}
+.theme-item { padding: 12px 16px 12px 15px; border-left: 3px solid var(--water); background: color-mix(in srgb, var(--paper) 62%, transparent); }
+.theme-item-2 { border-left-color: #638f78; }
+.theme-item-3 { border-left-color: #bd9257; }
+.theme-title { font: 650 clamp(1rem, 1.3vw, 1.13rem)/1.35 var(--font-ui); margin: 0 0 7px; letter-spacing: -.015em; }
+.theme-description { font-size: .93rem; line-height: 1.5; color: var(--ink-soft); margin: 0; }
+.hero-place { font-size: .85rem; margin-top: 12px; }
+.hero-grid { gap: clamp(16px, 2.8vw, 32px); }
+@media (max-width: 719px) {
+  .theme-list { grid-template-columns: 1fr; gap: 8px; }
+  .theme-item { padding: 9px 12px; }
+  .theme-title { margin-bottom: 3px; }
+}
