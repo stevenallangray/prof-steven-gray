@@ -1,6 +1,6 @@
 # Website-review: Content preview
 
-> **Review-only view of the current private `website-review` branch.** This is a durable GitHub Markdown preview of the website's CONTENT, **not the designed website or a live deployment**. It requires repository access. No changes to `main` or public Pages were made.
+> **Review-only view of the current private `website-review` branch.** This is a GitHub Markdown preview of CONTENT, not a live designed website. Repository access is required; `main` remains unchanged.
 
 ## Navigation
 Home · About · People · Publications · Software
@@ -16,35 +16,26 @@ I'm currently a Professor in the Department of Community Sustainability at Michi
 [Curriculum Vitae (PDF, November 2026)](https://drive.google.com/file/d/1GvIrXfA0ZiQFSKrUtORB54nJCly4RQmg/view)
 
 ### Current graduate researchers
-Three current researcher profiles, with standardized square images committed to this branch.
+Three current researcher profiles with standardized square images.
 ![Abigail Ording portrait](img/people/abby-ording.webp)
-
 #### Abigail Ording — MS Student
 Abby is a master's student in the Department of Community Sustainability at Michigan State University. Her research examines relationships among culture, the biophysical characteristics of nature, and human well-being. She is particularly interested in how environmental design influences ecosystem services and public health outcomes. Her recent research includes studies of urban greenspace and mental health in Flint, Michigan, and relationships between urban biodiversity and maternal health. Abby holds a BS in Environmental Studies and Sustainability from MSU and plans to pursue doctoral study.
 
 ![Irene Luján Climent portrait](img/people/irene-lujan-climent.webp)
-
 #### Irene Luján Climent — Visiting PhD Researcher
 Irene is a PhD candidate in Political Science at the Universitat de València, a member of the OVAGAP research group, and a Fulbright Predoctoral Research Fellow at Michigan State University. Her research examines governance and management of the commons, focusing on how institutional arrangements influence collective decision-making and shared-resource management. Through the BlueGreen Governance project (Horizon Europe/UKRI), she studies coastal wetland governance in the Valencian Region using multilevel governance and ecofeminist perspectives. At MSU, she is developing a comparative study of water governance in the Great Lakes region and Europe.
 
-![Blue puzzle piece](img/people/max-toloff-puzzle.webp)
-
+![Max Toloff portrait](img/people/max-toloff-puzzle.webp)
 #### Max Toloff — MS Student
 Max is a master's student in the Department of Community Sustainability at Michigan State University and a researcher in the Plural Intelligence Lab.
 
 ### Former lab members
-Compact text-only profiles; no alumni photos.
+Compact text-only profiles, without photos or external profile links.
 **Mahdi Zahreei** — PhD, 2024. Mahdi's doctoral research investigated sustainable food systems and computational modeling of coupled human–environment systems, including system dynamics and agent-based modeling. He subsequently became an Assistant Research Professor at Michigan State University.
-[Professional profile](https://www.linkedin.com/in/mahdi-zareei-phd/)
-[MSU research profile](https://msu-prod.dotcmscloud.com/people/zareei)
 
 **Carissa (Carst) Knox** — PhD, 2024. Carst's research examined race, equity, and participation in local food systems, including work supported by a University of Michigan Anti-Racism Summer Research Grant. She subsequently pursued postdoctoral research affiliated with USDA and the University of Vermont.
-[University of Michigan research award](https://seas.umich.edu/news/in-the-media/seas-phd-student-carissa-knox-awarded-anti-racism-summer-research-grant)
 
 **Nathan Brugnone** — Dual PhD, 2023. Nathan developed machine-learning and graph-based approaches to studying emergent behavior in complex systems, including applications to cognitive mapping and collective intelligence. He subsequently joined Two Six Technologies as a computational social scientist and Senior Research Scientist.
-[MSU dissertation defense and abstract](https://cmse.msu.edu/NewsEvents/news/nathan_brugnone.aspx)
-[MSU College of Engineering profile](https://engineering.msu.edu/news/using-collective-intelligence-greater-good)
-[Dissertation on ProQuest](https://www.proquest.com/openview/62acf7fe8e215892e275eb1f22ba5175/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 **Payam Aminpor** — PhD, 2020. Payam studied knowledge integration, collective intelligence, and agent-based modeling of environmental decision-making. Following his PhD, he conducted postdoctoral research at Johns Hopkins University in collaboration with NIST.
 
@@ -59,19 +50,16 @@ Compact text-only profiles; no alumni photos.
 **Jackie Halbrendt** — PhD, 2014. Jackie investigated the social dimensions of conservation agriculture and international agricultural development, using participatory approaches to understand household and community decision-making. She subsequently conducted postdoctoral research at Wageningen University.
 
 **Molly Miller** — MS, 2014. Molly investigated fishers' participation in cooperative fisheries research and the outcomes of scientist–fisher collaboration. Following her master's degree, she pursued doctoral research at the University of Maine and later worked with the Maine Center for Coastal Fisheries.
-[Professional profile](https://www.linkedin.com/in/molly-miller-ph-d-47825a97/)
-[Maine Center for Coastal Fisheries](https://coastalfisheries.org/maine-center-for-coastal-fisheries-is-on-the-move-introducing-new-team-members/)
 
 **Angela Nyaki** — MS, 2013. Angela studied participatory wildlife management and community perspectives on illegal hunting in Tanzania's Serengeti ecosystem. She subsequently held management positions with Tanzania National Parks.
 
 **Mary Pleasant** — MS, 2013. Mary's research focused on community-based conservation, natural-resource management, and ecosystem services. She subsequently worked as a Research Scientist with The Nature Conservancy.
-[Professional profile](https://www.linkedin.com/in/mary-pleasant-957b66111/)
 
 **Noleen Chikowore** — PhD. Noleen studied stakeholder perceptions, participatory modeling, and environmental decision-making in sustainable household waste management in developing countries. She subsequently held an academic appointment at the University of Leeds.
 
 
 ## Publications
-**125 records in the current canonical file.** The entries below are derived from structured bibliographic fields. Journal names are displayed; internal verification notes are not included.
+**125 current records.** Publications are arranged by date, newest first, with undated in-review/in-press items at the beginning. Journal titles are displayed; internal editorial notes are not.
 
 - Knox, C., S. Gray, M., Zahree, R. Wallace1, C. Wentworth, and L.S. Olabisi (in revision). **Utilizing participatory modeling and leverage points perspective to evaluate interventions to address racial inequities in food systems**. *Agriculture and Human Values*.
 - Prasky, E. G., M, Drymon, J. Mitchell, G. Jackson, S. Scyphers, S. Gray, G. Casselberry, L. Griffin, A. Danylchuk (in press). **Towards building a shared vision: Using Fuzzy Cognitive Mapping to co-produce a shared understanding of depredation in recreational fisheries**. *Fisheries*.
@@ -79,7 +67,6 @@ Compact text-only profiles; no alumni photos.
 - Gibbs, S., K. Furman, S. Gray, C.B. Knox, G. Canonico, S. Scyphers, A. E. Sutton-Grier, M. Kenney, C. S. Smith, M. Karnauskas, J. Bernhardt, and J. E. Duffy (under review). **The role of knowledge complementarity in managing marine biodiversity**. *Proceedings of the National Academy of Sciences*.
 - M. Zareei, S.A. Gray, C.B. Knox, R Sadler, L., Schmitt-Oabisi, C. Wentworth, and J. Helgeson (under review). **Measuring what matters: Monitoring community-identified values in local food systems**. *Environmental and Sustainability Indicators*.
 - Gould, R., S. M. Richter, S. L. Powers, B Allf, S. Gray, H. Kretser, K. Leong, P. Loring, D. Peña, A. Sharma, A. Adams, L. Colburn, H. N. Eyster, M. Hargreaves-Méndez, A. Himes, K. Hoelting, S. Klain, L. Larson, H. Liu, A. Ording, N. A. Pitas, E. B. Drogin-Rodgers, M. Shea, Y. Won, I. Wu, and R Saud (under review). **Comprehensive ecosystem management must include nature’s nonmaterial values**. *Environmental Research Letters*.
-- Zareei, M., Knox, C., Helgeson, J., Gray, S. A., Sadler, R. C., Schmitt Olabisi, L., Wentworth, C. (2025). **Community-informed Decisions for Equitable, Cost-effective, and Inclusive Disaster Resilience Planning (Co-DECIDR): A modeling approach**. *Socio-Environmental Systems Modelling*, 7, 18759. [DOI](https://doi.org/10.18174/sesmo.18759)
 - Gray, S.A., K. Furman, G. Canonico, S. Gibbs, C.B. Knox, S. Scyphers, A. Sutton-Grier, M. A. Kenney, and J. E Duffy (in press). **A method for moving biodiversity assessment out of pure research and into decision-making**. *BioScience*.
 - Jordan, R. C., Sorensen, A. E., Gray, S. A. (2026). **“I just do not have more energy to deal with this!”: A chairperson’s perspective on levels of stress among students and faculty engaged in coursework at a Midwestern University in the United States**. *Frontiers in Education*, 11, 1591268. [DOI](https://doi.org/10.3389/feduc.2026.1591268)
 - Kenney, M. A., (plus 174 co-authors, formally of the US National Climate Assessment 6) (2026). **Research priorities for robust climate assessments in the United States**. *Earth’s Future*, 14(9), e2025EF007336. [DOI](https://doi.org/10.1029/2025EF007336)
@@ -90,6 +77,8 @@ Compact text-only profiles; no alumni photos.
 - Brugnone, N., S. Gray, and J. Helgeson (2026). **Barriers to the adoption of building codes: Evidence from a Fuzzy Cognitive Map analysis of Federal Register public comments**..
 - Sehati, A., Gray, S. A. (2026). **Augmenting process failure mode and effects analysis with Fuzzy Cognitive Mapping for dynamic manufacturing risk assessment**. *Systems*, 14(10), 1310. [DOI](https://doi.org/10.3390/systems14101310)
 - Cholewicki, J., P. W. Hodges, J. Popovich., P. Aminpour, S., Gray, A.S. Lee, A. Breen, S. Brumagne, J van Dieën, L. R. Van Dillen, T. E. Dreisinger, M. Ferreira, S. Z. George, C. M. Goertz, J. Hartvigsen, J. A. Hides, D. Hoy, G. N. Kawchuk, B. W. Koes, R. Kothe, H. M. Langevin, D. Lee, J. C. Lotz, G. Moseley, H. Prather, N. Reeves,S. Sahrmann, R. Smeets, L. S. Stone, J. Vlaeyen, PhD 27 ; J. C. Wang and S. Weiser (2026). **A meta-model of low back pain to examine collective expert knowledge of the effects of treatments and their mechanisms**. *European Spine Journal*.
+- Zareei, M., Knox, C., Helgeson, J., Gray, S. A., Sadler, R. C., Schmitt Olabisi, L., Wentworth, C. (2025). **Community-informed Decisions for Equitable, Cost-effective, and Inclusive Disaster Resilience Planning (Co-DECIDR): A modeling approach**. *Socio-Environmental Systems Modelling*, 7, 18759. [DOI](https://doi.org/10.18174/sesmo.18759)
+- Von Hagen, L., Gray, S. A., Schulte, B., Githiru, M., Kiute, H., Lepczyk, C. A. (2025). **Participatory modelling across Kenyan villages facilitates insights into the complexity of human–elephant interactions**. *Oryx*, 59(1), 40–49. [DOI](https://doi.org/10.1017/S0030605324000449)
 - Nagel, B., E. Anggraini, N. Buhari, S. Gray, S. Partelow, and A. Schlüter (2024). **Mental models of aquaculture governance in Indonesia**. *Sustainability Science*.
 - Nathan Brugnone, Noam Benkler, Péter Révay, Rebecca Myhre, Scott Friedman, Sonja Schmer-Galunder, Steven Gray, James E. Gentile (2024). **Is from ought? A comparison of unsupervised methods for structuring values-based wisdom-of-crowds estimates**. *Journal of Computational Social Science*, 7(2), 1327–1377. [DOI](https://doi.org/10.1007/s42001-024-00273-8)
 - Giabbanelli, P., C. Knox, K., Furman, S Gray, and A. Jetter (2024). **Defining and Using Fuzzy Cognitive Mapping (2024)**..
@@ -100,6 +89,7 @@ Compact text-only profiles; no alumni photos.
 - Lalani, B., Gray, S., Mitra-Ganguli, T. (2023). **Systems Thinking in an era of climate change: Does cognitive neuroscience hold the key to improving environmental decision making? A perspective on Climate-Smart Agriculture**. *Frontiers in Integrative Neuroscience*, 17, 1145744. [DOI](https://doi.org/10.3389/fnint.2023.1145744)
 - Knox, C.B., S. Gray, M., Zareei, N. Brugnone, P. Aminpour, R. Wallace, J. Hodbod, and C. Wentworth (2023). **Modeling complex problems by harnessing the collective intelligence of local experts: New approaches in Fuzzy Cognitive Mapping**. *Collective Intelligence*.
 - Olabisi, L.S., C Wentworth, K. Key, RV. Wallace1, M. McNall, J. Hodbod, and S.A. Gray (2023). **Defining success in community-university partnerships: lessons learned from Flint Journal of Responsible Innovation, 1-23**. *Journal of Responsible Innovation*.
+- Jordan, R. C., Gray, S., Boyse-Peacor, A., Sorensen, A. E., Frantz, C. M., Jauernig, J., Brehm, P., Shammin, M. R., Petersen, J. (2023). **Promoting systems thinking through perspective taking when using an online modeling tool**. *Frontiers in Education*, 8, 1215436. [DOI](https://doi.org/10.3389/feduc.2023.1215436)
 - Aminpour, P. S. Gray, M. Beck, K. Furman, I. Tsakiri, R. Gittman, J. Grabowski, J. Helgeson, L. Josephs, M. Ruth, and S. Scyphers (2022). **Urbanized knowledge syndrome: Lower knowledge diversity and systems thinking in urban coastal residents**. *npj Urban Sustainability*.
 - Jordan, R., A. Sorenson, and S. Gray (2022). **Participatory modeling in support of citizen science**. *Forests*.
 - Murphy, R., J. Grabowski, S., Gray and S. Scyphers (2022). **Diversity in motivations and behavioral response to regulations in the Striped Bass commercial fishery**. *Fisheries*.
@@ -115,10 +105,10 @@ Compact text-only profiles; no alumni photos.
 - Jordan, R.C., A. Sorenson, and S.A. Gray (2021). **Citizen Science, experts and expertise**. *Current World Environment*.
 - Mamiit, R, S. Gray, J. Yanigida (2021). **Characterizing farm-level social relations’ influence on sustainable food production**. *Journal of Rural Studies*.
 - Becca B. R. Jablonski, Joy Casnovsky, Jill K. Clark, Rebecca Cleary, Beth Feingold, Darcy Freedman, Steven Gray, Xiaobo Romeiko, Laura Schmitt Olabisi, Mariana Torres, Alexandra E. van den Berg, Colleen Walsh, Chelsea Wentworth (2021). **Emergency food provision for children and families during the COVID-19 pandemic: Examples from five U.S. cities**. *Applied Economic Perspectives and Policy*, 43(1), 169–184. [DOI](https://doi.org/10.1002/aepp.13096)
+- Kininmonth, S., Gray, S., Kok, K. (2021). **Expert modelling**. *The Routledge Handbook of Research Methods for Social-Ecological Systems*, 231–240. [DOI](https://doi.org/10.4324/9781003021339-20)
 - Jordan, R.C., Sorenson, A. and S. Gray (2020). **Undertaking program evaluation**..
 - Aminpor, P., S. Gray, A. Jetter, J. Introne, and R. Arlinghaus (2020). **The wisdom of stakeholder crowds in complex social-ecological systems**. *Nature Sustainability*.
 - Aminpor, P., S. Gray, A. Singer, A. L. Castro, A, Ramlan, and N. Chicoworee (2020). **Perspectives of scholars on the nature of sustainability: a survey study Sustainability in Higher Education 21(1), 34-53**. *International Journal of Sustainability in Higher Education*.
-- Kininmonth, S., Gray, S., Kok, K. (2021). **Expert modelling**. *The Routledge Handbook of Research Methods for Social-Ecological Systems*, 231–240. [DOI](https://doi.org/10.4324/9781003021339-20)
 - Metzger, A. E., Gray, S. A., Papageorgiou, E. I., Jetter, A. J. (2020). **Typologies and Trade-offs in FCM Studies: A Guide to Designing Participatory Research Using Fuzzy Cognitive Maps**. *Innovations in Collaborative Modeling*, 47–78. [DOI](https://doi.org/10.14321/j.ctvz9396g.9)
 - Gray, S., Aminpor, P., C. Reza*, S. Scyphers, J. Grabowski, R. Murphy Jr., A. Jetter, and R.C. Jordan (2020). **Harnessing collective intelligence for conservation**. *Frontiers in Ecology and the Environment*.
 - Barnhagen, C., P. Howard and S. Gray (2020). **Farmer mental models of biological pest control: Associations with adoption of conservation practices in blueberry and cherry orchards**. *Frontiers in Sustainable Food Systems*.
@@ -131,13 +121,13 @@ Compact text-only profiles; no alumni photos.
 - Metzger, A., S. Gray, E. Douglas, N. Haigh, and P. Kirshen (2019). **Categorizing and clustering knowledge in Fuzzy Cognitive Maps**. *International Journal of System of Systems Engineering*.
 - Gray, S., E., Sterling, C. Wei, S. Akabas, A. Singer, P. Giabbanelli, R. Jordan, J. Hodbod. and P. Norris (2019). **Assessing (social-ecological) systems thinking using concept mapping techniques**. *Sustainability*.
 - Murphy, R., J. Grabowski, S., Gray and S. Scyphers (2019). **Angler attitudes explain disparate behavioral reactions to fishery Regulations**. *Fisheries*.
+- Jordan, R. C., Sorensen, A. E., Shwom, R., Robinson, J. M., Isenhour, C., Gray, S., Nucci, M., Ebert-May, D. (2019). **Using authentic science in climate change education**. *Applied Environmental Education & Communication*, 18(4), 350–381. [DOI](https://doi.org/10.1080/1533015X.2018.1431162)
 - Voinov, A., K. Jenni, S. Gray, N. Kolagani, P. Glynn, P. Bommel, C. Prell, M. Zellner, M. Paolisso, R.C. Jordan, E. Sterling, L.Schmitt Olabisi, P. Giabbanelli, Z. Sun, C. Le Page, S. Elsawah, T. K. BenDor, K. Hubacek, B. K. Laursen, A. Jetter, L. Basco Carrera, A. Singer, L. Young, J. Brunacini, and A. Smajgl (2018). **Tools and methods in participatory modeling: selecting the right tool for the job**. *Environmental Modelling & Software*.
 - Eric A. Lavin, Philippe J. Giabbanelli, Andrew T. Stefanik, Steven A. Gray, Robert Arlinghaus (2018). **Should we simulate mental models to assess whether they agree?**. *Proceedings of the Annual Simulation Symposium (ANSS 2018)*, 6:1–6:12. [Full text (PDF)](https://www.ifishman.de/fileadmin/user_upload/Veranstaltungen/2018/LavinEtAl_2018.pdf)
 - Gray, S., A. Voinov, M. Paolisso, R.C. Jordan, Todd BenDor, P. Glynn, B. Hedelin, K. Hubacek, J. Introne, N. Kolagani, B. Laursen, C. Prell, L. Schmitt-Olabisi, A. Singer, E. Sterling, M. Zellner (2018). **Purpose, processes, partnerships, and products: Four Ps to advance participatory socio-environmental modeling**. *Ecological Applications*, 28(1), 46–61. [DOI](https://doi.org/10.1002/eap.1627)
 - Steven Gray (2018). **Measuring systems thinking**. *Nature Sustainability*, 1(8), 388–389. [Publisher article](https://doi.org/10.1038/s41893-018-0121-1)
 - Jordan, R.C., A. Crall, C. Hmelo-Silver, S. Gray, G. Newman (2018). **Developing model- building as a scientific practice in collaborative citizen science**. *Natural Sciences Education*.
 - Huang, J., Hmelo-Silver, C. E., Jordan, R., Gray, S., Frensley, T., Newman, G., Stern, M. J. (2018). **Scientific discourse of citizen scientists: Models as a boundary object for collaborative problem solving**. *Computers in Human Behavior*, 87, 480–492. [DOI](https://doi.org/10.1016/j.chb.2018.04.004)
-- Jordan, R. C., Sorensen, A. E., Shwom, R., Robinson, J. M., Isenhour, C., Gray, S., Nucci, M., Ebert-May, D. (2019). **Using authentic science in climate change education**. *Applied Environmental Education & Communication*, 18(4), 350–381. [DOI](https://doi.org/10.1080/1533015X.2018.1431162)
 - Jordan, R.C., S. Gray, A. Voinov, A. Jetter, L. Schmitt-Olabisi, K. Hubacek, M. Zellner, P. Glynn, B. Hedelin, P. Bommel, T. BenDor, K. Jenni, E. Sterling, L. Basco-Carrera, K. Leong, N. Kolagani, A. Singer, P. Giabbanelli, and B. Laursen (2018). **12 Questions for the participatory modeling community**. *Earth's Future*.
 - Singer, A., S. Gray, 1A. Sadler, L. Schmitt Olabisi, K. Metta, 1R. Wallace, M. Lopez, J. Introne, M. Gorman*, and J. Henderson.* (2017). **Translating community narratives into semi-quantitative models to understand the dynamics of socio-environmental crises**. *Environmental Modelling & Software*.
 - McGreavy, B., G. Newman, M. Chandler, M. Clyde, M. Haklay, H. Ballard, S. Gray, R. Scarpino, R. Hauptfeld, and J. Gallo (2017). **The power of place in citizen science**. *Maine Policy Review*.
@@ -196,12 +186,9 @@ Compact text-only profiles; no alumni photos.
 - Jordan, R.C., S. Gray, C. Hmelo-Silver, M. Demeter, L. Lui (2009). **An assessment of students' understanding of ecosystem concepts: Conflating ecological systems and cycles**. *Applied Environmental Education and Communication*, 8(1), 40-48.
 - Jordan, R.C., S. Gray, R. Golan-Duncan (2008). **Teachers and scholarship: Self-definition of teachers in the scientific enterprise**. *Education and Society*, 26(3), 33-44.
 - Hmelo-Silver, C. E., Jordan, R. C., Liu, L., Gray, S., Demeter, M., Rugaber, S., Vattam, S., Goel, A. (2008). **Focusing on function: Thinking below the surface of complex natural systems**. *Science Scope*, 31(9), 27–35.
-- Von Hagen, L., Gray, S. A., Schulte, B., Githiru, M., Kiute, H., Lepczyk, C. A. (2025). **Participatory modelling across Kenyan villages facilitates insights into the complexity of human–elephant interactions**. *Oryx*, 59(1), 40–49. [DOI](https://doi.org/10.1017/S0030605324000449)
-- Jordan, R. C., Gray, S., Boyse-Peacor, A., Sorensen, A. E., Frantz, C. M., Jauernig, J., Brehm, P., Shammin, M. R., Petersen, J. (2023). **Promoting systems thinking through perspective taking when using an online modeling tool**. *Frontiers in Education*, 8, 1215436. [DOI](https://doi.org/10.3389/feduc.2023.1215436)
 
 ---
 ## Review status
-- The approved student biographies and all three standardized square photos are now committed and linked.
-- All journal-article records have venue titles recorded; additional missing volume, issue, and page fields remain to be reconciled.
-- This Markdown view does not reproduce the CSS, navigation interactions, publication filters, or the actual browser layout.
-- Changes should continue on `website-review` without merging into `main` until approved.
+- Three current researcher images are committed and linked; alumni photos and external links are omitted.
+- Journal names are restored. Remaining missing volume, issue and page metadata require checking.
+- This Markdown view does not reproduce the finished CSS or publication filters.
