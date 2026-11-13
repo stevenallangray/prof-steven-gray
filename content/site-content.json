@@ -172,13 +172,13 @@
       {
         "id": "max-tolmoff",
         "name": {
-          "display": "Max Tolmoff",
+          "display": "Max Toloff",
           "given": "Max",
-          "family": "Tolmoff"
+          "family": "Toloff"
         },
         "groupId": "graduate-students-current",
-        "role": "Researcher",
-        "degree": null,
+        "role": "MS Student",
+        "degree": "MS",
         "graduationYear": null,
         "photo": null,
         "bio": [
@@ -217,14 +217,14 @@
           "family": "Young"
         },
         "groupId": "graduate-students-former",
-        "role": "MS",
+        "role": "MS, 2020",
         "degree": "MS",
-        "graduationYear": null,
+        "graduationYear": 2020,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Research focus: groundwater governance, Michigan's Water Withdrawal Assessment Process, and environmental decision-support systems. Subsequent position: Director of Sustainability, Michigan State University."
+            "text": "Laura's research examined groundwater governance and Michigan's Water Withdrawal Assessment Process, with a focus on environmental decision-support systems. Following her MS at Michigan State University in 2020, she became Assistant Director in MSU's Office of Sustainability."
           }
         ],
         "links": []
@@ -232,19 +232,19 @@
       {
         "id": "alison-singer",
         "name": {
-          "display": "Alison Singer",
-          "given": "Alison",
+          "display": "Allison Singer",
+          "given": "Allison",
           "family": "Singer"
         },
         "groupId": "graduate-students-former",
-        "role": "PhD",
+        "role": "PhD, 2019",
         "degree": "PhD",
-        "graduationYear": null,
+        "graduationYear": 2019,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Research focus: scientific narratives, science communication, and the uptake of scientific information. Subsequent position: faculty member, Northern Arizona University."
+            "text": "Allison's doctoral research investigated narrative and science communication, including how scientific information is understood and used. Following her PhD at Michigan State University in 2019, she became an Assistant Professor at Northern Arizona University."
           }
         ],
         "links": []
@@ -252,19 +252,19 @@
       {
         "id": "payam-aminpor",
         "name": {
-          "display": "Payam Aminpour",
+          "display": "Payam Aminpor",
           "given": "Payam",
-          "family": "Aminpour"
+          "family": "Aminpor"
         },
         "groupId": "graduate-students-former",
-        "role": "PhD",
+        "role": "PhD, 2020",
         "degree": "PhD",
-        "graduationYear": null,
+        "graduationYear": 2020,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Research focus: knowledge integration, collective intelligence, and agent-based modeling of group environmental decisions. Subsequent position: Eli Lilly."
+            "text": "Payam studied knowledge integration, collective intelligence, and agent-based models of group environmental decision-making. Following his PhD at Michigan State University in 2020, he held a postdoctoral research appointment at Johns Hopkins University working with NIST."
           }
         ],
         "links": []
@@ -272,14 +272,14 @@
       {
         "id": "alex-metzger",
         "name": {
-          "display": "Alex Metzger",
-          "given": "Alex",
+          "display": "Alexander Metzger",
+          "given": "Alexander",
           "family": "Metzger"
         },
         "groupId": "graduate-students-former",
-        "role": "PhD",
+        "role": "PhD, 2018",
         "degree": "PhD",
-        "graduationYear": null,
+        "graduationYear": 2018,
         "photo": null,
         "bio": [
           {
@@ -292,9 +292,9 @@
       {
         "id": "noelani-punawai",
         "name": {
-          "display": "Noelani Punawai",
+          "display": "Noelani Puniwai",
           "given": "Noelani",
-          "family": "Punawai"
+          "family": "Puniwai"
         },
         "groupId": "graduate-students-former",
         "role": "PhD, 2015",
@@ -312,9 +312,9 @@
       {
         "id": "jackie-chan-halbrednt",
         "name": {
-          "display": "Jacqueline Chan-Dentoni",
-          "given": "Jacqueline",
-          "family": "Chan-Dentoni"
+          "display": "Jackie Halbrendt",
+          "given": "Jackie",
+          "family": "Halbrendt"
         },
         "groupId": "graduate-students-former",
         "role": "PhD, 2014",
@@ -324,7 +324,7 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Research focus: conservation agriculture, household decisions, and participatory approaches to international agricultural development. Subsequent position: Alliance of Bioversity International and CIAT."
+            "text": "Jackie's doctoral research at the University of Hawaiʻi focused on conservation agriculture, participatory approaches, and household and community dimensions of international agricultural development. After completing her PhD in 2014, she undertook postdoctoral research at Wageningen University."
           }
         ],
         "links": []
@@ -395,7 +395,7 @@
         "bio": [
           {
             "type": "paragraph",
-            "text": "Research focus: community-engaged natural-resource management, conservation, and ecosystem services. Previously listed with Oregon State University; current appointment requires verification."
+            "text": "Mary's research focused on community engagement in conservation, natural-resource management, and ecosystem services. She completed her MS at the University of Hawaiʻi in 2013 and subsequently worked as a Research Scientist with The Nature Conservancy."
           }
         ],
         "links": [
@@ -409,19 +409,19 @@
       {
         "id": "mahdi-zareei",
         "name": {
-          "display": "Mahdi Zareei",
+          "display": "Mahdi Zahreei",
           "given": "Mahdi",
-          "family": "Zareei"
+          "family": "Zahreei"
         },
         "groupId": "graduate-students-former",
-        "role": "PhD alumnus",
+        "role": "PhD, 2024",
         "degree": "PhD",
-        "graduationYear": null,
+        "graduationYear": 2024,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Mahdi completed doctoral research in Community Sustainability at Michigan State University, focusing on sustainable food systems and modeling coupled human–environment systems using system dynamics and agent-based approaches. His work with the Flint food systems project examined social networks and the movement of food, information, and resources. His professional profile lists an affiliation with Michigan State University's College of Engineering, Applied Engineering Science Program."
+            "text": "Mahdi's doctoral research at Michigan State University examined sustainable food systems and computational approaches to coupled social–environmental systems, including system dynamics and agent-based modeling. After completing his PhD in 2024, he became an Assistant Research Professor at Michigan State University."
           }
         ],
         "links": [
@@ -440,19 +440,19 @@
       {
         "id": "carissa-knox",
         "name": {
-          "display": "Carissa Knox",
+          "display": "Carissa (Carst) Knox",
           "given": "Carissa",
           "family": "Knox"
         },
         "groupId": "graduate-students-former",
-        "role": "Former PhD advisee (University of Michigan)",
+        "role": "PhD, 2024",
         "degree": "PhD",
-        "graduationYear": null,
+        "graduationYear": 2024,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Carissa conducted doctoral research in Resource Policy and Behavior at the University of Michigan School for Environment and Sustainability, with Steven Gray serving as co-chair of her doctoral advising committee. Her research examined race, equity, and participation in local food systems. In 2021, she received a University of Michigan Anti-Racism Summer Research Grant for a project on the impacts of race and equity on participation in local food systems."
+            "text": "Carissa (Carst) Knox completed doctoral research at the University of Michigan School for Environment and Sustainability, with Steven Gray serving as co-chair of her doctoral advising committee. Her work examined race, equity, and participation in local food systems, including research recognized by a University of Michigan Anti-Racism Summer Research Grant. After completing her PhD in 2024, she held a postdoctoral appointment associated with USDA and the University of Vermont."
           }
         ],
         "links": [
@@ -462,6 +462,26 @@
             "kind": "website"
           }
         ]
+      },
+      {
+        "id": "nathan-brugonee",
+        "name": {
+          "display": "Nathan Brugonee",
+          "given": "Nathan",
+          "family": "Brugonee"
+        },
+        "groupId": "graduate-students-former",
+        "role": "PhD, 2023",
+        "degree": "PhD",
+        "graduationYear": 2023,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Nathan completed his PhD at Michigan State University in 2023 and subsequently worked as a computational social scientist at Two Six Labs. His specific doctoral research focus is awaiting confirmation."
+          }
+        ],
+        "links": []
       }
     ]
   },
