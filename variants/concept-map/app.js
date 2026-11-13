@@ -435,7 +435,8 @@
         cite.append('.');
       }
       if (e.publisher) cite.append(' ' + e.publisher.replace(/([^.])$/, '$1.'));
-      if (e.note) cite.append(h('span', { class: 'pub-note' }, e.note));
+      // Editorial and verification notes remain in the JSON for internal review,
+      // but are intentionally not displayed in public citations.
     }
     const meta = h('div', { class: 'pub-meta' },
       e.links.map((l) => extLink(l.url, l.label)).map((a) => (a.classList.add('pub-link'), a)),
