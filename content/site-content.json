@@ -7470,40 +7470,40 @@
         "themes": "Marine biodiversity",
         "description": "Across Mobile Bay, Chesapeake Bay, and Puget Sound, we examine how scientists, resource users, and managers understand marine biodiversity. Our research identifies where different groups hold complementary knowledge and how integrating these perspectives can reveal ecological relationships, social benefits, and management trade-offs that might otherwise be overlooked.",
         "link": "https://www.lenfestocean.org/",
-        "funder": "Lenfest Ocean Program / Pew"
+        "funder": "Lenfest Ocean Program, The Pew Charitable Trusts"
       },
       {
         "title": "Participatory Socio-Environmental Modeling",
         "themes": "Participatory research",
         "description": "We develop and evaluate approaches for involving people in modeling complex environmental problems. This research has produced frameworks for designing participatory processes, selecting modeling tools, and understanding how collaboration shapes knowledge integration, shared understanding, and opportunities for collective action.",
         "link": "https://www.sesync.org/research/participatory-socio-environmental-modeling",
-        "funder": "SESYNC / NSF"
+        "funder": "National Socio-Environmental Synthesis Center (SESYNC), National Science Foundation (NSF)"
       },
       {
         "title": "AI-Assisted Community Resilience Planning",
         "themes": "AI & computational modeling",
         "description": "Working with NIST, we investigate how artificial intelligence can extract and integrate knowledge from planning documents, public comments, and community perspectives. By combining language models with causal and systems modeling, we are developing methods to support resilience planning while evaluating reliability, transparency, and the importance of local knowledge.",
-        "funder": "NIST"
+        "funder": "National Institute of Standards and Technology (NIST)"
       },
       {
         "title": "Systems Thinking and Perspective Taking in Education",
         "themes": "Education & learning",
         "description": "We investigate how mental modeling helps students understand complex systems and engage with different perspectives. Our research develops methods for assessing systems thinking and examines whether modeling opposing viewpoints can strengthen perspective taking, open-mindedness, and intellectual humility in undergraduate education.",
         "link": "https://doi.org/10.1080/17439760.2026.2635423",
-        "funder": "NSF / Heterodox Academy"
+        "funder": "National Science Foundation (NSF), Heterodox Academy"
       },
       {
         "title": "Climate Adaptation and Coastal Resilience",
         "themes": "Climate adaptation",
         "description": "Our coastal research examines how communities understand climate risks and evaluate adaptation strategies. Working in the Florida Keys and other coastal settings, we use participatory methods to investigate how stakeholder knowledge, experiences, and values influence perceptions of flooding, shoreline protection, and the trade-offs associated with nature-based and engineered solutions.",
-        "funder": "NOAA"
+        "funder": "National Oceanic and Atmospheric Administration (NOAA), Adaptation Sciences Program"
       },
       {
         "title": "Collective Action for Food System Transformation",
         "themes": "Food systems & community action",
         "description": "Through the Flint Leverage Points Project, we worked with residents, community organizations, and decision-makers to understand the interconnected challenges of food access. Combining participatory modeling and community-engaged research, we identified potential leverage points for addressing food insecurity, transportation barriers, and organizational coordination.",
         "link": "https://www.canr.msu.edu/flintfood/",
-        "funder": "FFAR"
+        "funder": "Foundation for Food & Agriculture Research (FFAR)"
       }
     ]
   }
