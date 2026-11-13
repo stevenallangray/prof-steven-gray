@@ -8,7 +8,13 @@ These are real browser screenshots produced automatically from the current websi
 
 ## Home
 
+**Desktop**
+
 ![Home — desktop preview](screenshots/home-desktop.png)
+
+**Mobile**
+
+![Home — mobile preview](screenshots/home-mobile.png)
 
 ## About and representative projects
 
@@ -16,15 +22,33 @@ These are real browser screenshots produced automatically from the current websi
 
 ## People
 
+**Desktop**
+
 ![People — desktop preview](screenshots/people-desktop.png)
+
+**Mobile**
+
+![People — mobile preview](screenshots/people-mobile.png)
 
 ## Publications
 
+**Desktop**
+
 ![Publications — desktop preview](screenshots/publications-desktop.png)
+
+**Mobile**
+
+![Publications — mobile preview](screenshots/publications-mobile.png)
 
 ## Software: Mental Modeler
 
+**Desktop**
+
 ![Software — desktop preview](screenshots/software-desktop.png)
+
+**Mobile**
+
+![Software — mobile preview](screenshots/software-mobile.png)
 
 ---
 
@@ -37,5 +61,5 @@ The [browser QA report](screenshots/qa-summary.json) checks publication count, s
 ### Next review steps
 
 1. Confirm typography, spacing, image proportions, and section hierarchy.
-2. Review both desktop and mobile layouts (mobile capture is not yet configured).
+2. Review both desktop and mobile screenshots for readable text, navigation and image layout.
 3. If an **interactive** staging URL is needed, choose separate hosting without changing the public `main` site. A staging deployment requires its own publishing and access settings.
