@@ -37,7 +37,27 @@ if (/CV-derived|bibliographic verification pending|large multi-author collaborat
 for (const title of ['A framework for fuzzy cognitive mapping workshops: Shark depredation as a case study','Participatory modelling across Kenyan villages facilitates insights into the complexity of human–elephant interactions']) {
   if (!visibleText.includes(title)) errors.push('Missing citation: '+title);
 }
-const summary = { capturedAt: new Date().toISOString(), pageTitle: await page.title(), publications: pubs, peopleImages: images, errors };
+// Mobile captures and a horizontal overflow check complement desktop review.
+const mobile = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1 });
+await mobile.goto('http://127.0.0.1:8000/variants/concept-map/', { waitUntil: 'networkidle', timeout: 60000 });
+await mobile.locator('#publications .pub-cite').first().waitFor();
+await mobile.addStyleTag({ content: '.site-header { position: static !important; }' });
+for (const id of ['home', 'people', 'software']) {
+  const section = mobile.locator('#' + id);
+  await section.scrollIntoViewIfNeeded();
+  await section.screenshot({ path: out + '/' + id + '-mobile.png', animations: 'disabled', timeout: 60000 });
+}
+await mobile.evaluate(() => {
+  const el = document.getElementById('publications');
+  window.scrollTo({ top: Math.max(0, el.getBoundingClientRect().top + window.scrollY - 12), behavior: 'instant' });
+});
+await mobile.waitForTimeout(120);
+await mobile.screenshot({ path: out + '/publications-mobile.png', animations: 'disabled' });
+const horizontalOverflow = await mobile.evaluate(() => document.documentElement.scrollWidth - innerWidth);
+if (horizontalOverflow > 2) errors.push('Mobile horizontal overflow: ' + horizontalOverflow + 'px');
+await mobile.close();
+
+const summary = { capturedAt: new Date().toISOString(), pageTitle: await page.title(), publications: pubs, peopleImages: images, mobileHorizontalOverflow: horizontalOverflow, errors };
 await fs.writeFile(out + '/qa-summary.json', JSON.stringify(summary, null, 2) + '\n');
 await browser.close();
 if (errors.length) { console.error(summary); process.exitCode = 1; } else console.log(JSON.stringify(summary, null, 2));
