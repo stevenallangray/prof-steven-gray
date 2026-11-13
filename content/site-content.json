@@ -7472,10 +7472,10 @@
         "link": "https://www.lenfestocean.org/",
         "references": [
           {
-            "label": "Gibbs et al. (2026), PNAS manuscript under review"
+            "label": "Gibbs et al. (2026). The role of knowledge complementarity in managing marine biodiversity. PNAS (under review)."
           },
           {
-            "label": "Gray et al. (2026), BioScience"
+            "label": "Gray et al. (2026). A method for moving biodiversity assessment out of pure research and into decision-making. BioScience."
           }
         ]
       },
@@ -7486,14 +7486,16 @@
         "link": "https://www.sesync.org/research/participatory-socio-environmental-modeling",
         "references": [
           {
-            "label": "Knox et al. (2023), Collective Intelligence",
-            "url": "https://journals.sagepub.com/doi/full/10.1177/26339137231203582"
+            "label": "Knox et al. (2023). Modeling complex problems by harnessing the collective intelligence of local experts: New approaches in fuzzy cognitive mapping. Collective Intelligence.",
+            "url": "https://doi.org/10.1177/26339137231203582"
           },
           {
-            "label": "Gray et al. (2018), Ecological Applications"
+            "label": "Gray et al. (2018). Purpose, processes, partnerships, and products: Four Ps to advance participatory socio-environmental modeling. Ecological Applications.",
+            "url": "https://doi.org/10.1002/eap.1627"
           },
           {
-            "label": "Voinov et al. (2018), Environmental Modelling & Software"
+            "label": "Voinov et al. (2018). Tools and methods in participatory modeling: Selecting the right tool for the job. Environmental Modelling & Software.",
+            "url": "https://doi.org/10.1016/j.envsoft.2018.08.028"
           }
         ]
       },
@@ -7503,15 +7505,15 @@
         "description": "With NIST collaborators, we are developing and evaluating AI-assisted methods to synthesize planning documents, public comments, and stakeholder perspectives while preserving transparency and human review. Preliminary research analyzed roughly 1,500 Federal Register comments and extracted more than 54,000 candidate causal relationships concerning barriers to building-code adoption. Current work extends these methods to community resilience planning and examines when AI-generated information is reliable and useful for decisions.",
         "references": [
           {
-            "label": "Brugnone, Gray & Helgeson (2026), NIST Technical Note draft"
+            "label": "Brugnone, Gray & Helgeson (2026). Barriers to the adoption of building codes: Evidence from a fuzzy cognitive map analysis of Federal Register public comments. NIST Technical Note (draft)."
           },
           {
-            "label": "Co-DECIDR (2025), SESMO",
-            "url": "https://sesmo.org/article/view/18759"
+            "label": "Zareei et al. (2025). Community-informed Decisions for Equitable, Cost-effective, and Inclusive Disaster Resilience Planning (Co-DECIDR): A modeling approach. Socio-Environmental Systems Modelling.",
+            "url": "https://doi.org/10.18174/sesmo.18759"
           },
           {
-            "label": "Co-DECIDR (2025), NIST research brief",
-            "url": "https://www.nist.gov/publications/community-informed-decisions-efficient-cost-effective-and-integrative-disaster"
+            "label": "Helgeson et al. (2025). Community-informed Decisions for Efficient, Cost-effective, and Integrative Disaster Resilience planning (Co-DECIDR): Implementation with Natural Language Processing and Large Language Models. NIST Research Brief 6.",
+            "url": "https://doi.org/10.6028/NIST.RB.6"
           }
         ]
       },
@@ -7522,12 +7524,12 @@
         "link": "https://doi.org/10.1080/17439760.2026.2635423",
         "references": [
           {
-            "label": "Jauernig et al. (2026), Journal of Positive Psychology",
-            "url": "https://www.tandfonline.com/doi/pdf/10.1080/17439760.2026.2635423"
+            "label": "Jauernig et al. (2026). Perspective taking through model building: A path to open-mindedness and de-polarization? The Journal of Positive Psychology.",
+            "url": "https://doi.org/10.1080/17439760.2026.2635423"
           },
           {
-            "label": "Gray et al. (2019), Sustainability",
-            "url": "https://www.mdpi.com/2071-1050/11/20/5753"
+            "label": "Gray et al. (2019). Assessing (social-ecological) systems thinking by evaluating cognitive maps. Sustainability.",
+            "url": "https://doi.org/10.3390/su11205753"
           }
         ]
       },
@@ -7537,11 +7539,11 @@
         "description": "Our coastal adaptation research investigates how stakeholder knowledge, experiences, and values shape responses to flooding and shoreline change. In Florida Keys work, interviews and participatory modeling examine perceived benefits and trade-offs among nature-based, engineered, and hybrid adaptation strategies. Related research explores how different groups understand disaster impacts, helping make competing priorities visible without assuming that consensus or better decisions automatically follow.",
         "references": [
           {
-            "label": "Related: Nagel et al. (2024), Sustainability Science",
-            "url": "https://link.springer.com/article/10.1007/s11625-024-01545-y"
+            "label": "Nagel et al. (2024). Mental models of aquaculture governance in Indonesia. Sustainability Science (related governance research).",
+            "url": "https://doi.org/10.1007/s11625-024-01545-y"
           },
           {
-            "label": "Furman et al. (2021), Marine Policy",
+            "label": "Furman et al. (2021). Mental models for assessing coastal social-ecological systems following disasters. Marine Policy.",
             "url": "https://doi.org/10.1016/j.marpol.2020.104334"
           }
         ]
@@ -7553,16 +7555,16 @@
         "link": "https://www.canr.msu.edu/flintfood/",
         "references": [
           {
-            "label": "Wentworth et al. (2024), Environmental Science & Policy",
-            "url": "https://www.sciencedirect.com/science/article/pii/S1462901123002940"
+            "label": "Wentworth et al. (2024). Navigating community engagement in participatory modeling of food systems. Environmental Science & Policy.",
+            "url": "https://doi.org/10.1016/j.envsci.2023.103645"
           },
           {
-            "label": "Knox et al. (2023), Collective Intelligence",
-            "url": "https://journals.sagepub.com/doi/full/10.1177/26339137231203582"
+            "label": "Knox et al. (2023). Modeling complex problems by harnessing the collective intelligence of local experts: New approaches in fuzzy cognitive mapping. Collective Intelligence.",
+            "url": "https://doi.org/10.1177/26339137231203582"
           },
           {
-            "label": "Schmitt Olabisi et al. (2023), Journal of Responsible Innovation",
-            "url": "https://www.tandfonline.com/doi/full/10.1080/23299460.2022.2102567"
+            "label": "Schmitt Olabisi et al. (2022). Defining success in community-university partnerships: Lessons learned from Flint. Journal of Responsible Innovation (published online 2022).",
+            "url": "https://doi.org/10.1080/23299460.2022.2102567"
           }
         ]
       }
