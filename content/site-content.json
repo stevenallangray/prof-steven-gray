@@ -140,7 +140,11 @@
         "role": "MS Student",
         "degree": "MS",
         "graduationYear": null,
-        "photo": null,
+        "photo": {
+          "src": "img/people/abby-ording.webp",
+          "alt": "Abigail Ording portrait",
+          "caption": null
+        },
         "bio": [
           {
             "type": "paragraph",
@@ -160,7 +164,11 @@
         "role": "Visiting PhD Researcher",
         "degree": "PhD",
         "graduationYear": null,
-        "photo": null,
+        "photo": {
+          "src": "img/people/irene-lujan-climent.webp",
+          "alt": "Irene Luján Climent portrait",
+          "caption": null
+        },
         "bio": [
           {
             "type": "paragraph",
@@ -180,7 +188,11 @@
         "role": "MS Student",
         "degree": "MS",
         "graduationYear": null,
-        "photo": null,
+        "photo": {
+          "src": "img/people/max-toloff-puzzle.webp",
+          "alt": "Blue puzzle piece among white puzzle pieces",
+          "caption": null
+        },
         "bio": [
           {
             "type": "paragraph",
