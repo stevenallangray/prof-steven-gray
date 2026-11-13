@@ -7842,7 +7842,7 @@
       {
         "title": "AI-Assisted Community Resilience Planning",
         "themes": "AI & computational modeling",
-        "description": "Working with NIST, we investigate how artificial intelligence can extract and integrate knowledge from planning documents, public comments, and community perspectives. By combining language models with causal and systems modeling, we are developing methods to support resilience planning while evaluating reliability, transparency, and the importance of local knowledge.",
+        "description": "Working with the National Institute of Standards and Technology, we are developing AI-assisted approaches to understanding how communities identify, prioritize, and respond to environmental and societal risks. This research moves beyond individual case studies toward national-scale analysis of municipal planning documents and publicly available information, examining how local environmental conditions, infrastructure, governance, and community priorities shape perceptions of risk and resilience. By combining large-scale language analysis with participatory modeling and systems approaches, we aim to connect patterns identified across communities with locally grounded knowledge and decision-making. A central objective is to understand how computational tools can complement human expertise, represent diverse perspectives, and support more context-sensitive resilience planning.",
         "funder": "National Institute of Standards and Technology (NIST)"
       },
       {
