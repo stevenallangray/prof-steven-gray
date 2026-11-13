@@ -1,0 +1,1290 @@
+Steven A. Gray — Curriculum Vitae (November 2026)
+
+Text-readable edition extracted from the user-supplied November 2026 Word document. For the original formatted CV, use the source DOCX.
+
+                           STEVEN A. GRAY, PhD
+    Professor, Michigan State University | Research Scientist, Johns Hopkins
+                                   University
+
+
+                  SUMMARY OF SCHOLARLY CONTRIBUTIONS
+       I am an environmental social scientist who studies collective intelligence,
+knowledge integration, and computational approaches to environmental
+decision-making. My scholarship examines how individuals and groups
+understand complex social–ecological systems and how differences in knowledge
+influence collective understanding, decisions, and outcomes. My research has
+contributed to theoretical and methodological advances in wisdom-of-crowds
+research, knowledge diversity, systems thinking, and participatory modeling. I
+have published over 100 articles in journals that include Nature Sustainability,
+Nature Ecology and Evolution, Proceedings of the National Academy of Sciences,
+Frontiers in Ecology and the Environment, BioScience, and Ecological Applications.
+I also developed and maintain Mental Modeler (www.mentalmodeler.com), a
+freely accessible software platform that represents, integrates, and analyzes
+mental models for decision-making that has been used in more than 200 peer
+reviewed studies and contexts that cover a wide range of disciplines.
+       Applications of this research are broad and addresse a wide range of use
+cases including climate adaptation, flooding risks, biodiversity conservation,
+fisheries governance, coastal resilience, and sustainable food systems among
+others. This work has received more than 9,300 citations (h-index 47), and I have
+secured more than $6 million in external research funding as principal or co-
+principal investigator.
+       I am currently a Professor at Michigan State University and hold a
+Research Scientist appointment at Johns Hopkins University's Whiting School of
+Engineering, funded through the National Institute of Standards and Measures
+(NIST). Previous appointments include Research Scientist at NIST, Associate
+Fellow at the IT University of Copenhagen and tenure track positions at the
+University of Massachusetts and the University of Hawaii. I have contributed to
+multiple national environmental assessments (i.e. National Climate Assessment
+and National Nature Assessments) and NSF funded synthesis groups in addition
+to several international scientific collaborations including pro-longed research
+stays abroad at the Leibniz Institute of Freshwater Ecology and Inland Fisheries
+in Berlin. My academic record reflects sustained contributions to environmental
+social science through theoretical development, computational methodological
+
+
+                                                                                 1
+innovation, and interdisciplinary research addressing complex environmental
+challenges.
+
+
+
+
+                             STEVEN A. GRAY, PhD
+                                 517 Collingwood Drive
+                                East Lansing, MI 48823
+                      (646) 915-2915 • stevenallangray@gmail.com
+
+Education_____________________________________________________________________
+2010       Rutgers University              PhD           Ecology and Evolution
+
+2006        Texas State University            MS            Geography and Planning
+2002        University of Texas at Austin     BA            Anthropology
+
+
+Positions _____________________________________________________________________
+2023-present         Michigan State University, Professor
+               Department of Community Sustainability
+2024-present         Johns Hopkins University, Whiting School of Engineering,
+              Research Scientist
+2019-2024 Collective Intelligence Unit IT University of Copenhagen, Associate
+              Fellow
+2020-2024 U.S. National Institute of Standards and Technology, Research
+              Scientist (IPA)
+2018-2023 Michigan State University, Associate Professor
+               Department of Community Sustainability
+2015-2018 Michigan State University, Assistant Professor
+               Department of Community Sustainability
+2013-2015 University of Massachusetts, Boston, Assistant Professor
+
+                                                                                     2
+               School for the Environment (tenure track)
+2011-2014     Leibniz Institute of Freshwater Ecology and Inland Fisheries, Visiting
+Scientist
+2025           IGB Fellowship (sabbatical), Berlin Germany
+2011-2013    University of Hawaii, Assistant Professor
+              Department of Natural Resources and Environmental Management
+(tenure track)
+              Head, Socio-economic Division, Water Resources Research Center
+2010-2011 Rutgers University/Cary Institute of Ecosystem Studies, Postdoctoral
+Researcher
+
+External Grant and Fellowships (>6 million in external funding as PI or Co-
+PI)___________
+2026-2027    NIST Measurement Science and Engineering                                 $99,621
+             AI-augmented community resilience planning: Developing,
+             validating, and benchmarking AI workflows for community
+             resilience decision support (PI)
+2025-2026    NIST Measurement Science and Engineering                                 $80,000
+             Using AI to increase public participation in federal decision-making:
+             Harnessing NLP to summarize the Federal Register (PI)
+2023-2025    NOAA Adaptation Science                                                 $299,827
+             Collaborative modeling the benefits, consequences, and trade-offs
+             of mangroves and seawalls for coastal communities (co-PI with Scyphers,
+             Hughes, Shepard, and Harlan)
+2021-2024 NSF Improving Undergraduate STEM Education
+$500,000
+             Integrating perspective-taking, systems thinking, and model-based
+             reasoning for complex problem-solving (PI with co-PIs Jordan,
+             Franz, Peterson) MSU budget $372,888
+2021-2024    DARPA Department of Defense                                              $230,000
+             MIMESIS: Multi-Informed Models Emerging from Social Investigations and
+             Semiotics. (academic PI with government contractor Two Six Labs)
+             (https://www.twosixlabs.com/) total budget $10,000,000)
+2020-2024    FFAR Foundations for Food and Agriculture Resources (USDA)              $100,000
+             Identifying leverage points for the emergency food system in rust-belt
+             cities at a time of the COVID-19 crisis (PI with co-PIs L. Schmitt-Olabisi,
+             Wentworth and Aminpour)
+2018-2024    FFAR Foundations for Food and Agriculture Resources (USDA)             $1,000,000
+             Identifying leverage points for transformation in urban food
+             systemsthrough participatory modeling (PI with co-PIs L.
+             Schmitt-Olabisi, J. Hodbod)
+2019-2020    NSF Research Coordination Network (RCN)                                     $50,000
+             Challenges to and opportunities for resilience in rapidly developing urban
+             corridors (co-PI with J. Bammer, K. Faust, A. Ganguly, and P. Bixler)
+                                                                                              3
+2017-2019    NSF Improving Undergraduate STEM Education                          $299,956
+             Assessing systems thinking learning progressions in STEM fields
+             through semi-quantitative cognitive mapping software
+             (PI with E. Sterling, R. Jordan, A. Luz)
+2016-2018    National Academy of Sciences Gulf Research Program                  $407,113
+             Collaborative modeling with Fuzzy Cognitive Maps:
+             A novel approach to achieving safety culture
+             (co-PI with A. Jetter, S. Scyphers)
+2016-2018    NOAA Saltonstall-Kennedy Grant Program                              $240,859
+             Engaging commercial, recreational, and subsistence fishers to
+             improve management of Striped Bass fisheries in New England
+             (co-PI with S. Scyphers, J. Grabowski)
+2016         Community Foundation of Greater Flint Community-based                $16,000
+             modeling of the Flint Water Crisis (PI)
+2015-2018    NSF Socio-Environmental Synthesis Center (SESYNC)
+             $86,000
+             Public participation and participatory modeling for action-oriented
+             outcomes (PI with A. Voinov)
+2015-2017    NOAA Saltonstall-Kennedy Grant
+             $298,950
+             Predicting the social impacts of climate change on fisheries
+             (co-PI with S. Scyphers)
+2014-2016    BLM Joint Fire Science Program
+             $181,093
+             Policy Scenarios for fire-adapted communities: understanding
+             stakeholder risk-perceptions (co-PI with A. Jetter, L. Ellsworth)
+2014-2016    NSF (Belmont Forum) Food Security & Climate Change
+             $299,894
+             Sustainable management of agro-ecological resources for
+             tribal societies (co-PI with C. Chan-Halbrendt, B. Sipes, T. Idol)
+2014-2016    NOAA University of Hawaii Sea Grant
+             $56,000
+             Forecasting climate change impacts on coastal ecosystem services
+             in Hawaii through integration of ecological and social models
+             (PI with C. Lepczyck)
+
+
+
+2013-2014    USGS Water Resources Research Institute Programs                   $28,000
+             Forecasting climate change impacts on watershed-based ecosystem
+             services in Hawaii (PI with A. Fares, C. Lepczyk)
+2012-2016    NSF Cyberlearning
+$1,206,384
+             Sustaining ecological community thru cit sci & online collaboration
+                                                                                       4
+            (co-PI with R. Jordan, C. Hmelo-Silver, A. Crall, G. Newman)
+2012-2014   USDA Mental Modeler: Developing a software tool to support
+$40,000
+             community-based decision-making (PI with L. Cox)
+2012-2014 Leibniz-Institute of Freshwater Ecology and Inland Fisheries
+          $18,000
+            Understanding the relationship between natural resource
+            decision-maker mental models and sustainable natural resource
+            management in freshwater recreational fisheries (PI with R.
+      Arlinghaus)
+2011-2012 NOAA Cooperative Research, Conservation Engineering
+$299,999
+            Evaluation of broad and fine scale models of butterfish biomass
+            applied to by-catch reduction in the longfin inshore squid fishery
+            in the Mid-Atlantic Bight (co-PI with J. Kohut)
+2010-2012 NOAA Cooperative Research, Conservation Engineering
+$217,089
+            Integrating habitat models and stakeholder knowledge into
+            commercial
+            fishing to reduce by-catch (co-PI with J. Kohut)
+2008        NSF Office of International Science and Engineering
+$10,500
+            Improving the management of data-poor fisheries: Evaluating risk and
+            uncertainty in fisheries management in Australia and the United
+            States
+            (PI with J. Scandol)
+2007-2009 NOAA National Estuarine Research Reserve Social Science Fellow
+$30,000
+            What do recreational fishermen need to know? Recommendations that
+            foster ecosystem-based management (PI)
+2007        U.S. EPA NNEMS Research Fellow, Region 2 New York City, NY
+$16,140
+            Implementing sustainable programs in NYC area schools: Fostering
+            environmental stewardship in school-aged children (PI)
+2005        U.S. EPA NNEMS Research Fellow, Radiation and & Indoor
+                    $9,500
+            Environments National Laboratory Determining sustainable
+            environmental management programs through community outreach
+            (PI)
+
+
+                                                                               5
+Software Packages____________________________________________________________
+Gray, S. Mental Modeler: A fuzzy cognitive mapping software for systems thinking, scenario
+        analysis and participatory research. Lead developer, http://www.mentalmodeler.org/
+R Jordan and S. Gray, EcoModeler: A classification and ontological system for organizing
+        thinking about complex systems. Co-lead developer
+Books_______________________________________________________________________
+Gray, S. Paolisso, M, Jordan, R.C and S. Gray (Eds) (2017) Environmental Modeling with
+        Stakeholders: Theory, Methods and Applications. Springer Publishing, New York City.
+Peer Reviewed Journal Articles __________________________________________________
+(co-author: graduate student/postdoc, *undergraduate, 1community partner, ϯK-12 student/teacher)
+            Google Scholar Profile (Total Citations: >9300, H Index: 47, i10 Index: 94)
+                             Currently in Press, Review, or Revision
+Gray, S.A., K. Furman, G. Canonico, S. Gibbs, C.B. Knox, S. Scyphers, A. Sutton-Grier, M. A.
+        Kenney, and J. E Duffy. (in press) A method for moving biodiversity assessment out of
+        pure research and into decision-making. Bioscience.
+Gibbs, S., K. Furman, S. Gray, C.B. Knox, G. Canonico, S. Scyphers, A. E. Sutton-Grier, M.
+        Kenney, C. S. Smith, M. Karnauskas, J. Bernhardt, and J. E. Duffy. The role of
+        knowledge complementarity in managing marine biodiversity (in review) Proceedings of
+        the National Academies of Science.
+Gould, R., S. M. Richter, S. L. Powers, B Allf, S. Gray, H. Kretser, K. Leong, P. Loring, D.
+        Peña, A. Sharma, A. Adams, L. Colburn, H. N. Eyster, M. Hargreaves-Méndez, A.
+        Himes, K. Hoelting, S. Klain, L. Larson, H. Liu, A. Ording, N. A. Pitas, E. B. Drogin-
+        Rodgers, M. Shea, Y. Won, I. Wu, and R Saud. Comprehensive ecosystem management
+        must include nature’s nonmaterial values. (in review) Environmental Research Letters.
+Pilgram, C., A. Bate, A. Sigalou, M. Aellen, E. Warren, C. Krupenye, D. Biro, J.
+Becker, J.
+        Morford, S. Gray and R. Mann. The wisdom of the crowds of crowds. (in
+        review) Proceedings of the Royal Society B: Biological Sciences
+M. Zareei, S.A. Gray, C.B. Knox, R Sadler, L., Schmitt-Oabisi, C. Wentworth, and J. Helgeson.
+        Measuring what matters: Monitoring community-identified values in local food systems.
+        (in review) Environmental and Sustainability Indicators
+Knox, C., S. Gray, M., Zahree, R. Wallace1, C. Wentworth, and L.S. Olabisi.
+        Utilizing participatory modeling and leverage points perspective to evaluate interventions
+        to address racial inequities in food systems. (in revision) Agriculture and Human Values.
+                                                 2026
+Kenney, M. A., (plus 174 co-authors, formally of the US National Climate
+Assessment 6).
+        (2026). Research priorities for robust climate assessments in the United States. Earth’s
+        Future, 14.
+Fisher, M, L. K Nelson, T. Francis, P. S Levin, J. F. Samhouri, C. Harvey4, L. Dee, K.
+        Marshall, S. Mller, S. Moore, M. Barnes, C. Cha, J. Cinner, S A Gray, A. Punt, C.
+        Ridings, and F. W Simon. (2026) Exploring unintended outcomes and trade-offs of
+        climate adaptation with qualitative network models. Ecology and Society 31(1).
+Ashlynn S. Stillwell, D. Tremaine, J. Banner, M. Beverage, R. Bixler, D. DeCaro, K. Faust, A.
+
+
+                                                                                                6
+        R. Ganguly, S. Gray, A Jetter, R. Jordan, S. Meerow, J. Nielsen-Gammon, D Niyogi, S.
+        Pierce, K. Portney, L. Schmitt Olabisi, B Wilson, M Young, and M. Zellner (2026)
+        Envisioning sustainable urban areas through integrative physical systems and governance
+        frameworks. Environmental Research: Infrastructure and Sustainability 6(2).
+Jauerning, J., C. Franz, J. Petersen, S.A. Gray, P. Brehm, R. Shammin, A. Boyse-
+Peacor, H.
+        Bouillon, and R.C. Jordan. (2026) Perspective-taking through model
+        building: A path to open-mindedness and de-polarization? Journal of
+        Positive Psychology. 3(14) 1-14.
+Jordan, R.C., A. Sorenson, and S. A. Gray. "I just do not have more energy to deal
+with this!": A
+        chairperson's perspective on levels of stress among students and faculty
+        engaged in coursework at a midwestern University in the United States
+        (2026). Frontiers in Education. 11.
+Sehati, A. and S. Gray (2026) Augmenting process failure mode and effects analysis with Fuzzy
+        Cognitive Mapping for dynamic manufacturing risk assessment. Systems 14 (10), 1310.
+Cholewicki, J., P. W. Hodges, J. Popovich., P. Aminpour, S., Gray, A.S. Lee, A. Breen, S.
+        Brumagne, J van Dieën, L. R. Van Dillen, T. E. Dreisinger, M. Ferreira, S. Z. George, C.
+        M. Goertz, J. Hartvigsen, J. A. Hides, D. Hoy, G. N. Kawchuk, B. W. Koes, R. Kothe, H.
+        M. Langevin, D. Lee, J. C. Lotz, G. Moseley, H. Prather, N. Reeves,S. Sahrmann, R.
+        Smeets, L. S. Stone, J. Vlaeyen, PhD 27 ; J. C. Wang and S. Weiser (2026) A meta-
+        model of low back pain to examine collective expert knowledge of the effects of
+        treatments and their mechanisms. European Spine Journal. 1-14.
+Revay, P., P Giabelenlli, and S. A. Gray. Connecting modeling requirements and the choice of
+        activation functions in Fuzzy Cognitive Map simulations. (2026). Neural Computing
+        and Applications. 38(4), 86.
+                                               2025
+Von Hagen, L., S. Gray, B. Schulte, M. Githiru, H. Kiute, and C. Lepczyk (2025).
+        Participatory modeling across Kenyan villages facilitates insight into the complexity of
+        human-elephant interactions. Oryx. 59 (1), 40-49.
+Prasky, E. G., M, Drymon, J. Mitchell, G. Jackson, S. Scyphers, S. Gray, G. Casselberry, L.
+        Griffin, A. Danylchuk. (in press) Towards building a shared vision: Using Fuzzy
+        Cognitive Mapping to co-produce a shared understanding of depredation in recreational
+        fisheries. Fisheries. 50 (12), 538-547.
+Zareei, M., S.A. Gray, R. Sadler, L. Schmitt-Olabisi, C. Knox and J. Helgeson. (in
+press)
+        Community-informed decisions for equitable, cost-effective, and inclusive
+        disaster resilience planning (Co-DECIDR): A modeling approach. Socio-
+        Environmental Systems Modeling. 7, 18759-18759.
+                                                2024
+Wentworth, C., M. Torres Arroyo, R. Cavalcanti Lembi, B. Feingold, D. Freedman, S.
+Gray, J.
+
+                                                                                               7
+        Hodbod, R. Jablonski, K. Janda-Thomte, P. Lemoine, A. Nielsen, X. Romeiko,
+        D. Salvo, L. Schmitt Olabisi, A. van den Berg, and O. Yamoah (2024).
+        Community-engagement in participatory urban food systems modeling: Examples from
+        five U.S. cities. Environmental Science and Policy. 152, 103645.
+Brugnone, N., N. Benkler, P. Revay, R. Myhre, S. Friedman, S. Schmer-Galunder,
+        S. Gray, and J. Gentile. From ‘Ought’ to ‘Is’: A comparison of unsupervised
+methods for
+        values-informed wisdom of crowds. (2024). Journal of Computational Social
+        Science. 7 (2), 1327-1377
+Nagel, B., E. Anggraini, N. Buhari, S. Gray, S. Partelow, and A. Schlüter (2024).
+Mental
+        models of aquaculture governance in Indonesia. Sustainability Science. 1-
+21.
+                                                2023
+Knox, C.B., S. Gray, M., Zareei, N. Brugnone, P. Aminpour, R. Wallace, J. Hodbod, and C.
+        Wentworth. (2023). Modeling complex problems by harnessing the collective
+        intelligence of local experts: New approaches in Fuzzy Cognitive Mapping. Collective
+        Intelligence. 2(4).
+Jordan, R.C., S. Gray, A. Boyse-Peacor, A. Sorensen, C. Frantz, J. Jaurenig, P. Brehm, M.
+Rumi
+        Shammin, and J. Petersen. Promoting systems thinking through perspective taking
+        when using an online modeling tool. Frontiers in Education.
+Lalani, B., S. Gray, and T. Mitra-Ganguli (2023). Systems thinking in an era of climate change:
+        Does cognitive neuroscience hold the key to improving environmental decision making?
+        A perspective on Climate-Smart Agriculture. Frontiers in Integrative Neuroscience 17,
+        1145744.
+Jordan, R., A.E. Sorensen, and S. Gray (2023) What undergraduate students know and what they
+        want to learn about in climate change education. PLOS Sustainability and
+        Transformation 2 (4).
+Jordan, R.C., S. Gray, and AE Sorensen (2023). Systems thinking tools to address SDG #4.
+        Frontiers in Sustainable Cities 5.
+Olabisi, L.S., C Wentworth, K. Key, RV. Wallace1, M. McNall, J. Hodbod, and S.A. Gray
+        (2023) Defining success in community-university partnerships: lessons learned from Flint
+        Journal of Responsible Innovation, 1-23.
+                                                2022
+Aminpour, P. S. Gray, M. Beck, K. Furman, I. Tsakiri, R. Gittman, J. Grabowski, J. Helgeson, L.
+        Josephs, M. Ruth, and S. Scyphers. (2022) Urbanized knowledge syndrome: Lower
+        knowledge diversity and systems thinking in urban coastal residents. Urban
+        Sustainability. 2 (1), 1-10.
+Murphy, R., J. Grabowski, S., Gray and S. Scyphers. (2022) Diversity in motivations and
+        behavioral response to regulations in the Striped Bass commercial fishery. Fisheries. (1),
+        10-17.
+Jordan, R., A. Sorenson, and S. Gray. (2022) Participatory modeling in support of citizen
+
+                                                                                                8
+       science. Forests. 13 (4), 567.
+                                               2021
+Aminpor, P, S. Gray, A. Singer, S. Scyphers, A. Jetter, R. C. Jordan, R. Murphy, and J. H.
+        Grabowski. (2021) The diversity bonus in pooling local knowledge about complex
+        problems. Proceedings of the National Academies of Sciences. 118 (5).
+Levin, P., S. Gray, C. Mollimon and A Stier. (2021). Perception and conflict in conservation:
+        The Rashomon Effect. Bioscience. (1) 64-72.
+Schwerner, H., P., Aminpour, S. Funk S. Gray, C. Reza*, and C. Mollimon (2021). Modeling
+        Social-ecological knowledge diversity. (2021) Conservation Science and Practice 3 (5),
+        e396.
+Hedelin, B, S., Gray, S. Woehlke, T. BenDor, A. Singer, R.C. Jordan, P. Giabbanelli , P. Glynn,
+        K. Jenni, A Jetter, N. Kolagani, B. Laursen, K. Leong, L. Schmitt Olabisi, E. Sterling,
+        and M. Zellner (2021). What’s left before participatory modeling can fully support real-
+        world environmental planning processes: A case study review. Environmental Modeling
+        and Software. 143. 105073.
+Lalani, B., P. Aminpour, S. Gray, M. Williams, L. Büchi, J. Haggar, P. Grabowski, J. Dambiro.
+        (2021) Mapping farmer perceptions, conservation agriculture practices and on-farm
+        measurements: the role of systems thinking in the process of adoption. Agricultural
+        Systems. 191, 103171.
+Betley, E., E Sterling, S Akabas, S Gray, A Sorensen, R Jordan, and C Eustice. (2021)
+Modeling
+        links between corn production and beef production in the United States: A systems
+        thinking exercise using Mental Modeler. Lessons in Conservation. 11, 26-32.
+Furman, K. S., Aminpour, P., Gray, and S. Scyphers. (2021). Mental models for assessing social-
+        ecological systems following disasters: a case study contextualizing natural and built
+        shorelines after Hurricane Irma. Marine Policy 125, 104334.
+Jablonski, B., J. Casnovsky, J. Clark, R. Cleary, B. Feingold, D. Freeman, S. A. Gray, X.
+        Romeiko, L. Schmitt Olabisi, A. van den Berg, C. Walsh, and C. Wentworth. Emergency
+        food provision for children and families during the COVID-19 pandemic: Examples from
+        five U.S. cities. (2021). Applied Economic Perspectives and Policy. 43 (1), 169-184.
+Mamiit, R, S. Gray, J. Yanigida. (2021) Characterizing farm-level social relations’ influence on
+        sustainable food production. Journal of Rural Studies. 86, 566-577.
+Murphy, R, B. Harris, N. Wolf, A. Kroska, and S.A. Gray. Using mental models to
+quantify
+        linear and non-linear relationships in complex fishery systems Marine
+        Policy. 125, 104334.
+Aminpor, P., H. Schwerner, and S. Gray. (2021) The relationship between social
+identity and
+        cognitive diversity in environmental stakeholders. PLoS One. 86, 566-577.
+Jordan, R.C., A. Sorenson, and S.A. Gray (2021) Citizen Science, experts and expertise. Current
+        World Environment 16 (2), 378.
+                                              2020 and prior
+Aminpor, P., S. Gray, A. Jetter, J. Introne, and R. Arlinghaus. (2020) The wisdom of
+stakeholder
+                                                                                              9
+       crowds in complex social-ecological systems. Nature Sustainability. 3(13),
+191-199.
+Gray, S., Aminpor, P., C. Reza*, S. Scyphers, J. Grabowski, R. Murphy Jr., A. Jetter,
+and R.C.
+       Jordan. (2020) Harnessing collective intelligence for conservation. Frontiers
+       in Ecology and the Environment. 18 (8), 456-472.
+Barnhagen, C., P. Howard, and S. Gray. (2020) A bird’s eye view: Fruit grower
+interest in
+       adoption of raptor nest boxes. Agroecology and Sustainable Food Systems.
+(10), 1384-
+       1393.
+Barnhagen, C., P. Howard and S. Gray. (2020) Farmer mental models of biological
+pest control:
+       Associations with adoption of conservation practices in blueberry and
+       cherry orchards. Frontiers in Sustainable Food Systems. 4(54).
+Aminpor, P., S. Gray, A. Singer, A. L. Castro, A, Ramlan, and N. Chicoworee, (2020)
+       Perspectives of scholars on the nature of sustainability: a survey study
+       Sustainability in Higher Education 21(1), 34-53.
+Gray, S., E., Sterling, C. Wei, S. Akabas, A. Singer, P. Giabbanelli, R. Jordan, J.
+Hodbod. and P.
+       Norris. (2019). Assessing (social-ecological) systems thinking using concept
+       mapping techniques. Sustainability 11 (20), 5753.
+Gray, S., B. O'Dwyer, C. O'Mahony, J. Gault, and S. A. Gray. (2019) Caught by the
+fuzz: Using
+       FCM to prevent coastal adaptation stakeholders from fleeing the scene.
+       Marine Policy. 109, 103: 688.
+Murphy, R., J. Grabowski, S., Gray and S. Scyphers. (2019) Angler attitudes explain
+disparate
+       behavioral reactions to fishery Regulations. Fisheries. 44(10).
+Sterling, E., M. Zellner, K. Leong, K. Jenni, S., R. Jordan, T. BenDor, A. Jetter, L.
+       Schmitt-Olabisi, M. Paolisso, K. Hubacek, P. Bommel, G. Bammer and S.
+       Gray. (2019) Try, try again: Lessons learned from success and failure in
+       participatory modeling. Elementa.
+Cholewicki, J., JM Popovich Jr, P Aminpour, SA Gray, AS Lee, PW Hodges. (2019).
+       Development of a collaborative model of low back pain: report from the
+       2017 NASS consensus meeting. The Spine Journal 19 (6), 1029-1040.
+Hodges, P., J. Cholewicki, J. Popovic, A. Lee, P.Aminpour, and S. Gray. Building a
+
+
+
+
+                                                                                  10
+       collaborative model of Sacro-iliac joint dysfunction to understand the
+       diverse perspective of experts. (2019) PM&R Journal: The Journal of Injury,
+       Function and Rehabilitation. 11. 11-23.
+Metzger, A., S. Gray, E. Douglas, N. Haigh, and P. Kirshen. (2019) Categorizing and
+       clustering knowledge in Fuzzy Cognitive Maps. International Journal of
+System of
+       Systems Engineering 9 (3), 235-256.
+Gray, S., Measuring systems thinking. (2018) Nature Sustainability. 1(3) 388-389.
+Gray, S., A. Voinov, M. Paolisso, R.C. Jordan, T. BenDor, P. Glynn, B. Hedelin, K. Hubacek
+       J. Introne, 1N. Kolagani, B. Laursen, C. Prell, L. Schmitt-Olabisi, A. Singer, E. Sterling,
+       and M. Zellner. Purpose, Processes, Partnerships, and Products: 4Ps to advance
+       participatory socio-environmental modeling. (2018) Ecological Applications. 28(1). 46-
+       61.
+Voinov, A., K. Jenni, S. Gray, N. Kolagani, P. Glynn, P. Bommel, C. Prell, M. Zellner,
+M.
+       Paolisso, R.C. Jordan, E. Sterling, L.Schmitt Olabisi, P. Giabbanelli, Z. Sun, C.
+       Le Page, S. Elsawah, T. K. BenDor, K. Hubacek, B. K. Laursen, A. Jetter, L.
+       Basco Carrera, A. Singer, L. Young, J. Brunacini, and A. Smajgl. (2018) Tools
+       and methods in participatory modeling: selecting the right tool for the job.
+       Environmental Modeling and Software. 109: 232-255.
+Huang, J., C. Hmelo-Silver, R.C. Jordan, S. Gray, T. Frensley, and G. Newman,
+Scientific
+       discourse of citizen scientists: Models as a boundary object for
+       collaborative problem-solving. (2018) Computers in Human Behavior. 87:
+       480-492.
+Jordan, R.C., A. Sorensen, S. Gray, D. Ebert-May, R. Shwom, C. Isenhour. J. Meta
+Robinson,
+       and M. Nucci. Using authentic science in climate change education. (2018)
+       Applied Environmental Education and Communication 1(32).
+Jordan, R.C., A. Crall, C. Hmelo-Silver, S. Gray, G. Newman. (2018) Developing model-
+       building as a scientific practice in collaborative citizen science. Natural
+       Sciences Education 47(1).
+Jordan, R.C., S. Gray, A. Voinov, A. Jetter, L. Schmitt-Olabisi, K. Hubacek, M.
+Zellner, P.
+       Glynn, B. Hedelin, P. Bommel, T. BenDor, K. Jenni, E. Sterling, L. Basco-
+       Carrera, K. Leong, N. Kolagani, A. Singer, P. Giabbanelli, and B. Laursen
+       (2018). 12 Questions for the participatory modeling community. Earth’s
+       Future. 6 (8), 1046-1057.
+Gray, S., R. C. Jordan, A. Crall, G. Newman, C. Hmelo-Silver, J. Huang, W. Novak, D. Mellor,
+
+
+                                                                                                11
+        T. Frensley, M. Prysby, and A. Singer. (2017) Combining participatory modelling and
+        citizen science to support volunteer conservation action. Biological Conservation. 208,
+        76-86.
+Stier, A., J. Samhouri, S. Gray, R. Martone, R., M. Mach., B., Halpern, C. Kappel, C.
+        Scarborough, and P. Levin. (2017). Integrating expert opinion into food web conservation
+        and management. Conservation Letters 10(1), 67–76.
+Gray, S., A. Singer, L. Schmitt-Olabisi, J. Introne, and J. Handerson.* (2017)
+Identifying the
+        causes, consequences, and solutions to the Flint Water Crisis through
+        collaborative modeling. Environmental Justice. 10 (5), 154-161.
+Singer, A., S. Gray, 1A. Sadler, L. Schmitt Olabisi, K. Metta, 1R. Wallace, M. Lopez, J.
+        Introne, M. Gorman*, and J. Henderson.* (2017) Translating community narratives into
+        semi-quantitative models to understand the dynamics of socio-environmental crises.
+        Environmental Modeling and Software. 97, 46-55.
+Sterling E., C. Filardi, J. Newell, S. Albert, D. Alvira, N. Bergamini, E. Betley, M. Blair, D.
+        Boseto, K. Burrows, N. Bynum, S. Caillon, J.E. Caselle, J. Claudet, G. Cullman, R.
+        Dacks, P. B. Eyzaguirre, N. Gazit, S. Gray, J. Herrera, P. Kenilorea, K. Kinney, N.
+        Kurashima, S. Macey, S. Mauli, J. McCarter, H. McMillen, P. Pascua, P. Pikacha, A.
+        Porzecanski, P. de Robert, M. Salpeteur, A. Sigouin, M. Sirikolo, M. H. Stege, K. Stege,
+        T. Ticktin, A. Toomey, R. Vave, A. Wali, P. West, K. B. Winter, and S. Jupiter. (2017)
+        Biocultural approaches to sustainability indicators: bridging local and global scales to
+        foster human adaptive capacity and ecological resilience. Nature: Ecology and Evolution.
+        1, 1978-1806.
+Frensley, T., A. Crall, M. Stern, R.C. Jordan, S.A. Gray, M. Prysby, G. Newman, and C. Hmelo-
+        Silver. (2017) Bridging the benefits of online and community supported citizen science: A
+        case study on motivation and retention with volunteers. Citizen Science: Theory and
+        Practice (2), 1-14.
+McGreavy, B., G. Newman, M. Chandler, M. Clyde, M. Haklay, H. Ballard, S. Gray, R.
+        Scarpino, R. Hauptfeld, and J. Gallo. (2017) The power of place in citizen science. Maine
+        Policy Review 26(2) 94 -95.
+Santo, A., K. Guillozet, M.G., Sorice, T., Baird, S., Gray, and J. Donlan. (2017) Examining
+        private landowners' knowledge systems of an invasive species. Human Ecology. 1-14.
+Giabbanelli, P., S. Gray, and P. Aminpour. (2017) Combining fuzzy cognitive maps with agent-
+        based modeling: frameworks and pitfalls of a powerful hybrid modeling approach to
+        understand human-environment interactions Environmental Modeling and
+        Software. 95:320-325.
+Newman, G, B. McGreavy, M. Clyde, M. Chandler, M. Haklay, H. Ballard, S. Gray,
+D.
+        Mellor, and J. Gallo. (2017) Leveraging the power of place in citizen science
+        for effective conservation decision making. Biological Conservation 208, 55-
+        64
+Jordan, R.C., S. Gray, C. Hmelo-Silver, A. Sorensen, and G. Newman. (2017)
+Modeling with a
+
+                                                                                              12
+        conceptual representation: Is it necessary? Does it work? Frontiers in
+        Education. 4,7.
+Htun, H., S. Gray, C. Lepczyk, A. Titmus, and K. Adams. (2016) Combining
+watershed
+        models and knowledge-based models to predict local-scale impacts of
+        climate change on engendered wildlife. Environmental Modeling and
+        Software. 84:440-457.
+Li., O. S. Gray and S. Sutton. (2016) Mapping recreational fishers' informal learning
+of fisheries
+        science using a fuzzy cognitive mapping approach to mental modeling.
+        Fisheries Management and Ecology. 23(4), 315–329.
+Douglas, E., S. Wheeler, D. Smith, I. Overton, S, Gray, N, Crossman, and T, Doody. (2016)
+        Using mental-modelling to explore how irrigators in the Murray-Darling Basin make
+        water-use decisions. Journal of Hydrology: Regional Studies. 6, 1-12.
+Punawai, N., S.A. Gray, C. Severance, and C. Lepczyk. (2016) Mapping ocean
+currents through
+        human observations: Insights from Hilo Bay, Hawai'i. Human Ecology. 1-10.
+Jordan, R.C., A.M. Crall, S. Gray, S. La Deau, A. Sorenson, C. Hmelo-Silver, G.
+Newman,
+        and D.T. Mellor. (2016) Studying citizen science, adaptive management, and
+        learning feedback as a mechanism for improving conservation.
+        Conservation Biology. 30(3), 487-495
+Gray, S., S. Gray, J. L. De Kok, A. E. R. Helfgott, B. O'Dwyer, R. Jordan, and A.
+Nyaki1.
+        (2015) Using fuzzy cognitive mapping as a participatory approach to
+        analyze change, preferred states, and perceived resilience of social-
+        ecological systems. Ecology and Society 20(2): 11.
+Gray, S., A. McFall, J. Hilsberg, R. Arlinghaus. (2015) The impact of specialization and
+target
+        species choice on the structure of mental models about fish population dynamics. Journal
+        of Outdoor Recreation and Tourism. 12:1-13.
+Henly-Shepard, S., S. Gray, and L. Cox. (2015) Facilitating community adaptation
+through
+        participatory modeling and social learning. Environmental Science and
+        Policy. 45:109-122.
+Jordan, R.C., W. Brooks, J. Delisi, S. Gray, and A. Berkowitz. (2015) Ecology nature of
+        science: shared discussions and practices among ecologists and high school teachers.
+        Ecosphere. 6(11): 1-17.
+Barnes-Mauthe, M. S. Gray, S. Arita, J. Lynham, and P. Leung. (2015) What determines
+social
+
+                                                                                             13
+       network capital in a social-ecological system? Environmental Management.
+       55:392-410.
+Jordan, R., A Crall, S. Gray, T Phillips, and D Mellor. (2015) Citizen science as a distinct field of
+       inquiry. BioScience 65 (2), 208-211.
+Hmelo-Silver, C., L. Liu, S. Gray, and R. Jordan. (2015) Using representational tools
+to learn
+       about complex systems. Journal of Research in Science Teaching
+Mellor, D., W. Brooks, S, Gray, and RC Jordan. (2015) Troubled transitions into college
+and the
+       effects of a small intervention course. Journal of College Student Retention:
+       Research, Theory & Practice. 17 (1), 44-63.
+Halbrendt, J., S. Gray, T. Radovich, S. Crow, and A. Kimura. (2014) Differences in farmer
+and
+       expert beliefs about the perceived impacts of conservation agriculture.
+       Global Environmental Change 28: 50-62.
+1
+ Nayaki, A., S. Gray, C. Lepczyk, J. Skibins, and D. Rentsch. (2014) Understanding the
+hidden
+       drivers and local-scale dynamics of the bushmeat trade through participatory modeling
+       Conservation Biology 28(5) 1403-1414.
+Pleasant, M, S. Gray, C. Lepcyzk, A. Fernandez*, N. Hunter*, and D. Ford* (2014)
+Managing
+       cultural ecosystem services: Local management yields large-scale benefits.
+       Ecosystem Services. 8: 141-147.
+Halbrendt, J., S. Gray, T. Radovich, A. Kimura, B. Reed, and B. Tammang. (2014)
+       Implications of conservation agriculture for men's and women's workloads among
+       marginalized farmers in the Central Middle Hills of Nepal. Mountain Research and
+       Development. 34(3) 214-222.
+Punawai, N., L. Canale, M. Haws, J. Potemra, and S. Gray. (2014) Development of a
+       GIS-based tool for aquaculture siting. International Journal of Geo-Information. 3:800-
+       816.
+Nicosiaϯ K, S. Daaramϯ, B. Edelmanϯ, L. Gedrichϯ, E. Heϯ, S. McNeillyϯ, V. Shenoϯ, A.
+       Velagapudiϯ, W. Wuϯ ,L. Zhangϯ, A. Barvaliaϯ, V. Bokkaϯ, B. Chanϯ, J. Chiuϯ, S.
+       Dhulipallaϯ, V. Hernandezϯ, J. Jeonϯ, P. Kanukolluϯ, P. Kravetsϯ, A. Manthaϯ, C.
+       Mirandaϯ,V. Nigamϯ, M. Patelϯ, S. Praveenϯ,T. Sangϯ, S. Upadhyayϯ, T. Varmaϯ,
+       C. Xuϯ, B. Yalamanchiϯ, M. Zharovaϯ, A. Zhengϯ ,R. Vermaϯ, J. Vasslides1, J.
+       Manderson, R.C. Jordan, and S. Gray. (2014) Determining the willingness to
+       pay for ecosystem service restoration in a degraded coastal watershed: A
+       ninth grade investigation. Ecological Economics. 104: 145–151.
+Gray, S., A. Gagnon, S. Gray, C. Mahony, D. Muir, and M. Falaleeva (2014) Are local
+coastal
+
+
+                                                                                                  14
+       managers detecting the problem? Assessing stakeholder perception of
+       climate vulnerability using Fuzzy Cognitive Mapping. Ocean and Coastal
+       Management. 94:74-89.
+Jordan, R.C., W. Brooks, S. Gray, J. Delisi, and A. Berkowitz. (2013) Rising to the
+challenge of
+       ‘broader impacts’ Frontiers in Ecology and the Environment 11(5) 234-235.
+Barnes-Mauthe, M., S. Arita, S. D. Allen, S. Gray and P. Leung. (2013) The influence
+of
+        ethnic diversity on social network structure in a common-pool resource
+system:
+        Implications for collaborative management. Ecology and Society 18 (1): 23
+Sinha, S., S. Gray, C. Hmelo-Silver, R. Jordan, C. Eberbach, A. Goel, and S. Rugabar
+       (2013) Conceptual representations for transfer A case study tracing back
+       and looking forward. Frontlines in Learning Research 1(1) 3-24.
+Jordan, R.C., C. Hmelo-Silver, L. Liu, and S. Gray. (2013) Using a complex system
+ontology
+       to foster ecosystem learning. Applied Environmental Education and
+       Communication 12(1) 55-64.
+Jordan, R.C., J. DeLisi, W. Brooks, S. Gray, A. Alvarado, and A. Berkowitz. (2013) A
+              collaborative model of science teacher professional development.
+International Journal of
+       Modern Education Forum 2(2) 31-41.
+Jordan, R.C., S. Gray, W. Brooks, C. Hemlo-Silver, and S. Honwad. (2013) Process-
+based
+       thinking in ecological science. Natural Sciences Education 42(1): 68-74.
+Gray, S., A. Chan*, D. Clark* and R.C. Jordan. (2012) Modeling the integration of
+stakeholder
+       knowledge in social-ecological system decision-making: Benefits and
+       limitations to knowledge diversity. Ecological Modeling 229, 88-96.
+Gray, S., R. Shwom, R. C. Jordan. (2012) Understanding factors that influence
+stakeholder trust
+       of natural resource science and institutions Environmental Management 49,
+       663-674.
+Gray, S., K. Nicosiaϯ, and R. Jordan. (2012) Lessons learned from citizen science in
+the
+       classroom. Democracy and Education, 21(1) 14.
+Palarama, L., J. Manderson, J. Kohut, M. Oliver, S. Gray, and J. Goff. (2012)
+Improving habitat
+
+
+
+                                                                                 15
+       models by incorporating pelagic measurements by coastal ocean
+       observatories. Marine Ecology Progress Series 447, 15-30.
+Jordan, R.C., S. Gray, D. Howe, W. Brooks, and J. Ehrenfeld. (2011) Knowledge gain
+and
+       behavior change in citizen-science programs. Conservation Biology. (25)
+1148-1154.
+Vattam, S., A. Goel, S. Rugaber, C. Hmelo-Silver, R. Jordan, S. Gray, and S. Sinha. (2011)
+       Understanding complex natural systems by articulating Structure-Behavior-Function
+       models. Educational Technology and Society 14(1) 66-81. (IF: 1.32)
+Gray, S., M. Ives, J. P. Scandol, and R.C. Jordan. (2010) Categorizing the risks in
+fisheries
+       management. Fisheries Management and Ecology. 17(6) 501-512. (IF: 1.76)
+Gray, S. and R.C. Jordan. (2010) Ecosystem-based angling: Incorporating
+                      recreational fishermen
+       into ecosystem-based management. Human Dimensions of Wildlife. 15(4)
+                      233-246.
+Jordan, R.C., S. Gray, C. Hmelo-Silver, M. Demeter, and L. Lui. (2009) An
+assessment of
+        students' understanding of ecosystem concepts: Conflating ecological
+       systems and cycles. Applied Environmental Education and Communication.
+       8(1) 40-48.
+Jordan, R.C., S. Gray, and R. Golan-Duncan. (2008) Teachers and scholarship: Self-
+definition of
+       teachers in the scientific enterprise. Education and Society, 26(3) 33-44.
+
+Peer Reviewed Book Chapters, Proceedings, Technical Reports and Other Publications______
+Brugnone, N., S. Gray, and J. Helgeson (2026) Barriers to the adoption of building
+      codes: Evidence from a Fuzzy Cognitive Map analysis of Federal Register public
+      comments. Tech Report from the National Institute of Standards and Technology
+Knox, C., S. Gray, K., Furman, A. Jetter. (2024). Creating an FCM with participants in an
+      interview or workshop setting. In Fuzzy Cognitive Maps: Best Practices and Modern
+      Methods. Eds P. Gialbbanelli. Springer Publishing. New York.
+Giabbanelli, P., C. Knox, K., Furman, S Gray, and A. Jetter (2024). Defining and Using Fuzzy
+      Cognitive Mapping (2024). In Fuzzy Cognitive Maps: Best Practices and Modern
+      Methods Eds P. Giabbanelli. Springer Publishing. New York.
+Drymon, M., A. Osowski, A. Jargowsky, M. Ajemian, A. Collins, B. Fluech, S. Gray, J.
+Lively,
+      and S. Scyphers (2022). Co-Producing a shared characterization of
+      depredation in the Gulf of Mexico reef fish fishery: Comprehensive Report
+      (Mississippi State University)
+
+
+
+                                                                                         16
+Kininmonth, S., S. Gray, and K. Kok. Expert-based Modeling. A Guide to
+Navigating
+       Methods for Studying Social-Ecological Systems. Eds: Biggs, R., A. de Vos, R
+       Prieser, M. Schluter, H. Clements, and K. Maciejewski. 231-334.
+Metzger, A., S. Gray, A. Jetter, and E. Papageorgiou. Typologies and Tradeoffs: A
+       standardized approach to creating participatory Fuzzy Cognitive Maps In. (2020)
+       Innovations in Collaborative Modeling, Eds: McNall, M. and L. Schmitt-Olabisi,
+       Michigan State University Press.
+Crall, A., D. Mellor, S. Gray and G. Newman. (2020) Collecting high quality data:
+begin with
+       the end in mind. In Citizen Science for Practitioners. Eds: Lepczyk, C.
+       University of California Press.
+Jordan, R.C., Sorenson, A. and S. Gray (2020) Undertaking program evaluation. In
+Citizen
+       Science for Practitioners. Eds: Lepczyk, C. University of California Press.
+Lavin, E.A., P. Giabbanelli, A.Stefanik, S. Gray, R. Arlinghaus, (2018) Should we
+simulate
+       mental models to assess whether they agree? In Proceedings of the 2018
+       Spring Simulation Multi-Conference, Annual Simulation Symposium
+       (SpringSim-ANSS)
+Gray, S.A. and S. Scyphers. (2017) Innovations in Collaborative Science: Advancing citizen
+       science, crowdsourcing and participatory modeling to understand and manage marine
+       social-ecological systems. In Levin, PS and M. Poe Editors. Conservation in the
+       Anthropocene Ocean: Interdisciplinary Science in Support of Nature and
+       People. Elsevier, San Diego
+Gray, S. A., M. Paolisso, R, Jordan, and S. Gray. (2017) Introduction to
+Environmental
+       Modeling with Stakeholders. Environmental Modeling with Stakeholders:
+       Theory, methods and applications. Springer Publishing, New York City
+Singer, A., A. Jetter, L. Ellsworth, S. Gray, P. Zhang, and O. Lariarchi, (2017) Policy
+       Scenarios for Fire-Adapted Communities: Understanding Stakeholder Risk
+       Perceptions in Ashland, Oregon. BLM Report
+Gray, S., A. Sadler1, R. Brown, S. Alison, L. Schmitt-Olabisi, M. Lopez, J.
+Henderson*, M,,
+       Gorman*, R. Wallace1, and M. Kaplowitz. (2016). Voices of Flint: Flint
+       resident perceptions about the causes, consequences, and solutions to the
+       Flint Water Crisis. Community Foundation of Greater Flint Report
+Gray, S., S. Gray, and E. Zanre, (2014) Fuzzy Cognitive Maps as representations of mental
+
+
+
+                                                                                        17
+       models and group beliefs: theoretical and technical issues. In Fuzzy Cognitive maps for
+       Applied Sciences and Engineering –From fundamentals to extensions and learning
+       algorithms Ed: Elpiniki I. Papageorgiou. Springer Publishing. pp 29-48.
+Gray, S., D. Mellor, D, RC Jordan, and G. Newman. (2014) Modeling with citizen
+scientists.
+        Proceedings of the International Environmental Modelling and Software
+Society
+       (iEMSs) 7th Intl. Congress on Env. Modelling and Software, San Diego, CA,
+       USA, Daniel P. Ames, Nigel W.T. Quinn and Andrea E. Rizzoli (Eds.)
+Gray, S. S. Gray, L. Cox, and S. Henly-Shepard. (2013) Mental modeler: A fuzzy-
+logic
+       cognitive mapping modeling tool for adaptive environmental management.
+       Proceedings of the 46th International Conference on Complex Systems. 963-
+       973
+Kohut, J. Palarama, L., Bochenek, E., Jenson, O., Manderson, J. Oliver, M., Gray, S.,
+and C.
+       Roebuck1 (2012) Using ocean observing systems and local ecological
+       knowledge to nowcast butterfish bycatch events in the Mid-Atlantic Bight
+       longfin squid fishery. Oceans, 1-6
+Jordan, R.C., J. Ehrenfeld, S. Gray, W. Brooks and C.E. Hmelo-Silver. (2012)
+Cognitive
+        considerations in citizen science. Eds: R. Bonnie J. Dickenson. In Citizen
+Science:
+        Public Participation in Environmental Research. Cornell University Press
+Gray, S. and L. L. Gray. (2011) LEED Standards. In: Green Energy Considerations.
+Green
+       Society: Towards a Sustainable Future. Eds. D. Mulvaney and P.
+       Robbins.SAGE Publishing. Thousand Oaks, CA. pp 277-283
+Sinha, S., S. Gray, C. Hmelo-Silver, R. Jordan, S. Honwad, (2010) Appropriating
+       conceptual representations: A case of transfer among middle school science teachers
+       Proceedings of the 9th International Conference of the Learning Sciences.(1) 834-841
+Gray, S. (2010) Are robots and satellites the future of fisheries management?
+Fisheries. 35(1) 48.
+McCay, B.J., C.F. Creed, and S. Gray. (2009) Fish or Cut Bait: How to participate in
+the
+       FisheriesManagement System, 3rd revised edition. Fort Hancock, NJ: New
+       Jersey Marine Sciences Consortium. (12pp)
+Gray, S. M. Ives, J. Scandol, and R. Jordan. (2009) Classifying the risk in fisheries
+management
+
+
+                                                                                           18
+       in Australia and the U.S. Atlantic coast. In: Scandol JP, Ives MC and Lockett
+MM
+       Development of national guidelines to improve the application of risk-based
+       methods in the scope, implementation and interpretation of stock
+       assessments for data-poor species. Final report to the Fisheries Research &
+       Development Corporation for Project No. 2007/016.3 Industry & Investment
+       NSW Final Report Series No. 115. Cronulla Fisheries Research Centre of
+       Excellence, NSW, Australia pp 164-179.
+Gray, S., C. E. Hmelo-Silver, L. Liu, R.C. Jordan, and H. Jeong. (2008) Learning with
+       ecosystem. models. Proceedings of the 8th International Conference of the
+       Learning Sciences (1) 289-296.
+Gray, S. (2009) William D. Ruckelshaus. Ed: George Cevasco. In The Modern
+American
+       Environmentalist. Johns Hopkins University Press. Baltimore MD. Pp 448-
+452.
+Gray, S., R.C. Jordan, and D. V. Howe. (2008) Oceanic Changes. The Encyclopedia of
+Global
+       Warming and Climate Change. Ed: S. George Philander. Sage Publications.
+Jordan, R.C., S. Gray and D.V. Howe. (2008) Atlantic Ocean. The Encyclopedia of
+Global
+       Warming and Climate Change. Ed: S. George Philander. Sage Publications.
+Hmelo-Silver, C. R. C. Jordan, L. Lui, S. Gray, M. Demeter, S. Rugaber, S.Varrtam,
+and A.
+       Goel. (2008) Focusing on function: Thinking below the surface of complex
+       natural systems Science Scope, 31: 27-35
+Jordan, R.C., S. Gray, M. Demeter, L. Lui, and C. Hmelo-Silver. (2008) Quick fix:
+Don’t forget
+       behavior in systems thinking! American Biology Teacher. 70: 329-330
+
+Presentations__________________________________________________________________
+2026 (invited) National Institute of Standards and Measures, Resilience Group
+2026 (invited) Apple Manufacturing Academy (3 workshops with small/medium manufacturers)
+2025 (invited) Leibniz Institute of Freshwater Fisheries, Modeling Workshop, Berlin, Germany
+2025 (invited) Tandem Global Conference on Corporate Sustainability, Detroit. MI
+2025 (invited) Smithsonian Institute, funded by Blue Ocean Convergence, Washington DC
+2024 (invited) Gund Institute for the Environment, University of Vermont, Burlington Vermont
+2024 (invited) Stockholm Resilience Center, Stockholm, Sweden
+2024 (invited) University of Leeds, Leeds, United Kingdom
+2024 (invited) Leibniz Centre for Tropical Marine Research, Bremen, Germany
+2024 (invited) The Smithsonian Environmental Research Center, Edgewater, MD
+
+
+                                                                                          19
+2023 (invited) University of South Alabama, led three-day workshop on Participatory Modeling,
+               Mobile, Alabama
+2023 (invited) The Society for Personality and Social Psychology, Collective Intelligence and
+               Knowledge Integration working group (lead Harvard Business School)
+2023 (invited) Pan-African Mosquito Control Association, Annual Conference, led a three-day
+               workshop for practitioners for malaria management, Kigali, Rwanda
+2022 (invited) Resource for the Future (RFF), “Social Science for Solar Geoengineering” Panel
+               Discussant, Washington D.C.
+2022           American Association of Geography Annual Meeting. “Harnessing Collective
+               Intelligence for Conservation” New York, NY.
+2021 (invited) Gene Convene (FNIH), Fuzzy Cognitive Maps to Conceptualize Complex
+               Problems
+2021 (invited) University of Twente, HABITABLE project, Dept of Environmental Modeling
+2020 (invited) Oberlin College and Conservatory, Oberlin, Ohio
+2020           National Council for Science and the Environment. “Participatory Modeling in
+               Environmental Decision-making.” Washington D.C. (session co-organizer)
+2019 (invited) Ohio State University. School for the Environment, Columbus OH
+2019 (organizer and co-lead) Collaborative Modeling Field School, Detroit MI
+2019 (invited) Copenhagen Business School, Collective Intelligence Unit, Copenhagen
+2019 (invited) Leibniz Institute of Agricultural Development in Transition Economies, Halle
+2019 (invited) Leibniz Institute of Freshwater Ecology and Inland Fisheries, Berlin
+2019 (invited) University of Texas at Austin, Department of Civil Engineering, Austin, TX
+2018 (invited) Texas State University, Department of Geography Distinguished Lecture Series,
+               “Harnessing collective intelligence for complex environmental decision-making“,
+               San Marcos, TX
+2018           International Environmental Modeling and Software Society (IEMSS) Annual
+               Meeting, Fort Collins CO (co-author to student papers*)
+                       (a) Participatory Modeling 2.0: Interfaces, Tools and Methods
+                       (b) Participatory Modeling 2.0: New Tools (Workshop Organizer)
+                       (c) Making Models Meaningful (Workshop Organizer)
+                       (d) Harnessing Wisdom of the Crowd for Complex Systems Modeling*
+                       (e) Modeler Decision-making: Why choose what model?*
+                       (f) A Review of Participatory Modeling Research*
+2018 (keynote) University of Texas, Texas Water Research Network (TWRN) Annual
+               Conference, “The collaborative modeling toolbox” Austin, TX
+2017 (invited) NASS Annual Meeting, “Collaborative modeling for health sciences” Orlando
+2017 (organizer) Resilience 2017. “Looking inside the Participatory Modeling Toolbox”
+               Symposium/Interactive Session. Stockholm, Sweden
+2017 (invited) University of Hawaii, “Modeling social-ecological systems with Fuzzy Cognitive
+               Mapping” (invited for FCM workshop and research talk) Honolulu, HI
+2017 (keynote) Columbia University. Teaching and Learning about Food Systems Conference
+               (invited plenary presentation, panel discussion, and workshop) New York
+2017           Citizen Science 2017, Tools for Conservation-based Citizen science, Minneapolis
+2017           Michigan State University, Conference on Teaching and Learning. Measuring
+               Systems Thinking with Mental Modeler, East Lansing, MI
+2017 (invited) Autonomous National University of Mexico, Applied Mathematics and Systems
+
+                                                                                           20
+               Research Institute, (invited for FCM workshop and research talk) Mexico City
+2016           American Geophysical Union, “4Ps to improve collaborative socio-environmental
+               modeling” San Francisco CA (presentation and invited panel discussion)
+2016 (invited) Stanford University and University of Minnesota (Natural Capital Project)
+               “Collaborative modeling to understand social-ecological systems”
+2016 (keynote) The Ohio State University School of Social Work- Research Conference 2016
+               “Participatory modeling for wicked problems” Columbus OH
+2016 (invited) Northern Illinois University, Department of Computer Science, “Crowdsourcing
+               platforms to understand wicked problems: is the crowd wise?” Dekalb, IL
+2016           Innovations in Collaborative Modeling 2016. East Lansing, MI
+                       (a) “The Participatory Modeling Toolbox” (invited plenary
+               panel)
+                       (b) “Review of FCM Typologies for Collaborative Modeling”
+                       (co-author)
+                       (c) "4 Ps for Participatory Modeling” (co-author)
+                       (d) "An introduction to Mental Modeler" (90 minute workshop)
+                       (e) “Collaborative modeling of wildfire” (co-author)
+2016 (invited) MSU Extension Community and Natural Resources Development Association
+               Annual Conference, “Systems thinking tools for extension and outreach”
+2016 (organizer) International Congress on Environmental Modeling Society, “Participatory
+               Modeling Workshop” (with A. Voinov and N. Kolagani) Toulouse. France
+2015 (invited) Conference on Conservation Science, “Modeling social-ecological
+               systems” (training workshop), New York, NY
+2015           ICES, “How the sausage is made: when public/science partnerships
+               decrease trust of science”, Copenhagen, Denmark
+2015           International Congress for Conservation Biology, "Collaborative
+               modeling for conservation" Montpellier, France
+2015           Western Economic Association International. "Probability of
+               adoption: Using mental models of farm dynamics and perception of
+               environmental change to understand farming practices in rural
+               India" Honolulu, HI
+2015 (invited)         Socio-Environmental Synthesis Center. "Mental Modeler: An
+               overview for measuring learning about social-ecological systems"
+               Annapolis, MD
+2015           Collaborative Modeling 2015. East Lansing, MI
+                       (a) "Using FCM to measure change, resilience and preferred
+                       states of socio-ecological systems"
+                       (b) "Linking products, people, and process in participatory
+                       modeling" (Invited plenary panel discussion)
+                       (c) "An introduction to Mental Modeler" (90 minute workshop)
+
+
+                                                                                         21
+                     (d) "Flood models that matter: integrating FCM and ABM" (co-
+                     author)
+2015 (invited)       Michigan State University. Department of Community
+             Sustainability. "A cognitive approach to understanding human-
+             environment interactions" East Lansing, MI
+2015 (invited)       Auburn University. School of Forestry and Wildlife Science.
+             "Using mental models to understand human-wildlife interactions"
+             Auburn, AL
+2015         Citizen Science 2015, San Jose, CA
+                     (a) "Modeling with citizen scientists: Using community-based
+                     modeling tools to develop citizen-science projects resulting in
+                     resource management outcomes"
+                     (b) "How the sausage is made: When public participation in
+                     science leads to decreased trust of scientific assessment"
+                     (c) "Determining the Willingness to Pay for Ecosystem Service
+                     Restoration: A High-School Citizen Science Project" (co-author)
+                     (d) "The Challenges with Training Outdoor Enthusiasts" Online
+                     (co-author)
+                     (e) "Citizen Science Learning and Epistemology in Socio-
+                     Ecologically Oriented Projects" (co-author)
+2014 (invited)       University of Nebraska. Water Resources Research
+             Institute/Department of Natural Resources: “Using mental models to
+             understand human-environment interactions” Lincoln, NE
+2014         Japan Society for International Development “Cognitive
+             considerations in conservation agriculture” Osaka, Japan (part of our
+             Belmont Forum Symposium)
+2014         Human Ecology, "A FCM-based software for measuring perceptions
+             of the environment" Bar Harbor, ME
+2014         International Symposium on Society and Resource Management,
+             “Using mental models to understand conservation related attitudes
+             and policy preferences: an empirical study of anglers and stocking”
+             Hanover, Germany
+2014         International Congress on Environmental Modelling and Software (iEMSs) San
+             Diego, CA
+                     (a) “Predicting local scale climate change impacts on endangered birds by
+                     integrating watershed models and expert knowledge-based models for
+                     decision-support”.
+                     (b) “Modeling with citizen scientists”
+
+
+
+                                                                                           22
+2014         Resilience 2014: Session Chair/Organizer “Fuzzy-logic Cognitive
+             Mapping as a tool to understand change and transformation in
+             social-ecological systems” Montpellier, France
+                     (a) “What is FCM?”
+                     (b) “A FCM software tool for research and planning”
+                     (c) “Case study: Coastal sustainability from the waterfront
+                     view of homeowners” (Steven Scyphers, lead author)
+2014 (keynote) NOAA Ecosystem Modeling Workshop “Mixed models/mixed
+             messages” Seattle, WA.
+2014         Citizen Cyber-Science Summit, “Modeling with citizen scientists.”
+             London
+2013         Hawaii Conservation Congress. “Coupling watershed modeling and
+             knowledge-based modeling to understand climate change impacts on
+             endangered birds on Kauai. Honolulu, HI
+2013         University of Massachusetts, School for the Environment, “Using
+             mental models to understand human-environment interactions.”
+             Boston, MA
+2013         US Fish and Wildlife. Decision-support software for federal natural
+             resource management agencies. (webinar)
+2013         International Symposia on Society and Resource Management. “A
+fuzzy-logic
+             based software tool for resource management.” Estes Park, CO
+2013 (invited) Colorado State University, Department of Human Dimensions,
+“Mental models as
+             a human dimension” Fort Collins, CO
+2013         Hawaii International Conference on Complex Systems, “Mental Modeler: A
+             participatory fuzzy-logic cognitive mapping software for adaptive environmental
+             management, Maui, HI
+2012                 Human Dimensions of Fisheries and Wildlife, Breckenridge CO
+                    (a) “Understanding factors that influence stakeholder trust of
+                    natural resource science and institutions”
+                    (b) “The influence of specialization and target species choice on
+                    anglers' mental models of fish ecology”
+                    (c) “Mental Modeler: Incorporating individual and group
+                    stakeholder understanding into natural resource decision-
+                    making through a fuzzy-logic cognitive mapping software tool”
+                    (d) “Comparing the structure and function of mental models of
+                    fishery scientists and angling experts related to pike (Esox
+                    lucius) ecology and management”
+
+                                                                                         23
+2012         Ecological Society of America annual meeting in Portland OR
+                   (a) “Examining the relationship between ecosystem service
+                   characteristics and their management: A case study of Hawaii’s
+                   watersheds and coasts”
+                   (b) “Why and how should high school students learn about the
+                   ecology-nature of science?”
+                   (c) “Lessons from implementing a model-based pedagogy in the
+                   K12 classroom”
+2012 (invited) Leibniz Institute for Freshwater Ecology and Inland Fisheries:
+“Toward
+             Collaborative Conservation: Integrating social science, natural
+             science and participation in US fisheries management.” Berlin
+             Germany
+2012 (invited) University of Massachusetts, Environment, Earth, and Ocean
+Sciences
+               Department, Boston, MA “Managing the social-ecological ocean”
+2011 (invited) University College Cork, Department of Geography, Cork, Ireland
+             “Integrating social and natural science to develop natural resource
+policy”
+2011 (invited) University of Hawaii, Department of Natural Resources and
+Environmental
+             Management, Manoa, HI, “What are the human dimensions of
+             natural resources”
+2011 (invited) State University of New York, Environmental Science and Forestry,
+Syracuse,
+             NY, Department of Environmental Studies “Developing methods for
+             integrating stakeholder knowledge in participatory management”
+2011          American Educational Research Association, New Orleans, LA
+“Understanding
+             learning as an outcome of modeling”
+2011 (invited) Saint Peters College, Department of Biology, Jersey City, NJ
+              “Managing marine fisheries as a social-ecological system”
+2011         Resilience 2011: Resilience, Innovation, and Sustainability, Tempe,
+AZ
+             “Integrating stakeholder knowledge into social-ecological decision-
+       making”
+2011 (invited) International Council for the Exploration of the Seas (ICES) Halifax,
+NS
+
+
+                                                                                 24
+             “Integrating social datasets into an ecosystem assessment for the
+             North Atlantic”
+2011 (invited) University of Illinois, Department of Natural Resources and
+Environmental
+             Science, Urbana, IL, “Managing marine fisheries as a social-
+       ecological system”
+2011 (invited) Science and Policy Advisory Panel for the Barnegat Bay
+Partnership, Tom’s                      River, NJ, “Developing an integrated social-
+ecological assessment model for
+             Barnegat Bay”
+2010 (invited) American Geophysical Union, San Francisco, CA, “Structure,
+Behavior, Function
+             as a conceptual framework for teaching and learning about
+             complexity in ecosystems”
+2010 (invited) Ecosystem Planning Committee, Mid-Atlantic Fisheries
+Management Council,
+             Norfolk, VA, “What makes some parts of the ocean sticky to fish?
+             Ocean observing for marine habitat science and ecosystem
+             management”
+2010 (invited)      Colby College Department of Environmental Studies,
+             Waterville, ME
+             “Integrating natural and social science to develop marine policy”
+2010         Human Dimensions of Fisheries and Wildlife, Estes Park, CO,
+             “Benefits and limitations to knowledge diversity in social-ecological
+             decision-making”
+2010 (invited) NOAA NMFS Howard Marine Laboratory, Sandy Hook, NJ
+“Integrating
+             stakeholder knowledge into the management of marine fisheries”
+2009 (invited) NOAA Office of Ocean and Coastal Management, Washington D.C.
+             “Characterizing recreational anglers and as a component of social-
+       ecological
+             systems: friend or foe to conservation?”
+2009         Mid-Atlantic American Fisheries Society, New Jersey “Developing
+ecological
+             indicators for fisheries management using IOOS defined habitat
+       characteristics in
+             the mid-Atlantic Bight” (winner, best student presentation)
+2009         Ecological Society of America Annual Meeting, Albuquerque, NM
+             “Combining fuzzy logic cognitive mapping & resilience theory to
+
+                                                                                  25
+            understand coupled social-ecological system dynamics: a case study
+            of the summer flounder fishery” poster
+2009        Ecological Society of America Annual Meeting Albuquerque, NM
+            “Assessment methods for interdisciplinary ecological dissertation
+            research” (workshop)
+2009        Mid-Atlantic Fisheries Management Council meeting New York City,
+            “Developing ecological indicators for fisheries management using
+            IOOS defined habitat characteristics in the mid-Atlantic Bight”
+2009        Society for Conservation Biology International Marine Conservation
+Congress.
+             Washington D.C “Identifying the risks in fisheries management”
+2009         American Educational Research Association (AERA) Annual Meeting.
+             San Diego, CA, “Modeling practices as function of task structure”
+2008 (invited) National Estuarine Research Reserve Systems (NERRS) Annual
+Meeting,
+             Monterrey, CA “How can social science help the NOAA NERRS:
+       Implications
+             for ecosystem-based management”
+2008         North American Association of Environmental Educators Annual
+Research
+             Symposium. Wichita, KS “A characterization of ecology and
+             ecosystem understanding: a call for targeted instruction”
+2008          NJ Biology Teachers’ Association at the New Jersey Science Teacher's
+             Convention. Somerset, NJ, “Thinking below the surface: using
+             aquaria to teach about systems”
+2008         Proceedings of the International Conference of the Learning
+             Sciences: Utrecht, the Netherlands, “Learning with ecosystem
+             models: A tale of two classrooms”
+2008         National Science Teacher Association National Conference Boston,
+             MA “Representational tools to support learning about complex
+             systems”
+2008         American Educational Research Association (AERA) Annual Meeting,
+             New York, NY, “An integrated framework for bridging diverse
+             analytical tools for understanding technology-mediated learning
+             about complex natural systems”
+2007 (invited) Rutgers Marine Field Station, NOAA Review, Tuckerton, NJ,
+“Developing costal
+             training programs built around recreational fishermen for the
+             Jacques Cousteau NERR”
+
+                                                                               26
+2005 (invited) U.S. EPA National Radiation and Indoor Environment Laboratory,
+Las Vegas,
+             NV, “Sustainable environmental management programs through
+             community outreach and web communication”
+
+Teaching Experience____________________________________________________________
+2015-present                                            Michigan State
+            University, ISB 202: Ecology and Society (~150-200 students)
+            Michigan State University, CSUS 802, Research Methods (graduate)
+            Michigan State University, CSUS 820: Social-ecological Resilience
+            (graduate)
+            Michigan State University, CSUS 834: Survey Research Methods
+            (graduate)
+            Michigan State University, CSUS 890: Special Topics: Modeling Social-
+            ecological Systems with Fuzzy Cognitive Maps (graduate)
+            Michigan State University, CSUS 200: Introduction to Sustainability
+2013-2015 University of Massachusetts, EEOS 604: Coasts and Communities
+            (graduate cornerstone II)
+            University of Massachusetts, EEOS 603: Coasts and Communities
+            (graduate cornerstone I);
+            University of Massachusetts, EEOS 122: Introduction to
+            Environmental Policy
+            University of Massachusetts, EEOS 476: Capstone
+            University of Massachusetts, EEOS 699: People and Protected Areas
+2012-2013 University of Hawaii, NREM 203: Applied Calculus for Life Sciences
+            University of Hawaii,     Environmental and Natural Resource Policy
+2008-2010 Rutgers University, Portal to Academic Student Success (PASS)
+
+             Rutgers University, Politics of Environmental Issues (teaching
+assistant)
+
+Service and Working Groups _______ _______________________________________-
+                    _______
+Editorial Board
+Editorial Board, Socio-ecological Systems Modeling (founding board member,
+     2017)
+Guest Editor, Mathematical Modelling and Complex Systems in Agroecology for
+     Frontiers in Sustainability Food Systems
+Proposal Review Panels
+
+
+                                                                               27
+NSF Dynamics of Integrated Socio-environmental Systems (DISES) invited review
+     panel (multiple years)
+NSF Coupled Natural and Human Systems (CNHS) invited review panel (multiple
+     years)
+NOAA, Collaborative Research Catalyst Grants (multiple years)
+California Sea Grant
+Swiss National Science Foundation (ad hoc)
+NSF Risk and Decision, invited panel review (ad hoc, multiple times)
+National Academies of Science (NAS), Healthy Ecosystems, invited panel review
+NSF Research Traineeship (NRT), invited panel review
+EU European Research Council (ERC), Consolidator Grants, invited review panel
+NOAA NERR Collaborative Science, invited review panel (multiple years)
+Working Groups and Science Advisory Panels
+National Ecological Synthesis Center (NCEAS) workshop participant, Using AI for
+     fisheries management in the Gulf
+Fifth National Climate Assessment (NCA) 2024-2026, Chapter Author, Decision and
+     Management Science
+First National Nature Assessment (NNA) 2024-2026, Chapter Author, Nature and
+     Cultural Heritage
+Lenfest Ocean Program, Integrating the Functional Importance of Biodiversity in
+     Management of US Marine Ecosystems, Working group lead (2023-2025), Led
+     by Smithsonian Institute. NOAA, and The University of Southern Alabama
+Collective Intelligence 2023 (Boston and Copenhagen) Advisory Board
+Collective Intelligence 2020 (Boston and Copenhagen) Advisory Board
+Ocean Modeling Forum (The Nature Conservancy and University of Washington)
+NSF National Ecological Synthesis Center (NCEAS) workshop participant,
+     Biocultural indicators for resilience
+NSF Socio-Environmental Synthesis Center (SESYNC) workshop PI, Participatory
+     modeling of action-oriented outcomes
+NSF Socio-Environmental Synthesis Center (SESYNC) workshop participant,
+     Teaching about socio-environmental systems
+NSF National Evolutionary Synthesis Center (NaESCent) workshop participant,
+     Anthropogenic Sensory Stimuli as Drivers of Evolution: A conceptual
+     synthesis and roadmap for an integrated citizen-science research network
+NSF Socio-Environmental Synthesis Center (SESYNC) workshop participant,
+     Climate Social Science Literacy
+NOAA National Ecosystem Modeling working group member
+International Council for the Exploration of the Seas (ICES) Social Science
+     Advisory Panel
+
+                                                                             28
+Journal Reviewer Nature: Sustainability, Nature: Communications; Nature: Ecology and
+    Evolution, Science Advances (AAAS), Neurocomputing, Biological Conservation,
+    Ecological Engineering, Ecological Modeling, Frontiers in Ecology and the Environment,
+    Ecology and Society, Environmental Management, Environmental Modeling and Software,
+    Land Use Policy, Sustainability, Annals of Fuzzy Mathematics and Informatics, PLoS One,
+    Tropical Ecology, Journal of Agricultural Extension and Rural Development,
+    Environmental Education Research
+
+Advising ______________________________________________________________________
+Postdocs
+2020         Payam Aminpor, lead user researcher UX, Thermos Scientific
+2019-2023    Chelsea Wentworth, assistant professor, MSU
+Graduate (Chair)
+2026         Irene Lujan Climent (University of Valencia, PhD) Visiting Fulbright
+2025         Abbie Ording (MSU, MS)
+2025         Max Toloff (MSU, MS)
+2018-2024    Mahdi Zahreei (MSU, PhD) assistant research professor, MSU
+2019-2024    Carissa Knox, (University of Michigan, PhD). postdoc USDA/U of Vermont
+2022-2023    Nathan Brugonee (MSU, PhD), computational social scientist, TwoSix Labs
+2016-2020    Payam Aminpor, (MSU, PhD), postdoc Johns Hopkins University, NIST
+2017-2020    Laura Young, (MSU, MS), assistant director office of sustainability, MSU
+2015-2019    Allison Singer, (MSU, PhD), assistant professor, Northern Arizona University
+2014-2018    Alexander Metzger, (UMass, PhD), environmental consultant, Boston
+2012-2015    Noelani Puniwai, (UHawaii, PhD), assistant professor, University of Hawaii
+2011-2014    Jackie Halbrendt, (UHawaii, PhD), postdoc, Wageningen University
+2012-2014    Molly Miller, (UHawaii, MS), PhD student, University of Maine
+2011-2013    Angela Nyaki, (UHawaii MS), reserve manager, Tanzania National Parks
+2011-2013    Mary Younkin, (UHawaii, MS), research scientist, The Nature Conservancy
+Graduate (Committee)
+2026         Ash Grabowski, (MSU, PhD)
+2017-2021    Chris Henderson (MSU, PhD)
+2017-2020    Chris Bargenhaden (MSU, PhD)
+2015-2020    Bethany Laursen (MSU, PhD)
+2017-2020    Kyle Metta (MSU, PhD)
+2016-2018    Emily Koryto (MSU, MS)
+2016-2018    Natalia Ocampo Dias (MSU, MS)
+2016-2018    John Olwande, (MSU, PhD)
+2012-2017    Hla Htun, (UHawaii, PhD
+2015-2016    Zak Mertz (UMass, MS)
+2014         Jennifer Ly (UMass, MS)
+2011-2016    Rusyan Jill-Mamitt (UHawaii, PhD)
+2013-2014    Vijaylaxsmi Kesavan, UMass, MS)
+2011-2013    Sarah Henly-Shepard (UHawaii, PhD)
+2011-2012    Michele Barnes (UHawaii, MS, PhD)
+2011-2012    Kara Miller (UHawaii, MS)
+
+                                                                                         29
+2011-2012   Cheryl Lohr (UHawaii, PhD)
+Undergraduate (Supervised research)
+2019-2021   Grace Newland (MSU, CSUS)
+2016-2018   Raisa Lenau, (MSU, AFRE) Krogers Sustainability Office
+2015-2018   Maddie Gorman (MSU, CSUS) State of Michigan
+2015-2018   Caite Reza (MSU, Zoology) USGS. MS student UC Santa Barbara
+2015-2018   Degen Gemarowski, (MSU, Plant Science)
+2015-2017  Jane Henderon (MSU/U of San Diego) PhD student at UC Berkley
+2014-2017   Rachel Robers-Toler, (UMass, SFE) environmental consultant
+2014-2015   Emily True, (UMass, SFE) MS student at Duke University
+2014-2015   Alexander Berry, (UMass, SFE)
+2014-2015   Faynshteyn, Nickolas, (UMass, SFE) MS student at Northeastern University
+2012-2013   Nate Hunter, (UHawaii, NREM)
+2011-2013   Anthea Fernandez, (UHawaii, Biology) Ernst and Young
+2011-2012   Derek Ford, (UHawaii, NREM)
+2010-2011   Alicia Raeburn, (Rutgers Marine Science and Policy) NRDC
+2010-2011   Kathryn Gardella, (Rutgers Human Ecology) MS student at UMiami
+2010-2011   Samantha Paeswak, (Rutgers Marine Science and Education)
+2009-2010   Amanda Gettlefinger, (Rutgers Environmental Policy) PS&S Consulting
+2009-2010   Dan Clark, Rutgers Ecology, MS, Purdue, PhD student Rutgers
+2009-2010   Alex Chan, Rutgers Mathematics and Biology (medical school 2010)
+
+Awards _______________________________________________________________________
+2024        MSU Ronald Wilson Endowed Teaching Award
+2018        MSU TEDx speaker (1 of 10 speakers selected out of 120+ speakers)
+2016        Elinor Ostrom Young Scholar Award (International) nominee
+2013        Leibniz-Institute of Freshwater Ecology and Inland Fisheries
+Fellowship
+2013        Mentor of the Year, University of Hawaii, NREM Graduate Student
+Organization
+2010        Rutgers University Research Award
+             ($1000 prize, 1 of 6 students awarded from university-wide
+      competition)
+2009        American Fisheries Society Student Writing Award
+2009        American Fisheries Society (Mid-Atlantic) Best Student Presentation
+2008        Australian Academy of Sciences EAPSI Recipient
+2006        U.S. EPA STEP Program (3 month award)
+2005        U.S. EPA Environmental Scholar Award, Radiation National Laboratory
+
+
+
+
+                                                                                       30
