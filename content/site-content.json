@@ -14,7 +14,7 @@
     "description": "Knowledge Diversity · Collective Intelligence · Sustainable Futures",
     "principalInvestigatorId": "steven-gray",
     "favicon": "favicon.ico",
-    "lastUpdated": "2026-11-11"
+    "lastUpdated": "2026-11-13"
   },
   "sections": [
     {
@@ -75,15 +75,15 @@
       },
       {
         "id": "graduate-students-current",
-        "label": "Graduate Students",
+        "label": "Current Researchers",
         "status": "current",
         "badge": "Current"
       },
       {
         "id": "graduate-students-former",
-        "label": "Graduate Students",
+        "label": "Former Lab Members",
         "status": "former",
-        "badge": "Former"
+        "badge": null
       }
     ],
     "members": [
@@ -130,29 +130,81 @@
         ]
       },
       {
+        "id": "abigail-ording",
+        "name": {
+          "display": "Abigail Ording",
+          "given": "Abigail",
+          "family": "Ording"
+        },
+        "groupId": "graduate-students-current",
+        "role": "MS researcher",
+        "degree": "MS",
+        "graduationYear": null,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Graduate researcher in the Plural Intelligence Lab."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "irene-lujan-climent",
+        "name": {
+          "display": "Irene Luján-Climent",
+          "given": "Irene",
+          "family": "Luján-Climent"
+        },
+        "groupId": "graduate-students-current",
+        "role": "Visiting PhD researcher",
+        "degree": "PhD",
+        "graduationYear": null,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Visiting Fulbright doctoral researcher from the University of Valencia, Spain, studying governance of common-pool resources."
+          }
+        ],
+        "links": []
+      },
+      {
+        "id": "max-tolmoff",
+        "name": {
+          "display": "Max Tolmoff",
+          "given": "Max",
+          "family": "Tolmoff"
+        },
+        "groupId": "graduate-students-current",
+        "role": "Researcher",
+        "degree": null,
+        "graduationYear": null,
+        "photo": null,
+        "bio": [
+          {
+            "type": "paragraph",
+            "text": "Researcher in the Plural Intelligence Lab."
+          }
+        ],
+        "links": []
+      },
+      {
         "id": "noleen-chikowore",
         "name": {
           "display": "Noleen Chikowore",
           "given": "Noleen",
           "family": "Chikowore"
         },
-        "groupId": "graduate-students-current",
+        "groupId": "graduate-students-former",
         "role": "PhD",
         "degree": "PhD",
         "graduationYear": null,
-        "photo": {
-          "src": "img/Noleen Chikowore.png",
-          "alt": "Noleen Chikowore",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Noleen is a native Zimbabwean and a Fulbright Scholar, passionate about using participatory modelling tools in community engaged scholarship. Her current work focuses on understanding how stakeholder dynamics (i.e. values, attitudes and perceptions) in urban areas influence environmental decision making in sustainable household waste management practices in developing countries."
-          },
-          {
-            "type": "paragraph",
-            "text": "Noleen is a faculty member at the Catholic University of Zimbabwe where she has been teaching and supervising undergraduate students in areas of Human Geography and Natural Resources Management and Conservation. She holds a B.A (Hons.) in Geography and English from the Catholic University of Zimbabwe, a M.A in Environmental Policy and Planning from the University of Zimbabwe and currently she is working on her PhD in Community Sustainability at Michigan State University."
+            "text": "Research focus: participatory modeling, stakeholder perspectives, and sustainable urban waste management. Subsequent position: Lecturer, University of Leeds."
           }
         ],
         "links": []
@@ -164,19 +216,15 @@
           "given": "Laura",
           "family": "Young"
         },
-        "groupId": "graduate-students-current",
+        "groupId": "graduate-students-former",
         "role": "MS",
         "degree": "MS",
         "graduationYear": null,
-        "photo": {
-          "src": "img/Laura Young.png",
-          "alt": "Laura Young",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Laura’s research focuses on Michigan’s Water Withdrawal Assessment Process and examines how a diverse set of stakeholders perceive groundwater dynamics and water use in the state. She is also interested in evaluating outcomes from the use of environmental decision support systems (EDSS). Laura, an Outreach/Research Associate at the Michigan State University Institute of Water Research, has worked on multiple projects that developed and deployed EDSS for the Great Lakes region. She holds a B.S. in Environmental Studies and Agriscience and a B.A. in Russian from MSU."
+            "text": "Research focus: groundwater governance, Michigan's Water Withdrawal Assessment Process, and environmental decision-support systems. Subsequent position: Director of Sustainability, Michigan State University."
           }
         ],
         "links": []
@@ -188,19 +236,15 @@
           "given": "Alison",
           "family": "Singer"
         },
-        "groupId": "graduate-students-current",
+        "groupId": "graduate-students-former",
         "role": "PhD",
         "degree": "PhD",
         "graduationYear": null,
-        "photo": {
-          "src": "img/Alison Singer.png",
-          "alt": "Alison Singer",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Alison is interested in the role that narrative and story play in science communication and the uptake of scientific information."
+            "text": "Research focus: scientific narratives, science communication, and the uptake of scientific information. Subsequent position: faculty member, Northern Arizona University."
           }
         ],
         "links": []
@@ -208,27 +252,19 @@
       {
         "id": "payam-aminpor",
         "name": {
-          "display": "Payam Aminpor",
+          "display": "Payam Aminpour",
           "given": "Payam",
-          "family": "Aminpor"
+          "family": "Aminpour"
         },
-        "groupId": "graduate-students-current",
+        "groupId": "graduate-students-former",
         "role": "PhD",
         "degree": "PhD",
         "graduationYear": null,
-        "photo": {
-          "src": "img/Payam Aminpor.png",
-          "alt": "Payam Aminpor",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Payam received a Bachelor’s degree in civil engineering and a Master’s degree in Civil engineering-water resource management from Iran University of Science and Technology and is currently doing his PhD in Community sustainability at Michigan State University. His professional interests focus on modeling the complex Socio-Environmental-Systems when it comes to the group decision-making process. Before joining the lab, Payam was working on the impact of unsustainable human behavior on his country’s water resources, Iran."
-          },
-          {
-            "type": "paragraph",
-            "text": "His current researches include Knowledge Integration, collective intelligence, and modeling the group behavior and information exchange among diverse individuals via Agent-Based Modeling (ABM). With this question that how individuals’ mental models change as a result of interaction and communication through participatory decision-making processes, he is trying to develop a simulation platform using computer programming to evaluate group performances encountering with complex problems."
+            "text": "Research focus: knowledge integration, collective intelligence, and agent-based modeling of group environmental decisions. Subsequent position: Eli Lilly."
           }
         ],
         "links": []
@@ -240,19 +276,15 @@
           "given": "Alex",
           "family": "Metzger"
         },
-        "groupId": "graduate-students-current",
+        "groupId": "graduate-students-former",
         "role": "PhD",
         "degree": "PhD",
         "graduationYear": null,
-        "photo": {
-          "src": "img/Alex Metzger.png",
-          "alt": "Alex Metzger",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Alex's background in urban sustainability and resource flow analysis, sustainable forest management, and land conservation has led to his interest in stakeholder involvement with common pool resources. His current research focusses on analyzing the interplay among mental models, social networks, and resource management decision-making in order to understand the underlying factors that determine successful management strategies. He earned his B.S. in Conservation Biology from the SUNY College of Environmental Science and Forestry, M.S. in Natural Resources from North Carolina State University, and M.S. in Forest Ecology from the University of Helsinki, Finland. He has also worked in both the government and non-profit sectors in positions related to natural resource conservation, environmental research, and land management."
+            "text": "Research focus: mental models, social networks, and common-pool resource management. Subsequent position: environmental consultant in Boston."
           }
         ],
         "links": []
@@ -268,15 +300,11 @@
         "role": "PhD, 2015",
         "degree": "PhD",
         "graduationYear": 2015,
-        "photo": {
-          "src": "img/Noelani Punawai.png",
-          "alt": "Noelani Punawai",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Born and raised in rural Puna on Hawai'i Island, Noe is passionate about protecting our islands, and specifically the ocean or seascape. Her work focuses on understanding the subjective meanings of the seascape and using this knowledge to inform management. Noe is academically trained in marine (BA UH Hilo) and environmental science (MSc. WSU) and is working on her PhD in the Natural Resources and Environmental Management program at UH Manoa. Noe is now a tenure-track assistant professor of at the University of Hawaii at Manoa in the Department of Hawaiian Studies."
+            "text": "Research focus: cultural meanings of marine and coastal landscapes and their relevance to resource management. Subsequent position: Associate Professor, University of Hawaiʻi at Mānoa."
           }
         ],
         "links": []
@@ -284,23 +312,19 @@
       {
         "id": "jackie-chan-halbrednt",
         "name": {
-          "display": "Jackie Chan-Halbrednt",
-          "given": "Jackie",
-          "family": "Chan-Halbrednt"
+          "display": "Jacqueline Chan-Dentoni",
+          "given": "Jacqueline",
+          "family": "Chan-Dentoni"
         },
         "groupId": "graduate-students-former",
         "role": "PhD, 2014",
         "degree": "PhD",
         "graduationYear": 2014,
-        "photo": {
-          "src": "img/Jackie Chan-Halbrednt.png",
-          "alt": "Jackie Chan-Halbrednt",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Jackie is interested in the individual (mental models), family (household), and social (community) implications of international agricultural development. Her dissertation research was funded by USAID and evaluated the different human dimensions of conservation agriculture. This research has been featured in leading journals like Global Environmental Change and in development relevant publications like Mountain Research and Development. Jackie recently traded the beautiful shores of Hawaii for the bucolic yet cosmopolitan scenery of Wageningen in the Netherlands. She continues collaborating with our group as part of the NSF Belmont Form Project working with rural farmers in India."
+            "text": "Research focus: conservation agriculture, household decisions, and participatory approaches to international agricultural development. Subsequent position: Alliance of Bioversity International and CIAT."
           }
         ],
         "links": []
@@ -316,22 +340,25 @@
         "role": "MS, 2014",
         "degree": "MS",
         "graduationYear": 2014,
-        "photo": {
-          "src": "img/Molly Miller.png",
-          "alt": "Molly Miller",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "A native of Massachusetts, Molly decided to take some time off from the New England winters to spend a few years in Hawaii. While at the University of Hawaii, Molly's research focused on evaluating the degree of fishermen participation in NOAA's cooperative research program in to understand (1) how fishermen participation in science changed since the program was started in 2000 and (2) the outcomes associated with scientists/fishermen collaboration."
-          },
-          {
-            "type": "paragraph",
-            "text": "Before heading to Hawaii, Molly received a BS in Biology from Vassar College in New York and since graduating, has returned to the beautiful and unforgiving coastline of Maine."
+            "text": "Research focus: fishers' participation in cooperative fisheries research and scientist–fisher collaboration. Subsequent position: Fisheries Technical Programs Manager, Maine Center for Coastal Fisheries (reported 2024)."
           }
         ],
-        "links": []
+        "links": [
+          {
+            "label": "Professional profile",
+            "url": "https://www.linkedin.com/in/molly-miller-ph-d-47825a97/",
+            "kind": "website"
+          },
+          {
+            "label": "Maine Center for Coastal Fisheries",
+            "url": "https://coastalfisheries.org/maine-center-for-coastal-fisheries-is-on-the-move-introducing-new-team-members/",
+            "kind": "website"
+          }
+        ]
       },
       {
         "id": "angela-nyaki",
@@ -344,15 +371,11 @@
         "role": "MS, 2013",
         "degree": "MS",
         "graduationYear": 2013,
-        "photo": {
-          "src": "img/Angela Nyaki.png",
-          "alt": "Angela Nyaki",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Angela joined the group in 2011 as a graduate student and Ford Foundation Fellow at the University of Hawaii in the Department of Natural Resources and Environmental Management. Before joining the lab, Angela was a wildlife officer with the Tanzania National Park Service working in the Serengeti. Angela‘s research interest are in collaborative management of wildlife resources and with funding from the Frankfurt Zoological Society engaged in participatory modeling with the illegal hunters in the park to better understand the drivers of illegal poaching from the community perspective."
+            "text": "Research focus: participatory wildlife management and community perspectives on illegal hunting. Subsequent position: Commanding Officer, Kilimanjaro National Park."
           }
         ],
         "links": []
@@ -368,22 +391,20 @@
         "role": "MS, 2013",
         "degree": "MS",
         "graduationYear": 2013,
-        "photo": {
-          "src": "img/Mary Pleasant.png",
-          "alt": "Mary Pleasant",
-          "caption": null
-        },
+        "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Mary's primary goal is to facilitate sustainable management of natural resources through engaging local community in conservation, and studying their effects on and interaction with the environment. Understanding how humans interact with the natural world requires an interdisciplinary approach of both the social and natural sciences, using a mix of quantitative and qualitative methods."
-          },
-          {
-            "type": "paragraph",
-            "text": "Mary holds a B.S. is in Wildlife Biology from Humboldt State University, and M.S. in Natural Resources and Environmental Management from the University of Hawaii at Manoa. Professionally, she has worked for the Bureau of Land Management and California State Parks in natural resource management. In addition, while at the University of Hawaii, she was both a research assistant studying ecosystem services and project coordinator for an international development project in the Philippines that provided under-served youth access to agricultural entrepreneurship training and resources. She is now professional faculty in the Department of Applied Economics at Oregon State University."
+            "text": "Research focus: community-engaged natural-resource management, conservation, and ecosystem services. Previously listed with Oregon State University; current appointment requires verification."
           }
         ],
-        "links": []
+        "links": [
+          {
+            "label": "Professional profile",
+            "url": "https://www.linkedin.com/in/mary-pleasant-957b66111/",
+            "kind": "website"
+          }
+        ]
       }
     ]
   },
