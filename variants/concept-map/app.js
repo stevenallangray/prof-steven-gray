@@ -248,7 +248,7 @@
     const research = data.about;
     const projects = research.projects.length
       ? h('div', { class: 'about-projects' },
-          h('h3', { class: 'about-subtitle' }, 'Selected Research Projects'),
+          h('h3', { class: 'about-subtitle' }, 'Representative Research Projects'),
           research.projects.map((p) => h('article', { class: 'about-project' },
             h('h4', null, p.title), h('p', null, inline(p.description)),
             p.themes && h('p', { class: 'project-themes' }, p.themes),
