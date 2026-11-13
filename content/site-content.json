@@ -137,14 +137,14 @@
           "family": "Ording"
         },
         "groupId": "graduate-students-current",
-        "role": "MS researcher",
+        "role": "MS Student",
         "degree": "MS",
         "graduationYear": null,
         "photo": null,
         "bio": [
           {
             "type": "paragraph",
-            "text": "Graduate researcher in the Plural Intelligence Lab."
+            "text": "Abby is a Master's student in the Department of Community Sustainability at Michigan State University. Her research focuses on the relationships between culture, biophysical features of nature, and human wellbeing. She is particularly interested in how the design of environments influences ecosystem services and public health outcomes, and has worked on several projects investigating associations between different dimensions of nature and health outcomes. Recent projects include research on urban greenspace and mental health in Flint, and research on the relationship between urban biodiversity and maternal health. She holds a B.S. in Environmental Studies and Sustainability from Michigan State University and hopes to pursue doctoral study following her master's degree."
           }
         ],
         "links": []
