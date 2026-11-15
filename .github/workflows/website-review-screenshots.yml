@@ -1,0 +1,46 @@
+name: Website review screenshots
+
+on:
+  push:
+    branches: [website-review]
+    paths-ignore:
+      - 'review/screenshots/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: website-review-screenshots
+  cancel-in-progress: true
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: website-review
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm install --no-save --no-package-lock playwright
+      - run: npx playwright install --with-deps chromium
+      - name: Start static website
+        run: |
+          python3 -m http.server 8000 --bind 127.0.0.1 > /tmp/site-server.log 2>&1 &
+          sleep 3
+      - name: Capture live-rendered page and check citations and images
+        run: node scripts/capture-preview.mjs
+      - name: Commit refreshed screenshots to review branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review/screenshots/
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh visual review screenshots [skip ci]"
+            git push
+          fi
