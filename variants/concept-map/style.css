@@ -352,7 +352,7 @@ button { cursor: pointer; }
   display: flex; flex-wrap: wrap; align-items: center;
   gap: clamp(16px, 3vw, 36px); margin-bottom: clamp(16px, 2.4vw, 28px);
 }
-.hero-logo { flex: none; width: clamp(104px, 16vw, 188px); height: auto; }
+.hero-logo { flex: none; width: clamp(128px, 16vw, 188px); height: auto; }
 .hero-lockup-text {
   flex: 1 1 18rem; min-width: 0;
   padding-left: clamp(16px, 3vw, 36px); border-left: 2px solid color-mix(in srgb, var(--ink) 55%, transparent);
