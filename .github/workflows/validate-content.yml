@@ -1,0 +1,28 @@
+name: Validate site content
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Validate content against the schema
+        run: npm run validate
+      - name: Check site-content.js is up to date
+        run: |
+          if ! git diff --exit-code -- content/site-content.js; then
+            echo "::error file=content/site-content.js::site-content.js is out of date. Run 'npm run validate' and commit the result."
+            exit 1
+          fi
