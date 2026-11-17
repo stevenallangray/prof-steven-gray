@@ -540,7 +540,7 @@
     for (const n of nodes) {
       n.fs = (narrow ? 11.5 : 13) + Math.min(n.count, 20) * (narrow ? 0.09 : 0.11);
       g.font = `600 ${n.fs}px "Familjen Grotesk", system-ui, sans-serif`;
-      n.lines = wrapLabel(g, n.label, narrow ? 88 : 118);
+      n.lines = wrapLabel(g, n.label, narrow ? 84 : 118);
       n.w = Math.ceil(Math.max(...n.lines.map((l) => g.measureText(l).width)) + 22);
       n.h = Math.ceil(n.lines.length * n.fs * 1.18 + 14);
     }
@@ -551,37 +551,56 @@
      without forcing them onto straight horizontal or vertical lines.
      Rectangular collision checks keep readable gaps between topic labels. */
   function distributeTopics(nodes, W) {
-    const H = W >= 1080 ? 700 : W >= 800 ? 750 : W >= 560 ? 900 : W >= 360 ? 1400 : 2050;
-    let seed = 79319;
-    const random = () => {
-      seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0;
-      return seed / 4294967296;
-    };
-    const placed = [];
-    // Place prominent topics first, but preserve node order for rendering.
+    const narrow = W < 560;
+    // Narrow screens: tighter gaps and a height computed from the boxes, so the map is only as tall as it needs to be.
+    const gapX = narrow ? 12 : 32, gapY = narrow ? 14 : 38;
     const ordered = [...nodes].sort((a, b) => b.count - a.count || a.id.localeCompare(b.id));
-    for (const n of ordered) {
-      const marginX = n.w / 2 + 24, marginY = n.h / 2 + 28;
-      let best = null, bestScore = -Infinity;
-      for (let k = 0; k < 220; k++) {
-        const x = marginX + random() * Math.max(0, W - marginX * 2);
-        const y = marginY + random() * Math.max(0, H - marginY * 2);
-        let minGap = Math.min(x - marginX, W - marginX - x, y - marginY, H - marginY - y) * 0.32;
-        let overlaps = 0;
-        for (const p of placed) {
-          const dx = Math.abs(x - p.x) - (n.w + p.w) / 2 - 32;
-          const dy = Math.abs(y - p.y) - (n.h + p.h) / 2 - 38;
-          if (dx < 0 && dy < 0) overlaps += Math.min(-dx, -dy) + 1000;
-          const gap = Math.hypot(Math.max(0, dx), Math.max(0, dy));
-          minGap = Math.min(minGap, gap);
+    const place = (H) => {
+      let seed = 79319;
+      const random = () => {
+        seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0;
+        return seed / 4294967296;
+      };
+      const placed = [];
+      let overlapping = 0;
+      // Place prominent topics first, but preserve node order for rendering.
+      for (const n of ordered) {
+        const marginX = n.w / 2 + (narrow ? 10 : 24), marginY = n.h / 2 + (narrow ? 14 : 28);
+        let best = null, bestScore = -Infinity, bestOverlaps = 0;
+        for (let k = 0; k < (narrow ? 700 : 220); k++) {
+          const x = marginX + random() * Math.max(0, W - marginX * 2);
+          const y = marginY + random() * Math.max(0, H - marginY * 2);
+          let minGap = Math.min(x - marginX, W - marginX - x, y - marginY, H - marginY - y) * 0.32;
+          let overlaps = 0;
+          for (const p of placed) {
+            const dx = Math.abs(x - p.x) - (n.w + p.w) / 2 - gapX;
+            const dy = Math.abs(y - p.y) - (n.h + p.h) / 2 - gapY;
+            if (dx < 0 && dy < 0) overlaps += Math.min(-dx, -dy) + 1000;
+            const gap = Math.hypot(Math.max(0, dx), Math.max(0, dy));
+            minGap = Math.min(minGap, gap);
+          }
+          // Gentle randomness stops max-spacing selection from looking like a lattice.
+          const score = minGap + random() * 35 - overlaps;
+          if (score > bestScore) { bestScore = score; best = { x, y }; bestOverlaps = overlaps; }
         }
-        // Gentle randomness stops max-spacing selection from looking like a lattice.
-        const score = minGap + random() * 35 - overlaps;
-        if (score > bestScore) { bestScore = score; best = { x, y }; }
+        n.x = n.baseX = best.x;
+        n.y = n.baseY = best.y;
+        if (bestOverlaps) overlapping++;
+        placed.push(n);
       }
-      n.x = n.baseX = best.x;
-      n.y = n.baseY = best.y;
-      placed.push(n);
+      return overlapping;
+    };
+    if (!narrow) {
+      const H = W >= 1080 ? 700 : W >= 800 ? 750 : 900;
+      place(H);
+      return H;
+    }
+    // Start from the box area plus ~45% slack, then grow in small steps until no two boxes collide.
+    const area = nodes.reduce((sum, n) => sum + (n.w + gapX) * (n.h + gapY), 0);
+    let H = Math.max(360, Math.round(area * 1.45 / W));
+    for (let attempt = 0; attempt < 40; attempt++) {
+      if (place(H) === 0) break;
+      H = Math.round(H * 1.03);
     }
     return H;
   }
@@ -628,8 +647,9 @@
           // Drift speed is 15% quicker than before; motion remains small
           // relative to the padded separation between boxes.
           const phase = i * 2.39996;
-          const amplitudeX = 7 * (0.75 + (i % 5) * 0.125);
-          const amplitudeY = 6 * (0.75 + ((i * 3) % 5) * 0.125);
+          const drift = lastW < 560 ? 0.4 : 1;   // narrow screens use tighter gaps, so float less
+          const amplitudeX = 7 * drift * (0.75 + (i % 5) * 0.125);
+          const amplitudeY = 6 * drift * (0.75 + ((i * 3) % 5) * 0.125);
           n.x = n.baseX + (active ? amplitudeX * Math.sin(elapsedSeconds * 1.15 * (0.34 + (i % 4) * 0.055) + phase) : 0);
           n.y = n.baseY + (active ? amplitudeY * Math.cos(elapsedSeconds * 1.15 * (0.27 + (i % 3) * 0.045) + phase) : 0);
         });
