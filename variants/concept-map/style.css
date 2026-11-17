@@ -141,7 +141,6 @@ button { cursor: pointer; }
 }
 .hero-grid { display: grid; gap: clamp(28px, 4vw, 52px); }
 .hero-lede { font-size: clamp(1.1rem, 1.7vw, 1.3rem); line-height: 1.6; max-width: 78ch; margin: 0 0 12px; }
-.hero-logo { width: min(100%, 1000px); height: auto; object-fit: contain; }
 .hero-place { font-family: var(--font-ui); color: var(--ink-soft); margin: 0; font-weight: 500; }
 .map-wrap { min-width: 0; }
 .map { width: 100%; }
@@ -347,3 +346,26 @@ button { cursor: pointer; }
 
 /* Funder follows project heading, secondary to the research title. */
 .about-project .project-funder { font-family: var(--font-ui); font-size: .75em; font-style: italic; font-weight: 450; color: var(--ink-soft); white-space: normal; }
+
+/* Hero lockup: logo mark and text are separate elements so they reflow on narrow screens. */
+.hero-lockup {
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: clamp(16px, 3vw, 36px); margin-bottom: clamp(16px, 2.4vw, 28px);
+}
+.hero-logo { flex: none; width: clamp(128px, 16vw, 188px); height: auto; }
+.hero-lockup-text {
+  flex: 1 1 18rem; min-width: 0;
+  padding-left: clamp(16px, 3vw, 36px); border-left: 2px solid color-mix(in srgb, var(--ink) 55%, transparent);
+}
+.hero-lockup .hero-title { margin: 0 0 clamp(8px, 1.2vw, 14px); font-size: clamp(2rem, 4.6vw, 3.6rem); }
+.hero-tagline {
+  display: flex; flex-wrap: wrap; column-gap: .6em; row-gap: .15em; margin: 0;
+  font-family: var(--font-ui); font-weight: 500; color: var(--ink-soft); font-size: clamp(.95rem, 1.7vw, 1.3rem);
+}
+.hero-tagline-item + .hero-tagline-item::before { content: "\2022"; margin-right: .6em; }
+@media (max-width: 719px) {
+  .hero-lockup { flex-direction: column; align-items: flex-start; }
+  .hero-lockup-text { flex: none; width: 100%; padding-left: 0; border-left: 0; }
+  .hero-tagline { flex-direction: column; }
+  .hero-tagline-item + .hero-tagline-item::before { content: none; }
+}
