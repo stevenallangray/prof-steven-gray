@@ -29,6 +29,8 @@ index.html                   Redirects to the default variant (keeps ?filters an
 - `npm install` once, then `npm run validate` after **every** data edit. It must print `OK`; it also regenerates
   `content/site-content.js`. A stale `site-content.js` means pages opened from disk show old content, and
   GitHub Pages serves it too, so commit the regenerated file with the JSON.
+  Never write `site-content.js` by hand. The `Validate site content` GitHub Action runs the same command on every
+  PR and push to `main`, and fails if the JSON is invalid or `site-content.js` is out of date.
 - Preview: `python3 -m http.server` from the repo root, then open `/variants/concept-map/`. Opening the
   variant's `index.html` directly from disk also works (it falls back to the embedded `site-content.js`).
 
@@ -46,7 +48,9 @@ index.html                   Redirects to the default variant (keeps ?filters an
 - **Ids are permanent** kebab-case; array order is display order. Source typos were kept verbatim.
 - **`role` on people** is displayed text (e.g. "PhD, 2015") and duplicates `degree`/`graduationYear`;
   the validator does not cross-check them.
-- `teaching` is `visible: false` (it was commented out in the original site).
+- The published site shows five sections: Home, About, People, Publications, Software. `research` and `teaching`
+  stay in the data as `visible: false` sections: the validator requires every top-level block to have a
+  `sections[]` entry, so hide a section with `visible: false` instead of deleting its entry.
 
 ## GitHub Pages constraints
 

@@ -46,6 +46,18 @@
       "label": "Software",
       "visible": true,
       "includes": []
+    },
+    {
+      "id": "research",
+      "label": "Research",
+      "visible": false,
+      "includes": []
+    },
+    {
+      "id": "teaching",
+      "label": "Teaching",
+      "visible": false,
+      "includes": []
     }
   ],
   "home": {
