@@ -74,9 +74,11 @@ button { cursor: pointer; }
 .header-inner { height: 100%; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
 .brand {
   font-weight: 700; font-size: 1rem; letter-spacing: -0.01em; color: var(--ink); text-decoration: none;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  display: flex; align-items: center; gap: 10px; min-width: 0;
   opacity: 0; transition: opacity .2s;
 }
+.brand-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.brand-logo { display: none; flex: none; height: 30px; width: auto; }
 .site-header.show-brand .brand { opacity: 1; }
 .nav-list { display: flex; gap: 4px; list-style: none; margin: 0; padding: 0; }
 .nav-link {
@@ -92,6 +94,7 @@ button { cursor: pointer; }
 
 @media (max-width: 759px) {
   .menu-button { display: inline-flex; }
+  .brand-logo { display: block; }
   /* .nav is a clipping window that starts at the header's bottom edge; the list inside slides down from
      -100% to 0, so the menu descends out from under the header and retracts back into it on close.
      To slide from a side instead, use translateX(100%) or translateX(-100%).

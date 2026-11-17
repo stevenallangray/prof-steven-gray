@@ -184,7 +184,10 @@
       if (nav.classList.contains('is-open') && !nav.contains(e.target) && !button.contains(e.target)) closeMenu();
     });
     header.replaceChildren(h('div', { class: 'wrap header-inner' },
-      h('a', { class: 'brand', href: '#home' }, data.meta.labName.full), button, nav));
+      h('a', { class: 'brand', href: '#home' },
+        h('img', { class: 'brand-logo', src: assetUrl('img/plural-intelligence-logo.png'), alt: '', width: 704, height: 456, decoding: 'async' }),
+        h('span', { class: 'brand-name' }, data.meta.labName.full)),
+      button, nav));
 
     const title = $('.hero-title');
     if (title && 'IntersectionObserver' in window) {
